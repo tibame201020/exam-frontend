@@ -15,41 +15,36 @@ export const HOME_SIDE_BAR: Bar = {
   ],
 };
 
-export const DEPOSIT_SIDE_BAR: Bar = {
+export const TEST_SIDE_BAR: Bar = {
   alink: [
     {
       name: 'home',
-      link: 'deposit/home',
-      icon: '',
-    },
-    {
-      name: 'deposit',
-      link: 'deposit/deposit',
+      link: 'test/home',
       icon: '',
     },
   ],
 };
 
-export const CALC_SIDE_BAR: Bar = {
-  alink: [
-    {
-      name: 'config',
-      link: 'calc/config',
-      icon: '',
-    },
-  ],
-};
-
-export const CALENDAR_SIDE_BAR: Bar = {
+export const SOLUTION_SIDE_BAR: Bar = {
   alink: [
     {
       name: 'home',
-      link: 'calendar/home',
+      link: 'solution/home',
+      icon: '',
+    }
+  ],
+};
+
+export const EDIT_SIDE_BAR: Bar = {
+  alink: [
+    {
+      name: 'home',
+      link: 'edit/home',
       icon: '',
     },
     {
-      name: 'calendar',
-      link: '/home',
+      name: 'add',
+      link: 'edit/add',
       icon: '',
     },
   ],
@@ -61,11 +56,6 @@ export const SETTING_SIDE_BAR: Bar = {
       name: 'home',
       link: 'setting/home',
       icon: '',
-    },
-    {
-      name: 'setting',
-      link: '/home',
-      icon: '',
-    },
+    }
   ],
 };

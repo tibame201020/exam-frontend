@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import {
-  CALC_SIDE_BAR,
-  CALENDAR_SIDE_BAR,
-  DEPOSIT_SIDE_BAR,
+  TEST_SIDE_BAR,
+  SOLUTION_SIDE_BAR,
+  EDIT_SIDE_BAR,
   HOME_SIDE_BAR,
   SETTING_SIDE_BAR,
 } from '../bars/config/side-bar';
@@ -21,20 +21,19 @@ export class SideBarService {
       case path == '/home':
         return false;
       case path == '/':
-        this.sidebar = DEPOSIT_SIDE_BAR;
+        return false;
+      case path.includes('/test'):
+        this.sidebar = TEST_SIDE_BAR;
         return true;
-      case path.includes('/deposit'):
-        this.sidebar = DEPOSIT_SIDE_BAR;
-        return false;
-      case path.includes('/calc'):
-        this.sidebar = CALC_SIDE_BAR;
-        return false;
-      case path.includes('/calendar'):
-        this.sidebar = CALENDAR_SIDE_BAR;
-        return false;
+      case path.includes('/solution'):
+        this.sidebar = SOLUTION_SIDE_BAR;
+        return true;
+      case path.includes('/edit'):
+        this.sidebar = EDIT_SIDE_BAR;
+        return true;
       case path.includes('/setting'):
         this.sidebar = SETTING_SIDE_BAR;
-        return false;
+        return true;
       default:
         return false;
     }
