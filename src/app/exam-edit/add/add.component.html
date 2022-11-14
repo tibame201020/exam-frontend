@@ -1,1 +1,41 @@
-<p>add works!</p>
+<br>
+<div class="container loginForm">
+    <div class="row">
+        <div class="col">
+            <form [formGroup]="formGroup" (submit)="addExam(formGroup)">
+
+                <div class="form-group has-feedback">
+                    <input type="text" class="form-control form-input" formControlName="name"
+                        placeholder="please enter the exam-name" required>
+                    <span class="glyphicon form-control-feedback"
+                        *ngIf="formGroup.controls['name'].invalid && (formGroup.controls['name'].dirty || formGroup.controls['name'].touched)">
+                        <span *ngIf="formGroup.controls['name'].errors">
+                            <pre *ngIf="formGroup.controls['name'].errors['required']"> the exam-name is required </pre>
+                        </span>
+                    </span>
+                </div>
+
+                <div *ngIf="!formGroup.valid || !this.quizzes.length">
+                    <button id="requiredMsg" type="submit" class="btn btn-default submit" [disabled]="true">plz check
+                        the all  required fileds</button>
+                </div>
+
+                <div *ngIf="formGroup.valid && this.quizzes.length">
+                    <button id="submit" type="submit" class="btn btn-default submit" [disabled]="!formGroup.valid">add
+                        event</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col">
+            <div>
+                <button type="button" class="btn btn-light" (click)="this.openQuizFormDialog()">add quiz</button>
+                |
+                total quizzes : {{this.quizzes.length}}
+            </div>
+        </div>
+    </div>
+</div>
