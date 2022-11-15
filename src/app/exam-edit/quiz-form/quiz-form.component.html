@@ -1,0 +1,92 @@
+<form [formGroup]="formGroup" (submit)="addQuiz(formGroup)">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+
+        <div class="form-group has-feedback">
+          <textarea class="form-control" id="quizContent" rows="3" formControlName="quizContent" placeholder="add quiz-content"></textarea>
+          <span class="glyphicon form-control-feedback"
+            *ngIf="formGroup.controls['quizContent'].invalid && (formGroup.controls['quizContent'].dirty || formGroup.controls['quizContent'].touched)">
+            <span *ngIf="formGroup.controls['quizContent'].errors">
+              <pre *ngIf="formGroup.controls['quizContent'].errors['required']"> the quizContent is required </pre>
+            </span>
+          </span>
+        </div>
+
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-2">
+        <button type="button" class="btn btn-warning" (click)="addTempSelectToSelects()">add select-option</button>
+      </div>
+      <div class="col">
+        <textarea class="form-control" placeholder="add select options" formControlName="tempSelect" rows="1"> </textarea>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-2">
+        <button type="button" class="btn btn-danger" (click)="this.removeSelectFromChooses()">remove option</button>
+      </div>
+      <div class="col">
+        <select name="chooses" class="form-control" formControlName="removeSelect">
+          <option *ngFor="let select of this.selectsArray" [ngValue]="select">
+            {{ select }}
+          </option>
+        </select>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col">
+        <div class="form-group has-feedback">
+          <select multiple name="chooses" formControlName="correctContents" class="form-control">
+            <option *ngFor="let select of this.selectsArray" [ngValue]="select">
+              {{ select }}
+            </option>
+          </select>
+          <span class="glyphicon form-control-feedback"
+            *ngIf="formGroup.controls['correctContents'].invalid && (formGroup.controls['correctContents'].dirty || formGroup.controls['correctContents'].touched)">
+            <span *ngIf="formGroup.controls['correctContents'].errors">
+              <pre
+                *ngIf="formGroup.controls['correctContents'].errors['required']"> the correct-options are required choose </pre>
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col">
+
+        <div class="form-group has-feedback">
+          <textarea class="form-control" id="solution" rows="2" formControlName="solution" placeholder="add quiz-solution"></textarea>
+          <span class="glyphicon form-control-feedback"
+            *ngIf="formGroup.controls['solution'].invalid && (formGroup.controls['solution'].dirty || formGroup.controls['solution'].touched)">
+            <span *ngIf="formGroup.controls['solution'].errors">
+              <pre *ngIf="formGroup.controls['solution'].errors['required']"> the solution is required </pre>
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div *ngIf="!formGroup.valid">
+          <button id="requiredMsg" type="submit" class="btn btn-default submit" [disabled]="true">plz check
+            the all required fileds</button>
+        </div>
+
+        <div *ngIf="formGroup.valid">
+          <button *ngIf="!this.data" id="submit" type="submit" class="btn btn-default submit" [disabled]="!formGroup.valid">add
+            quiz</button>
+          <button *ngIf="this.data" id="submit" type="submit" class="btn btn-default submit" [disabled]="!formGroup.valid">save
+            quiz</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</form>
