@@ -114,3 +114,18 @@ pre {
 .valid {
   color: 	#01B468;
 }
+
+.correctAns{
+	border-color: #4cbd38;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 5px;
+}
+.quizContent{
+	border-color: skyblue !important;
+	border-width: 2px !important;
+	border-style: solid!important;
+}
+.material-icons{
+	cursor: pointer;
+}

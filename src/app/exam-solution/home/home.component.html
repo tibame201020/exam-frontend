@@ -1,1 +1,17 @@
-<p>sol-home works!</p>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <input type="text" class="form-control form-input" placeholder="please enter the exam-name" [(ngModel)]="this.keyword">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <hr>
+        </div>
+    </div>
+    <div class="row" *ngIf="this.getExamByKeyWord().length">
+        <div class="col-2" *ngFor="let exam of this.getExamByKeyWord()">
+            <mat-card (click)="guideToSolution(exam)">{{exam}}</mat-card>
+        </div>
+    </div>
+</div>
