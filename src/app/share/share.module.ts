@@ -8,6 +8,8 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { CommonModule } from '@angular/common';
 import { NgxEchartsModule } from 'ngx-echarts';
 import { AngularMaterialModule } from './angular-material.module';
+import { QuizContentComponent } from './quiz-content/quiz-content.component';
+import { ChooseWrapperComponent } from './choose-wrapper/choose-wrapper.component';
 
 @NgModule({
   imports: [
@@ -21,6 +23,8 @@ import { AngularMaterialModule } from './angular-material.module';
     }),
   ],
   declarations: [
+    QuizContentComponent,
+    ChooseWrapperComponent
   ],
   exports: [
     CommonModule,
@@ -30,7 +34,9 @@ import { AngularMaterialModule } from './angular-material.module';
     HttpClientModule,
     ReactiveFormsModule,
     FlexLayoutModule,
-    AngularMaterialModule
+    AngularMaterialModule,
+    QuizContentComponent,
+    ChooseWrapperComponent
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })

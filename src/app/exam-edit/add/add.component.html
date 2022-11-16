@@ -53,13 +53,11 @@
                 <div class="col">
                     <mat-card class="quiz-card">
                         <mat-card-subtitle>
-                            <textarea class="form-control quizContent" disabled
-                                contenteditable>{{quiz.quizContent}}</textarea>
+                            <div><pre class="form-control quizContent">{{quiz.quizContent}}</pre></div>
                         </mat-card-subtitle>
                         <mat-card-content>
                             <div *ngFor="let choose of quiz.chooses">
-                                <div [ngClass]="{'correctAns': this.isCorrectAns(choose, quiz.correctContents)}">
-                                    {{choose}}</div>
+                                <pre [ngClass]="{'valid': this.isCorrectAns(choose, quiz.correctContents), 'unvalid': !this.isCorrectAns(choose, quiz.correctContents)}">{{choose}}</pre>
                             </div>
                         </mat-card-content>
                     </mat-card>
