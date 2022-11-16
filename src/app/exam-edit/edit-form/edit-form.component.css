@@ -88,7 +88,6 @@ a:hover {
 
 .loginForm .form-control {
     background-color: transparent;
-    border-bottom: 2px solid #32797c;
     border-radius: 0;
     padding-left: 0;
 }
@@ -143,6 +142,10 @@ pre {
     color: #01B468;
 }
 
+.unvalid {
+    color: black
+}
+
 .correctAns {
     border-color: #4cbd38;
     border-width: 1px;
@@ -151,9 +154,10 @@ pre {
 }
 
 .quizContent {
-    border-color: skyblue !important;
-    border-width: 2px !important;
     border-style: solid !important;
+    height: auto;
+    display: inline-block !important;
+    display: inline;
 }
 
 .material-icons {
