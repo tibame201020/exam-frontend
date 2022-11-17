@@ -132,3 +132,6 @@ pre {
 .material-icons{
 	cursor: pointer;
 }
+.examName {
+	border-bottom: 2px solid #32797c;
+}

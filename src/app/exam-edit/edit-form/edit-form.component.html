@@ -5,7 +5,7 @@
             <form [formGroup]="formGroup" (submit)="confirmSaveExam(formGroup)">
 
                 <div class="form-group has-feedback">
-                    <input type="text" class="form-control form-input" formControlName="name"
+                    <input type="text" class="form-control form-input examName" formControlName="name"
                         placeholder="please enter the exam-name" required readonly>
                     <span class="glyphicon form-control-feedback"
                         *ngIf="formGroup.controls['name'].invalid && (formGroup.controls['name'].dirty || formGroup.controls['name'].touched)">
@@ -15,7 +15,6 @@
                         </span>
                     </span>
                 </div>
-
                 <div *ngIf="!formGroup.valid || !this.quizzes.length">
                     <button id="requiredMsg" type="submit" class="btn btn-default submit" [disabled]="true">the exam needs atleast one quiz</button>
                 </div>

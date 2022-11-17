@@ -9,3 +9,25 @@ export interface Quiz {
   correctContents: string[];
   solution: string;
 }
+
+export interface ExamModeParam {
+  name: string;
+  quizzesNum:number;
+}
+
+export interface ExamRecord {
+  id:number;
+  examName:string;
+  examQuizzes: Quiz[];
+  ansQuizzes: Quiz[];
+  logTime:Date;
+}
+
+export interface ExamRecordScore {
+  id: number;
+  examName: string;
+  correctNums: number;
+  quizNums: number;
+  score: string;
+  logTime: Date;
+}

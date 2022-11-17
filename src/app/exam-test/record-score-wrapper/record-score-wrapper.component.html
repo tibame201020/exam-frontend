@@ -1,0 +1,25 @@
+<mat-card>
+    <content>
+        <div class="container-fluid examRecord" (click)="guideToResult()">
+
+            <div class="row">
+                <div class="col-9">
+                    <div class="row">
+                        <div class="col">ExamName : {{this.examRecordScore.examName}}</div>
+                    </div>
+                    <div class="row">
+                        <div class="col">Score : {{this.examRecordScore.score}}</div>
+                    </div>
+                    <div class="row">
+                        <div class="col">TestTime : {{this.examRecordScore.logTime | date:'medium'}}</div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <button type="button" class="btn btn-danger"
+                        (click)="deleteExamRecord(this.examRecordScore)">remove</button>
+                </div>
+            </div>
+        </div>
+    </content>
+</mat-card>
+<br>

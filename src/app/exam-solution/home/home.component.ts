@@ -1,6 +1,6 @@
-import { Component, OnInit, SimpleChanges } from '@angular/core';
+import { Component, OnInit, } from '@angular/core';
 import { ExamService } from 'src/app/services/exam.service';
-import { FormBuilder, FormGroup, Validators, ValidationErrors, FormControl } from '@angular/forms';
+import { FormBuilder, FormGroup, } from '@angular/forms';
 import { Exam } from 'src/app/model/exam';
 
 @Component({

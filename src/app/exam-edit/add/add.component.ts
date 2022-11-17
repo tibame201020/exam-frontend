@@ -28,12 +28,6 @@ export class AddComponent implements OnInit {
     this.formGroup = this.formBuilder.group({
       name:['', Validators.required, this.examNameValidator.validate.bind(this.examNameValidator)]
     })
-
-    let quiz = { "quizContent": "public class Test {\n \n static String[][] arr = new String[3][];\n \n private static void doPrint() {\n //insert code here\n }\n \n public static void main(String[] args) {\n String[] class1 = {\"A\", \"B\", \"C\"};\n String[] class2 = {\"L\", \"M\", \"N\", \"O\"};\n String[] class3 = {\"I\", \"J\"};\n arr[0] = class1;\n arr[1] = class2;\n arr[2] = class3;\n Test.doPrint();\n }\n}\nWhich code fragment, when inserted at line //insert code here, enables the code to print COJ?", "chooses": ["int i = 0;\nfor (String[] sub : arr) {\n int j = sub.length - 1;\n for (String str : sub) {\n System.out.println(str[j]);\n i++;\n }\n}", "for (int i = 0; i < arr.length; i++) {\n int j = arr[i].length - 1;\n System.out.print(arr[i][j]);\n}", "int i = 0;\nfor (String[] sub : arr[][]) {\n int j = sub.length;\n System.out.print(arr[i][j]);\n i++;\n}", "for (int i = 0; i < arr.length - 1; i++) {\n int j = arr[i].length - 1;\n System.out.print(arr[i][j]);\n i++;\n}"], "correctContents": ["for (int i = 0; i < arr.length; i++) {\n int j = arr[i].length - 1;\n System.out.print(arr[i][j]);\n}"], "solution": "選項A，第10行會編譯錯誤，因為str變數的型態不是陣列。\n\n選項B，輸出二維陣列每個一維陣列元素的最後一個元素，正好是「COJ」。\n\n選項C，第7行會編譯錯誤，錯誤的foreach用法。\n\n選項D，只會輸出「C」。" } 
-    this.quizzes.unshift(quiz)
-    this.quizzes.unshift(quiz)
-    this.quizzes.unshift(quiz)
-    this.quizzes.unshift(quiz)
   }
 
   confirmAddExam(formGroup: FormGroup) {
