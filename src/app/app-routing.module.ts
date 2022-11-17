@@ -10,6 +10,7 @@ const routes: Routes = [
   { path: 'solution', children: SolutionRouter },
   { path: 'edit', children: EditRouter },
   { path: 'setting', children: SettingRouter },
+  {path:'', redirectTo:"/test/home", pathMatch: 'full'}
 ];
 
 @NgModule({
