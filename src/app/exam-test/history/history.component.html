@@ -1,0 +1,21 @@
+<form [formGroup]="formGroup">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <input type="text" class="form-control form-input" placeholder="please enter the exam-name"
+                    formControlName="keyword">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <hr>
+            </div>
+        </div>
+        <div class="row" *ngIf="this.examRecordScores.length">
+            <div class="col-4" *ngFor="let examRecordScore of this.examRecordScores">
+                <app-record-score-wrapper [examRecordScore]="examRecordScore" (newItemEvent)="refreshList($event)"></app-record-score-wrapper>
+            </div>
+        </div>
+
+    </div>
+</form>

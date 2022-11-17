@@ -22,6 +22,11 @@ export const TEST_SIDE_BAR: Bar = {
       link: 'test/home',
       icon: '',
     },
+    {
+      name: 'histroy',
+      link: 'test/record-history',
+      icon: '',
+    },
   ],
 };
 

@@ -17,10 +17,5 @@ export const HEADER: Bar = {
       link: '/edit',
       icon: 'token',
     },
-    {
-      name: 'Setting',
-      link: '/setting',
-      icon: 'settings',
-    },
   ],
 };

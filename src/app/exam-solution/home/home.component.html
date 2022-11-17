@@ -23,10 +23,11 @@
                 <div class="row">
                     <div class="col">
                         <app-quiz-content [quizContent]="quiz.quizContent" [isQuizContent]="true"></app-quiz-content>
+                        <hr>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col" *ngFor="let choose of quiz.chooses">
+                    <div class="col-12" *ngFor="let choose of quiz.chooses">
                         <app-choose-wrapper [choose]="choose" [isCorrect]="this.isCorrectAns(choose, quiz.correctContents)"></app-choose-wrapper>
                     </div>
                 </div>

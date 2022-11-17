@@ -22,12 +22,13 @@ export class SideBarService {
         return false;
       case path == '/':
         return false;
+      case path == '/test/exam':
+        return false;
       case path.includes('/test'):
         this.sidebar = TEST_SIDE_BAR;
         return true;
       case path.includes('/solution'):
-        this.sidebar = SOLUTION_SIDE_BAR;
-        return true;
+        return false;
       case path.includes('/edit'):
         this.sidebar = EDIT_SIDE_BAR;
         return true;
