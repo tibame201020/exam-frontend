@@ -1,9 +1,9 @@
 <mat-card>
     <content>
-        <div class="container-fluid examRecord" (click)="guideToResult()">
+        <div class="container-fluid examRecord">
 
             <div class="row">
-                <div class="col-9">
+                <div class="col-9" (click)="guideToResult()">
                     <div class="row">
                         <div class="col">ExamName : {{this.examRecordScore.examName}}</div>
                     </div>
@@ -16,7 +16,7 @@
                 </div>
                 <div class="col-3">
                     <button type="button" class="btn btn-danger"
-                        (click)="deleteExamRecord(this.examRecordScore)">remove</button>
+                        (click)="deleteExamRecord(this.examRecordScore)" style="z-index: 999;">remove</button>
                 </div>
             </div>
         </div>
