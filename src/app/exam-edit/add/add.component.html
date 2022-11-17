@@ -31,6 +31,13 @@
     </div>
     <hr>
     <div class="row">
+      <div class="col-12">
+          <input style="display: none" type="file" (change)="onFileChanged($event)" #fileInput>
+          <button type="button" class="btn btn-info" (click)="fileInput.click()">Select File</button> |
+          <button type="button" class="btn btn-danger" (click)="openWrapperDialog()">wrapper</button>
+      </div>
+  </div>
+    <div class="row">
         <div class="col">
             <div>
                 <button type="button" class="btn btn-light" (click)="this.openQuizFormDialog()">add quiz</button>

@@ -10,6 +10,7 @@ import { NgxEchartsModule } from 'ngx-echarts';
 import { AngularMaterialModule } from './angular-material.module';
 import { QuizContentComponent } from './quiz-content/quiz-content.component';
 import { ChooseWrapperComponent } from './choose-wrapper/choose-wrapper.component';
+import { TransSignComponent } from './trans-sign/trans-sign.component';
 
 @NgModule({
   imports: [
@@ -24,7 +25,8 @@ import { ChooseWrapperComponent } from './choose-wrapper/choose-wrapper.componen
   ],
   declarations: [
     QuizContentComponent,
-    ChooseWrapperComponent
+    ChooseWrapperComponent,
+    TransSignComponent
   ],
   exports: [
     CommonModule,
@@ -36,7 +38,8 @@ import { ChooseWrapperComponent } from './choose-wrapper/choose-wrapper.componen
     FlexLayoutModule,
     AngularMaterialModule,
     QuizContentComponent,
-    ChooseWrapperComponent
+    ChooseWrapperComponent,
+    TransSignComponent
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
