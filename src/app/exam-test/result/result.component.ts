@@ -13,6 +13,10 @@ import { ExamRecordScore, Quiz } from 'src/app/model/exam';
 export class ResultComponent implements OnInit {
 
   examRecord!:any;
+  base_examQuizzes:any=[];
+  base_ansQuizzes:any=[];
+  examQuizzes:Quiz[]=[];
+  ansQuizzes:Quiz[]=[];
 
   examRecordScore:ExamRecordScore = {
     id: 0,
@@ -32,6 +36,8 @@ export class ResultComponent implements OnInit {
   ngOnInit(): void {
     this.getRecord();
     if (this.examRecord) {
+      this.base_examQuizzes=this.examRecord.examQuizzes;
+      this.base_ansQuizzes=this.examRecord.ansQuizzes;
       this.getExamRecordScore();
     }
   }
@@ -69,7 +75,7 @@ export class ResultComponent implements OnInit {
   }
 
   isChooseAns(select: string, quizIdx:number) {
-    let userChooseList = this.examRecord.ansQuizzes[quizIdx].correctContents;
+    let userChooseList = this.ansQuizzes[quizIdx].correctContents;
     return userChooseList.includes(select);
   }
 
@@ -98,13 +104,19 @@ export class ResultComponent implements OnInit {
 
   wrapperList() {
     let rtn:Quiz[] = [];
+    this.examQuizzes = [];
+    this.ansQuizzes = [];
     switch (this.formGroup.value.visiable) {
       case 'all' :
+        this.examQuizzes = this.base_examQuizzes;
+        this.ansQuizzes = this.base_ansQuizzes;
         rtn = this.examRecord.examQuizzes;
         break;
       case 'unCorrect':
         this.examRecord.examQuizzes.forEach( (quiz: Quiz, index:number) => {
           if (!this.isCorrectAnsChoose(index)) {
+            this.examQuizzes.push(quiz)
+            this.ansQuizzes.push(this.base_ansQuizzes[index]);
             rtn.push(quiz)
           }
         })
@@ -112,6 +124,8 @@ export class ResultComponent implements OnInit {
       case 'correct':
         this.examRecord.examQuizzes.forEach((quiz: Quiz, index: number) => {
           if (this.isCorrectAnsChoose(index)) {
+            this.examQuizzes.push(quiz)
+            this.ansQuizzes.push(this.base_ansQuizzes[index]);
             rtn.push(quiz)
           }
         })

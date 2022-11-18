@@ -24,6 +24,10 @@ export class SideBarService {
         return false;
       case path == '/test/exam':
         return false;
+      case path == '/test/result':
+          return false;
+      case path.includes('result'):
+          return false;
       case path.includes('/test'):
         this.sidebar = TEST_SIDE_BAR;
         return true;
