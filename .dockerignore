@@ -1,0 +1,3 @@
+# 告訴docker不要把以下資料夾send到build context
+node_modules
+dist
