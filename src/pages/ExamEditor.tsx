@@ -238,32 +238,33 @@ const ExamEditor = () => {
 
     if (loading) return (
         <div className="flex flex-col items-center justify-center min-h-[60vh] gap-6">
-            <span className="loading loading-spinner loading-lg text-indigo-600"></span>
-            <p className="font-bold text-slate-800 tracking-tight">Accessing Repository...</p>
+            <span className="loading loading-spinner loading-lg text-primary"></span>
+            <p className="font-bold text-base-content tracking-tight">Syncing Editor State...</p>
         </div>
     );
 
     const virtualItems = virtualizer.getVirtualItems();
+    const allValid = exam.quizzes.length > 0 && exam.quizzes.every(q => q.correctContents.length > 0);
 
     return (
         <div className="max-w-7xl mx-auto space-y-10 fade-in">
             {/* Command Bar */}
-            <div className="bg-white p-6 rounded-2xl shadow-xl border border-slate-200 flex flex-col xl:flex-row justify-between items-center gap-6 sticky top-0 z-40 border-b-indigo-400">
+            <div className="bg-base-100 p-6 rounded-2xl shadow-xl border border-base-300 flex flex-col xl:flex-row justify-between items-center gap-6 sticky top-0 z-40 shadow-primary/5">
                 <div className="flex items-center gap-4">
-                    <button onClick={() => navigate('/management')} className="btn btn-ghost btn-circle border-slate-200">
+                    <button onClick={() => navigate('/management')} className="btn btn-ghost btn-circle border-base-300">
                         <ArrowLeft size={20} />
                     </button>
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className={`${isNew ? 'bg-indigo-600' : 'bg-slate-800'} text-[10px] font-black text-white uppercase tracking-[0.2em] px-3 py-1 rounded-md`}>
+                            <span className={`${isNew ? 'bg-primary' : 'bg-neutral'} text-[10px] font-black text-primary-content uppercase tracking-[0.2em] px-3 py-1 rounded-md`}>
                                 {isNew ? 'New Schema' : 'Drafting'}
                             </span>
-                            <span className="text-slate-300">/</span>
-                            <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{name || 'Unidentified'}</span>
+                            <span className="text-base-content/20">/</span>
+                            <span className="text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em]">{name || 'Unidentified'}</span>
                         </div>
                         <input
                             type="text"
-                            className="text-2xl font-black text-slate-800 tracking-tight bg-transparent border-none focus:outline-none focus:ring-0 placeholder:opacity-20 max-w-sm"
+                            className="text-2xl font-black text-base-content tracking-tight bg-transparent border-none focus:outline-none focus:ring-0 placeholder:opacity-20 max-w-sm"
                             placeholder="Set Module Identifier..."
                             value={exam.name}
                             onChange={(e) => setExam({ ...exam, name: e.target.value })}
@@ -280,17 +281,18 @@ const ExamEditor = () => {
                             value={searchTerm}
                             onChange={(e) => setSearchTerm(e.target.value)}
                         />
-                        <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-300 group-focus-within:text-indigo-500 transition-colors" />
+                        <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-base-content/30 group-focus-within:text-primary transition-colors" />
                     </div>
 
-                    <button onClick={handleExport} className="pro-btn border-slate-200 h-11 flex-1 xl:flex-none gap-2 hover:bg-slate-50">
-                        <Download size={16} /> Export Legacy
+                    <label className="pro-btn border-base-300 cursor-pointer gap-2">
+                        <Upload size={16} /> <span className="hidden sm:inline">Import Matrix</span>
+                        <input type="file" className="hidden" accept=".txt" onChange={handleFileUpload} />
+                    </label>
+                    <button onClick={handleExport} className="pro-btn border-base-300 gap-2">
+                        <Download size={16} /> <span className="hidden sm:inline">Export Blob</span>
                     </button>
-                    <button onClick={() => fileInputRef.current?.click()} className="pro-btn border-slate-200 h-11 flex-1 xl:flex-none gap-2">
-                        <Upload size={16} /> Legacy Import
-                    </button>
-                    <button onClick={handleSave} className="pro-btn btn-primary h-11 px-8 flex-1 xl:flex-none gap-3 shadow-lg shadow-indigo-200">
-                        <Save size={18} /> Sync Metadata
+                    <button onClick={handleSave} className="pro-btn btn-primary px-10 gap-2 shadow-lg shadow-primary/20">
+                        <Save size={16} /> Save Changes
                     </button>
                     <input ref={fileInputRef} type="file" className="hidden" accept=".json,.txt" onChange={handleFileUpload} />
                 </div>
@@ -300,26 +302,32 @@ const ExamEditor = () => {
                 {/* Information Sidebar */}
                 <div className="lg:col-span-3 space-y-6 lg:sticky lg:top-32">
                     <div className="pro-card p-6 space-y-6">
-                        <h3 className="text-xs font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                        <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest flex items-center gap-2">
                             <Database size={14} /> Repository Stats
                         </h3>
                         <div className="grid grid-cols-2 gap-4">
-                            <div className="bg-slate-50 p-4 rounded-xl border border-slate-100">
-                                <span className="text-[10px] font-black uppercase text-slate-400 block mb-1">Definitions</span>
-                                <span className="text-2xl font-black text-indigo-600 leading-none">{exam.quizzes.length}</span>
+                            <div className="bg-base-200 p-4 rounded-xl border border-base-300">
+                                <span className="text-[10px] font-black uppercase text-base-content/40 block mb-1">Definitions</span>
+                                <span className="text-2xl font-black text-primary leading-none">{exam.quizzes.length}</span>
                             </div>
-                            <div className="bg-slate-50 p-4 rounded-xl border border-slate-100">
-                                <span className="text-[10px] font-black uppercase text-slate-400 block mb-1">Matched</span>
-                                <span className="text-2xl font-black text-slate-800 leading-none">{filteredQuizzes.length}</span>
+                            <div className="bg-base-200 p-4 rounded-xl border border-base-300">
+                                <span className="text-[10px] font-black uppercase text-base-content/40 block mb-1">Matched</span>
+                                <span className="text-2xl font-black text-base-content leading-none">{filteredQuizzes.length}</span>
                             </div>
                         </div>
 
-                        <div className="pt-4 border-t border-slate-100">
+                        <div className="pt-4 border-t border-base-300">
+                            <div className="flex justify-between items-center mb-4">
+                                <span className="text-[10px] font-black text-base-content/40 uppercase tracking-widest">Integrity</span>
+                                <span className={`text-[10px] font-black uppercase tracking-widest ${allValid ? 'text-success' : 'text-error'}`}>
+                                    {allValid ? 'Verified' : 'Incomplete'}
+                                </span>
+                            </div>
                             <button
                                 onClick={handleAddQuiz}
-                                className="w-full h-12 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold flex items-center justify-center gap-2 transition-all active:scale-95 shadow-lg group"
+                                className="w-full h-12 rounded-xl bg-neutral hover:bg-neutral/80 text-neutral-content font-bold flex items-center justify-center gap-2 transition-all active:scale-95 shadow-lg group"
                             >
-                                <div className="p-1 bg-white/10 rounded-md group-hover:scale-110 transition-transform">
+                                <div className="p-1 bg-neutral-content/10 rounded-md group-hover:scale-110 transition-transform">
                                     <Plus size={16} />
                                 </div>
                                 Append Definition
@@ -327,10 +335,10 @@ const ExamEditor = () => {
                         </div>
                     </div>
 
-                    <div className="p-6 bg-indigo-50/50 rounded-2xl border border-dashed border-indigo-200 space-y-4">
+                    <div className="p-6 bg-primary/5 rounded-2xl border border-dashed border-primary/20 space-y-4">
                         <div className="flex items-center gap-3">
-                            <Layers className="text-indigo-400" size={20} />
-                            <span className="text-xs font-black text-indigo-700 uppercase tracking-widest">Protocol Rules</span>
+                            <Layers className="text-primary/40" size={20} />
+                            <span className="text-xs font-black text-primary/70 uppercase tracking-widest">Protocol Rules</span>
                         </div>
                         <ul className="space-y-3">
                             {[
@@ -339,8 +347,8 @@ const ExamEditor = () => {
                                 "1+ Answer required per set",
                                 "Explanation field is advisory"
                             ].map((rule, idx) => (
-                                <li key={idx} className="flex items-center gap-3 text-[10px] font-bold text-slate-500">
-                                    <div className="w-1 h-1 bg-indigo-400 rounded-full"></div> {rule}
+                                <li key={idx} className="flex items-center gap-3 text-[10px] font-bold text-base-content/40">
+                                    <div className="w-1.5 h-1.5 bg-primary/30 rounded-full"></div> {rule}
                                 </li>
                             ))}
                         </ul>
@@ -371,14 +379,14 @@ const ExamEditor = () => {
                         })
                     ) : (
                         <div className="text-center py-40 pro-card space-y-4">
-                            <div className="w-20 h-20 bg-slate-50 rounded-full flex items-center justify-center mx-auto text-slate-200 border border-slate-200">
+                            <div className="w-20 h-20 bg-base-200 rounded-full flex items-center justify-center mx-auto text-base-content/20 border border-base-300">
                                 <FileText size={40} />
                             </div>
                             <div className="space-y-1">
-                                <p className="text-slate-800 font-black tracking-tight text-xl">Repository Void</p>
-                                <p className="text-slate-400 text-sm font-medium">No definitions currently reside in this module schema.</p>
+                                <p className="text-base-content font-black tracking-tight text-xl">Repository Void</p>
+                                <p className="text-base-content/40 text-sm font-medium">No definitions currently reside in this module schema.</p>
                             </div>
-                            <button onClick={handleAddQuiz} className="btn btn-link no-underline text-indigo-600 font-bold gap-2">
+                            <button onClick={handleAddQuiz} className="btn btn-link no-underline text-primary font-bold gap-2">
                                 <Plus size={16} /> Append First Definition
                             </button>
                         </div>

@@ -87,11 +87,11 @@ const History = () => {
             {/* Professional Header */}
             <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-2 border-b border-slate-200">
                 <div className="space-y-1">
-                    <h1 className="text-3xl font-black text-slate-800 tracking-tight flex items-center gap-3">
+                    <h1 className="text-3xl font-black text-base-content tracking-tight flex items-center gap-3">
                         Test History
-                        <BarChart3 className="text-indigo-500" size={24} />
+                        <BarChart3 className="text-primary" size={24} />
                     </h1>
-                    <p className="text-slate-500 text-sm font-medium">Review your historical data and performance metrics.</p>
+                    <p className="text-base-content/50 text-sm font-medium">Review your historical data and performance metrics.</p>
                 </div>
 
                 <div className="relative w-full md:w-80 group">
@@ -102,7 +102,7 @@ const History = () => {
                         value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
                     />
-                    <Filter className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 group-focus-within:text-indigo-500 transition-colors" size={16} />
+                    <Filter className="absolute left-3.5 top-1/2 -translate-y-1/2 text-base-content/30 group-focus-within:text-primary transition-colors" size={16} />
                 </div>
             </div>
 
@@ -129,41 +129,41 @@ const History = () => {
                                 ))
                             ) : records.length === 0 ? (
                                 <tr>
-                                    <td colSpan={6} className="text-center py-32 opacity-30 italic text-slate-400">
-                                        <HistoryIcon size={48} className="mx-auto mb-4" />
+                                    <td colSpan={6} className="text-center py-32 opacity-30 italic text-base-content/40 text-sm">
+                                        <HistoryIcon size={48} className="mx-auto mb-4 opacity-20" />
                                         No performance records found in database.
                                     </td>
                                 </tr>
                             ) : (
                                 records.map((record, idx) => (
-                                    <tr key={record.id} className="hover:bg-slate-50/80 transition-colors group">
-                                        <td className="font-mono text-[10px] text-slate-400 font-bold">{idx + 1}</td>
+                                    <tr key={record.id} className="hover:bg-base-200 transition-colors group">
+                                        <td className="font-mono text-[10px] text-base-content/30 font-bold">{idx + 1}</td>
                                         <td>
                                             <div className="flex items-center gap-3">
-                                                <div className="w-8 h-8 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center font-bold text-xs">
+                                                <div className="w-8 h-8 rounded-lg bg-primary/10 text-primary flex items-center justify-center font-bold text-xs">
                                                     {record.examName.charAt(0)}
                                                 </div>
-                                                <span className="font-bold text-slate-700">{record.examName}</span>
+                                                <span className="font-bold text-base-content/80">{record.examName}</span>
                                             </div>
                                         </td>
                                         <td className="text-center">
-                                            <span className={`text-lg font-black tracking-tighter ${parseFloat(record.score) >= 60 ? 'text-emerald-600' : 'text-rose-600'}`}>
+                                            <span className={`text-lg font-black tracking-tighter ${parseFloat(record.score) >= 60 ? 'text-success' : 'text-error'}`}>
                                                 {record.score}%
                                             </span>
                                         </td>
                                         <td className="text-center">
                                             <div className="flex flex-col items-center gap-1">
-                                                <span className="text-[10px] font-black text-slate-500 uppercase">{record.correctNums} / {record.quizNums}</span>
-                                                <div className="w-20 bg-slate-100 h-1 rounded-full overflow-hidden">
-                                                    <div className="bg-indigo-500 h-full" style={{ width: `${(record.correctNums / record.quizNums) * 100}%` }}></div>
+                                                <span className="text-[10px] font-black text-base-content/30 uppercase">{record.correctNums} / {record.quizNums}</span>
+                                                <div className="w-20 bg-base-300 h-1 rounded-full overflow-hidden">
+                                                    <div className="bg-primary h-full" style={{ width: `${(record.correctNums / record.quizNums) * 100}%` }}></div>
                                                 </div>
                                             </div>
                                         </td>
                                         <td>
-                                            <div className="flex items-center gap-2 text-xs font-medium text-slate-500">
+                                            <div className="flex items-center gap-2 text-xs font-medium text-base-content/50">
                                                 <Calendar size={14} className="opacity-40" />
                                                 {new Date(record.logTime).toLocaleDateString()}
-                                                <span className="text-slate-300 mx-1">|</span>
+                                                <span className="opacity-20 mx-1">|</span>
                                                 <Clock size={14} className="opacity-40" />
                                                 {new Date(record.logTime).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                                             </div>
@@ -172,13 +172,13 @@ const History = () => {
                                             <div className="flex justify-end gap-2 opacity-0 group-hover:opacity-100 transition-opacity">
                                                 <button
                                                     onClick={() => handleViewDetail(record.id)}
-                                                    className="btn btn-ghost btn-sm h-9 px-4 rounded-lg bg-indigo-50 border border-indigo-100 text-indigo-700 hover:bg-indigo-100 gap-2 normal-case font-bold"
+                                                    className="btn btn-ghost btn-sm h-9 px-4 rounded-lg bg-primary/10 border border-primary/20 text-primary hover:bg-primary/20 gap-2 normal-case font-bold"
                                                 >
                                                     Report <ArrowRight size={14} />
                                                 </button>
                                                 <button
                                                     onClick={() => handleDelete(record.id)}
-                                                    className="btn btn-ghost btn-sm btn-square h-9 rounded-lg hover:bg-rose-50 hover:text-rose-600 text-slate-300"
+                                                    className="btn btn-ghost btn-sm btn-square h-9 rounded-lg hover:bg-error/10 hover:text-error text-base-content/20"
                                                 >
                                                     <Trash2 size={16} />
                                                 </button>
@@ -192,16 +192,16 @@ const History = () => {
                 </div>
             </div>
 
-            <div className="flex items-center gap-4 bg-indigo-900 rounded-2xl p-6 text-white shadow-lg overflow-hidden relative">
+            <div className="flex items-center gap-4 bg-neutral text-neutral-content rounded-2xl p-6 shadow-lg overflow-hidden relative">
                 <div className="absolute right-0 top-0 p-8 opacity-10">
                     <BarChart3 size={120} />
                 </div>
-                <div className="p-3 bg-white/10 rounded-xl">
-                    <Info size={24} className="text-indigo-300" />
+                <div className="p-3 bg-neutral-content/10 rounded-xl">
+                    <Info size={24} className="text-primary" />
                 </div>
                 <div>
                     <h3 className="font-bold">Intelligence Insight</h3>
-                    <p className="text-xs text-indigo-300 font-medium">Your historical data is analyzed to provide personalized learning recommendations.</p>
+                    <p className="text-xs opacity-60 font-medium">Your historical data is analyzed to provide personalized learning recommendations.</p>
                 </div>
             </div>
         </div>

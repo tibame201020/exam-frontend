@@ -165,10 +165,10 @@ const ExamMode = () => {
     if (loading) {
         return (
             <div className="flex flex-col items-center justify-center min-h-[60vh] gap-6">
-                <span className="loading loading-spinner loading-lg text-indigo-600"></span>
+                <span className="loading loading-spinner loading-lg text-primary"></span>
                 <div className="text-center space-y-1">
-                    <p className="font-black text-slate-800 text-xl tracking-tight">Initializing Session</p>
-                    <p className="text-slate-400 text-sm font-medium">Validating question banks and preparing metadata...</p>
+                    <p className="font-black text-base-content text-xl tracking-tight">Initializing Session</p>
+                    <p className="text-base-content/40 text-sm font-medium">Validating question banks and preparing metadata...</p>
                 </div>
             </div>
         );
@@ -183,37 +183,37 @@ const ExamMode = () => {
     return (
         <div className="max-w-7xl mx-auto space-y-8 fade-in">
             {/* Professional Command Center */}
-            <div className="bg-white p-6 rounded-2xl shadow-xl border border-slate-200 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-indigo-100/50">
+            <div className="bg-base-100 p-6 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
                 <div className="flex items-center gap-6">
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className="text-[10px] font-black text-indigo-600 uppercase tracking-[0.2em] bg-indigo-50 px-3 py-1 rounded-md">Live Session</span>
-                            <span className="text-slate-300">/</span>
-                            <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">{name}</span>
+                            <span className="text-[10px] font-black text-primary uppercase tracking-[0.2em] bg-primary/10 px-3 py-1 rounded-md">Live Session</span>
+                            <span className="text-base-content/20">/</span>
+                            <span className="text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em]">{name}</span>
                         </div>
-                        <h1 className="text-2xl font-black text-slate-800 tracking-tight flex items-center gap-3">
+                        <h1 className="text-2xl font-black text-base-content tracking-tight flex items-center gap-3">
                             Assessment Panel
                         </h1>
                     </div>
 
-                    <div className="h-12 w-[1px] bg-slate-100 hidden md:block"></div>
+                    <div className="h-12 w-[1px] bg-base-300 hidden md:block"></div>
 
                     <div className="space-y-2 min-w-[200px] hidden sm:block">
-                        <div className="flex justify-between text-[10px] font-black text-slate-400 uppercase tracking-tighter">
+                        <div className="flex justify-between text-[10px] font-black text-base-content/40 uppercase tracking-tighter">
                             <span>Completion Progress</span>
                             <span>{answeredCount} / {totalCount}</span>
                         </div>
-                        <div className="w-full bg-slate-100 h-2 rounded-full overflow-hidden">
-                            <div className="bg-indigo-600 h-full transition-all duration-500 rounded-full" style={{ width: `${progress}%` }}></div>
+                        <div className="w-full bg-base-300 h-2 rounded-full overflow-hidden">
+                            <div className="bg-primary h-full transition-all duration-500 rounded-full" style={{ width: `${progress}%` }}></div>
                         </div>
                     </div>
                 </div>
 
                 <div className="flex gap-3 w-full md:w-auto">
-                    <button onClick={() => navigate('/')} className="pro-btn btn-ghost border-slate-200 gap-2 flex-1 md:flex-none">
+                    <button onClick={() => navigate('/')} className="pro-btn border-base-300 gap-2 flex-1 md:flex-none">
                         <LogOut size={16} /> Quit System
                     </button>
-                    <button onClick={handleCommit} className="pro-btn btn-primary px-10 gap-2 shadow-lg shadow-indigo-200 flex-1 md:flex-none">
+                    <button onClick={handleCommit} className="pro-btn btn-primary px-10 gap-2 shadow-lg shadow-primary/20 flex-1 md:flex-none">
                         <Send size={16} /> Finalize
                     </button>
                 </div>
@@ -224,48 +224,48 @@ const ExamMode = () => {
                 <div className="xl:col-span-1 space-y-6">
                     <div className="pro-card p-6 space-y-6">
                         <div>
-                            <h3 className="text-xs font-black text-slate-400 uppercase tracking-widest mb-4 flex items-center gap-2">
+                            <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest mb-4 flex items-center gap-2">
                                 <Info size={14} /> session metadata
                             </h3>
                             <div className="space-y-4">
-                                <div className="flex items-center justify-between p-4 bg-slate-50 rounded-xl border border-slate-100">
-                                    <span className="text-xs font-bold text-slate-500">Module</span>
-                                    <span className="text-xs font-black text-slate-800 uppercase">{name}</span>
+                                <div className="flex items-center justify-between p-4 bg-base-200 rounded-xl border border-base-300">
+                                    <span className="text-xs font-bold text-base-content/60">Module</span>
+                                    <span className="text-xs font-black text-base-content uppercase">{name}</span>
                                 </div>
-                                <div className="flex items-center justify-between p-4 bg-slate-50 rounded-xl border border-slate-100">
-                                    <span className="text-xs font-bold text-slate-500">Status</span>
-                                    <span className="text-xs font-black text-emerald-600 uppercase flex items-center gap-1">
-                                        <div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-ping"></div>
+                                <div className="flex items-center justify-between p-4 bg-base-200 rounded-xl border border-base-300">
+                                    <span className="text-xs font-bold text-base-content/60">Status</span>
+                                    <span className="text-xs font-black text-success uppercase flex items-center gap-1">
+                                        <div className="w-1.5 h-1.5 bg-success rounded-full animate-ping"></div>
                                         Active
                                     </span>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="pt-4 border-t border-slate-100 space-y-4">
-                            <h3 className="text-xs font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                        <div className="pt-4 border-t border-base-300 space-y-4">
+                            <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest flex items-center gap-2">
                                 <HelpCircle size={14} /> Legend
                             </h3>
                             <div className="space-y-2">
-                                <div className="flex items-center gap-3 text-xs font-medium text-slate-500 px-1">
-                                    <div className="w-3 h-3 rounded-full bg-indigo-600 shadow-sm"></div> Selected
+                                <div className="flex items-center gap-3 text-xs font-medium text-base-content/60 px-1">
+                                    <div className="w-3 h-3 rounded-full bg-primary shadow-sm"></div> Selected
                                 </div>
-                                <div className="flex items-center gap-3 text-xs font-medium text-slate-500 px-1">
-                                    <div className="w-3 h-3 rounded-full bg-amber-200 border border-amber-300"></div> Pending
+                                <div className="flex items-center gap-3 text-xs font-medium text-base-content/60 px-1">
+                                    <div className="w-3 h-3 rounded-full bg-warning/30 border border-warning/50"></div> Pending
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div className="p-6 bg-slate-800 rounded-2xl text-white space-y-4 shadow-xl">
+                    <div className="p-6 bg-neutral text-neutral-content rounded-2xl space-y-4 shadow-xl">
                         <div className="flex items-center gap-3">
-                            <Clock className={timeLeft !== null && timeLeft < 60 ? 'text-rose-400 animate-pulse' : 'text-indigo-400'} size={20} />
+                            <Clock className={timeLeft !== null && timeLeft < 60 ? 'text-error animate-pulse' : 'text-primary'} size={20} />
                             <span className="text-sm font-bold opacity-80 uppercase tracking-widest">Time Tracking</span>
                         </div>
                         <div className="text-2xl font-black font-mono tracking-wider">
                             {timeLeft !== null ? formatTime(timeLeft) : 'UNRESTRICTED'}
                         </div>
-                        <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold">
+                        <p className="text-[10px] uppercase tracking-wider opacity-40 font-bold">
                             {mode === 'exam' ? 'Standard Protocol' : 'Interactive Training'}
                         </p>
                     </div>
