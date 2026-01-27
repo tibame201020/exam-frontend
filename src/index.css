@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: 243 75% 59%;
+    /* Indigo 600 equivalent */
+    --slate-50: 210 40% 98%;
+    --slate-100: 210 40% 96%;
+    --slate-200: 214 32% 91%;
+    --slate-300: 213 27% 84%;
+    --slate-400: 215 20% 65%;
+    --slate-500: 215 16% 47%;
+    --slate-600: 215 19% 35%;
+    --slate-700: 215 25% 27%;
+    --slate-800: 217 33% 17%;
+    --slate-900: 222 47% 11%;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-900;
+    font-family: 'Outfit', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer components {
+  .pro-card {
+    @apply bg-white border border-slate-200 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300;
+  }
+
+  .pro-input {
+    @apply input input-bordered bg-white border-slate-200 focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 rounded-xl transition-all outline-none;
+  }
+
+  .pro-btn {
+    @apply btn rounded-xl font-bold transition-all active:scale-[0.97] border-none px-6;
+  }
+
+  .pro-table {
+    @apply table w-full border-separate border-spacing-0;
+  }
+
+  .pro-table th {
+    @apply bg-slate-50/50 py-4 px-6 text-slate-400 font-black text-[10px] uppercase tracking-[0.2em] border-b border-slate-100;
+  }
+
+  .pro-table td {
+    @apply py-5 px-6 border-b border-slate-50;
+  }
+
+  .scroll-modern {
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 transparent;
+  }
+
+  .scroll-modern::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .scroll-modern::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scroll-modern::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 20px;
+  }
+}
+
+/* Custom transitions */
+.fade-in {
+  animation: fadeIn 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Zen Scroll Overrides */
+.virtuoso-list {
+  @apply scroll-modern;
+}
