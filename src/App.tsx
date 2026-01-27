@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import History from './pages/History';
 import ExamMode from './pages/ExamMode';
 import Result from './pages/Result';
+import Solution from './pages/Solution';
 import { NotificationProvider } from './context/NotificationContext';
 import { ThemeProvider } from './context/ThemeContext';
 
@@ -23,6 +24,7 @@ function App() {
               <Route path="/history" element={<History />} />
               <Route path="/exam/:name" element={<ExamMode />} />
               <Route path="/test/result" element={<Result />} />
+              <Route path="/solution" element={<Solution />} />
               <Route path="/management" element={<Management />} />
               <Route path="/edit/:name" element={<ExamEditor />} />
               <Route path="/settings" element={<Settings />} />

@@ -3,7 +3,7 @@ import { NavLink, useLocation } from 'react-router-dom';
 import {
     Home, History, Settings, LayoutDashboard,
     Menu, X, ChevronRight, GraduationCap,
-    Palette, Check, Search
+    Palette, Check, Search, BookOpen
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTheme, themes } from '../context/ThemeContext';
@@ -24,6 +24,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
     const menuItems = [
         { path: '/', name: 'Explore Exams', icon: Home },
+        { path: '/solution', name: 'Solutions', icon: BookOpen },
         { path: '/history', name: 'Test History', icon: History },
         { path: '/management', name: 'Management', icon: LayoutDashboard },
         { path: '/settings', name: 'Preferences', icon: Settings },
