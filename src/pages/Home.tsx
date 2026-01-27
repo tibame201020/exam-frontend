@@ -102,11 +102,11 @@ const Home = () => {
             {/* Search & Orientation */}
             <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-2 border-b border-slate-200">
                 <div className="space-y-1">
-                    <h1 className="text-3xl font-black text-slate-800 tracking-tight flex items-center gap-3">
+                    <h1 className="text-3xl font-black text-base-content tracking-tight flex items-center gap-3">
                         Question Banks
-                        <Sparkles className="text-indigo-500" size={24} />
+                        <Sparkles className="text-primary" size={24} />
                     </h1>
-                    <p className="text-slate-500 text-sm font-medium">Select a module to begin your technical assessment.</p>
+                    <p className="text-base-content/60 text-sm font-medium">Select a module to begin your technical assessment.</p>
                 </div>
 
                 <div className="relative w-full md:w-96 group">
@@ -142,18 +142,18 @@ const Home = () => {
                                     <button
                                         key={name}
                                         onClick={() => handleExamClick(name)}
-                                        className="pro-card group p-6 flex items-center justify-between text-left active:scale-[0.98] border-transparent hover:border-indigo-200 hover:bg-indigo-50/30"
+                                        className="pro-card group p-6 flex items-center justify-between text-left active:scale-[0.98] border-transparent hover:border-primary/20 hover:bg-primary/5"
                                     >
                                         <div className="flex items-center gap-4">
-                                            <div className="w-12 h-12 bg-white border border-slate-100 rounded-xl flex items-center justify-center text-indigo-600 shadow-sm group-hover:scale-110 transition-transform">
+                                            <div className="w-12 h-12 bg-base-200 border border-base-300 rounded-xl flex items-center justify-center text-primary shadow-sm group-hover:scale-110 transition-transform">
                                                 <BookOpen size={24} />
                                             </div>
                                             <div>
-                                                <span className="font-bold text-slate-800 block">{name}</span>
-                                                <span className="text-[10px] uppercase tracking-widest text-slate-400 font-bold">Standard Bank</span>
+                                                <span className="font-bold text-base-content block">{name}</span>
+                                                <span className="text-[10px] uppercase tracking-widest text-base-content/40 font-bold">Standard Bank</span>
                                             </div>
                                         </div>
-                                        <ArrowRight className="text-slate-300 group-hover:text-indigo-500 transition-colors -translate-x-2 group-hover:translate-x-0 group-hover:opacity-100 opacity-0" size={20} />
+                                        <ArrowRight className="text-base-content/20 group-hover:text-primary transition-colors -translate-x-2 group-hover:translate-x-0 group-hover:opacity-100 opacity-0" size={20} />
                                     </button>
                                 ))
                             )}
@@ -167,11 +167,11 @@ const Home = () => {
                                         <ChevronRight className="rotate-180" size={20} />
                                     </button>
                                     <div>
-                                        <h2 className="text-2xl font-black text-slate-800 tracking-tight">{selectedExam}</h2>
-                                        <p className="text-xs text-indigo-600 font-bold uppercase tracking-widest">Initialization Protocol</p>
+                                        <h2 className="text-2xl font-black text-base-content tracking-tight">{selectedExam}</h2>
+                                        <p className="text-xs text-primary font-bold uppercase tracking-widest">Initialization Protocol</p>
                                     </div>
                                 </div>
-                                <Sparkles size={32} className="text-indigo-200" />
+                                <Sparkles size={32} className="text-primary/20" />
                             </div>
 
                             <div className="space-y-6">

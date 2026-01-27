@@ -1,14 +1,15 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import {
     Settings as SettingsIcon, Palette,
-    Globe, Save, RefreshCw, Check,
+    Globe, Save, RefreshCw,
     Shield, Terminal
 } from 'lucide-react';
 import { useNotification } from '../context/NotificationContext';
+import { useTheme } from '../context/ThemeContext';
 
 const Settings = () => {
     const [apiUrl, setApiUrl] = useState(localStorage.getItem('exam_api_url') || 'http://localhost:12058/api');
-    const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light');
+    const { theme, setTheme } = useTheme();
     const { notify } = useNotification();
 
     const themes = [
@@ -17,13 +18,6 @@ const Settings = () => {
         "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula",
         "cmyk", "autumn", "business", "acid", "lemonade", "night", "coffee", "winter",
     ];
-
-    useEffect(() => {
-        document.documentElement.setAttribute('data-theme', theme);
-        localStorage.setItem('theme', theme);
-        // Dispatch storage event for Layout sync
-        window.dispatchEvent(new Event('storage'));
-    }, [theme]);
 
     const handleSaveApi = () => {
         localStorage.setItem('exam_api_url', apiUrl);
@@ -52,18 +46,33 @@ const Settings = () => {
                             <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">Interface Skin</h2>
                         </div>
 
-                        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+                        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
                             {themes.map((t) => (
                                 <button
                                     key={t}
                                     onClick={() => setTheme(t)}
-                                    className={`p-3 rounded-xl border-2 text-[10px] font-black uppercase tracking-widest transition-all ${theme === t
-                                            ? 'border-indigo-600 bg-indigo-50 text-indigo-700 shadow-lg shadow-indigo-100'
-                                            : 'border-slate-100 bg-white hover:border-slate-200 text-slate-400'
-                                        }`}
+                                    data-theme={t}
+                                    className={`p-3 rounded-2xl border-2 text-left transition-all group relative overflow-hidden ${theme === t
+                                        ? 'border-primary ring-2 ring-primary/20 shadow-lg'
+                                        : 'border-base-300 hover:border-primary/50'
+                                        } bg-base-100`}
                                 >
-                                    {t}
-                                    {theme === t && <Check size={10} className="inline ml-1" />}
+                                    <div className="flex flex-col gap-2">
+                                        <div className="flex items-center justify-between">
+                                            <span className="text-[10px] font-black uppercase tracking-widest text-base-content">{t}</span>
+                                            {theme === t && (
+                                                <div className="w-2 h-2 bg-primary rounded-full ring-4 ring-primary/20"></div>
+                                            )}
+                                        </div>
+                                        <div className="flex gap-1.5 mt-1">
+                                            <div className="w-full h-4 bg-primary rounded-sm shadow-sm"></div>
+                                            <div className="w-full h-4 bg-secondary rounded-sm shadow-sm"></div>
+                                            <div className="w-full h-4 bg-accent rounded-sm shadow-sm"></div>
+                                            <div className="w-full h-4 bg-neutral rounded-sm shadow-sm"></div>
+                                        </div>
+                                    </div>
+                                    {/* Aesthetic overlay for hover */}
+                                    <div className="absolute inset-0 bg-primary/5 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
                                 </button>
                             ))}
                         </div>

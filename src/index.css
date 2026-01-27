@@ -19,19 +19,18 @@
   }
 
   body {
-    @apply bg-slate-50 text-slate-900;
-    font-family: 'Outfit', sans-serif;
+    @apply text-base-content;
     -webkit-font-smoothing: antialiased;
   }
 }
 
 @layer components {
   .pro-card {
-    @apply bg-white border border-slate-200 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300;
+    @apply bg-base-100 border border-base-300 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300;
   }
 
   .pro-input {
-    @apply input input-bordered bg-white border-slate-200 focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 rounded-xl transition-all outline-none;
+    @apply input input-bordered bg-base-100 border-base-300 focus:border-primary focus:ring-4 focus:ring-primary/10 rounded-xl transition-all outline-none;
   }
 
   .pro-btn {
