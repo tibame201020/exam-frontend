@@ -1,0 +1,12000 @@
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##拒絕
+##排出
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##實際的
+##明確的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##豐富的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##維持
+##減速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##可接近的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##容納
+##限制
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##開始
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##減少
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##準確的
+##大概的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##隱瞞
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##失去
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##逃避
+##抗拒
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##缺乏的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##破壞
+##固定
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##忽視
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##有利的
+##不利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##實際的
+##具體的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##稀少的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##可接近的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##完成
+##開始
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##減少
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##準確的
+##模糊的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##失去
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##適應
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##鄰近的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##放棄
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##有利的
+##中立的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##忽視
+##提倡
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##維持
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##拒絕
+##排出
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##實際的
+##具體的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##不足的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##停止
+##加速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##失敗
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##消耗
+##減少
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##否認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##失去
+##獲得
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##拒絕
+##適應
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##足夠的
+##缺乏的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##固定
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##無關的
+##有利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##提倡
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##完整
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##反射
+##排出
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##豐富的
+##稀少的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##減速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##遙遠的
+##可接近的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##失敗
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##累積
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##準確的
+##模糊的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##忽視
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##拒絕
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##相反的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##不利的
+##有利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##提倡
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##建立
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##排出
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##抽象的
+##具體的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##豐富的
+##不足的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##停止
+##減速
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##可接近的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##放棄
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##消耗
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##錯誤的
+##大概的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##忽視
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##失去
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##適應
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##鄰近的
+##分離的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##破壞
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##不利的
+##無關的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##禁止
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##擴展
+##縮寫
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##維持
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##明確的
+##抽象的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##稀少的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##停止
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##不可能的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##開始
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##消耗
+##減少
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##模糊的
+##準確的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##失去
+##獲得
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##缺乏的
+##足夠的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##鄰近的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##調整
+##固定
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##破壞
+##放棄
+##管理
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##不利的
+##無關的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##反對
+##忽視
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##縮寫
+##完整
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##吸收
+##拒絕
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##稀少的
+##豐富的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##減速
+##維持
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##遙遠的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##開始
+##放棄
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##消耗
+##分散
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##模糊的
+##錯誤的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##否認
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##放棄
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##適應
+##逃避
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##過多的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##調整
+##破壞
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##忽視
+##管理
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##無關的
+##中立的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##忽視
+##反對
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##建立
+##保留
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##吸收
+##排出
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##具體的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##稀少的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##可接近的
+##困難的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##開始
+##放棄
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##消耗
+##分散
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##模糊的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##逃避
+##抗拒
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##足夠的
+##缺乏的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##分離的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##破壞
+##忽視
+##管理
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##有利的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##縮寫
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##反射
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##豐富的
+##缺乏的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##減速
+##停止
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##可接近的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##容納
+##限制
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##完成
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##分散
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##錯誤的
+##準確的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##否認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##逃避
+##適應
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##過多的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##遙遠的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##破壞
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##放棄
+##管理
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##無關的
+##有利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##忽視
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##完整
+##擴展
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##廢除
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##拒絕
+##排出
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##豐富的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##停止
+##減速
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##可接近的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##拒絕
+##限制
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##失敗
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##消耗
+##分散
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##準確的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##失去
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##拒絕
+##抗拒
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##不足的
+##足夠的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##調整
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##破壞
+##管理
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##提倡
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##建立
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##反射
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##停止
+##加速
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##可接近的
+##不可能的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##容納
+##限制
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##放棄
+##失敗
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##消耗
+##分散
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##錯誤的
+##大概的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##獲得
+##放棄
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##拒絕
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##不足的
+##缺乏的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##鄰近的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##破壞
+##固定
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##忽視
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##中立的
+##有利的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##忽視
+##反對
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##延長
+##擴展
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##保留
+##建立
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##拒絕
+##反射
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##實際的
+##具體的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##停止
+##加速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##可接近的
+##困難的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##拒絕
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##開始
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##減少
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##拒絕
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##適應
+##抗拒
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##缺乏的
+##過多的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##鄰近的
+##遙遠的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##忽視
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##有利的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##反對
+##禁止
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##縮寫
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##保留
+##維持
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##豐富的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##不可能的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##容納
+##排除
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##放棄
+##失敗
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##減少
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##大概的
+##模糊的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##忽視
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##適應
+##逃避
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##過多的
+##不足的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##遙遠的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##破壞
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##有利的
+##不利的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##忽視
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##拒絕
+##排出
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##具體的
+##抽象的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##稀少的
+##缺乏的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##停止
+##減速
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##不可能的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##拒絕
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##完成
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##減少
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##錯誤的
+##準確的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##拒絕
+##獲得
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##抗拒
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##分離的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##固定
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##不利的
+##無關的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##禁止
+##提倡
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##維持
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##明確的
+##抽象的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##豐富的
+##缺乏的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##維持
+##加速
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##排除
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##完成
+##放棄
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##減少
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##錯誤的
+##大概的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##拒絕
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##缺乏的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##忽視
+##管理
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##無關的
+##中立的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##忽視
+##禁止
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##延長
+##擴展
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##建立
+##維持
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##拒絕
+##排出
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##豐富的
+##缺乏的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##減速
+##加速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##不可能的
+##困難的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##開始
+##失敗
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##累積
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##放棄
+##獲得
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##適應
+##逃避
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##不足的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##分離的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##保持
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##放棄
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##不利的
+##中立的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##提倡
+##反對
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##完整
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##維持
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##排出
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##具體的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##稀少的
+##豐富的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##加速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##容納
+##限制
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##完成
+##失敗
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##消耗
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##失去
+##拒絕
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##抗拒
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##足夠的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##分離的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##固定
+##破壞
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##管理
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##不利的
+##中立的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##禁止
+##提倡
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##擴展
+##縮寫
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##建立
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##抽象的
+##明確的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##停止
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##困難的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##開始
+##失敗
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##分散
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##準確的
+##大概的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##缺乏的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##忽視
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##有利的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##禁止
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##維持
+##廢除
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##實際的
+##具體的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##不可能的
+##遙遠的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##容納
+##拒絕
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##失敗
+##開始
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##累積
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##模糊的
+##錯誤的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##拒絕
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##缺乏的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##調整
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##忽視
+##管理
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##忽視
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##縮寫
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##維持
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##稀少的
+##不足的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##減速
+##停止
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##開始
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##消耗
+##分散
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##模糊的
+##大概的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##忽視
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##放棄
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##抗拒
+##逃避
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##保持
+##調整
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##管理
+##放棄
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##不利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##禁止
+##提倡
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##延長
+##擴展
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##廢除
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##實際的
+##抽象的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##豐富的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##放棄
+##開始
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##分散
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##錯誤的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##忽視
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##逃避
+##抗拒
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##保持
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##有利的
+##中立的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##維持
+##廢除
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##吸收
+##拒絕
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##具體的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##拒絕
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##開始
+##完成
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##減少
+##分散
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##準確的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##忽視
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##獲得
+##拒絕
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##足夠的
+##缺乏的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##鄰近的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##固定
+##保持
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##破壞
+##放棄
+##管理
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##禁止
+##忽視
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##延長
+##完整
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##吸收
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##豐富的
+##稀少的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##維持
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##可接近的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##開始
+##完成
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##累積
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##隱瞞
+##忽視
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##拒絕
+##抗拒
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##不足的
+##足夠的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##鄰近的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##調整
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##破壞
+##管理
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##中立的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##忽視
+##反對
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##廢除
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##反射
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##不足的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##維持
+##加速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##可接近的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##排除
+##拒絕
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##放棄
+##完成
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##累積
+##分散
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##放棄
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##不足的
+##過多的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##鄰近的
+##分離的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##調整
+##保持
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##無關的
+##有利的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##縮寫
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##吸收
+##排出
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##實際的
+##抽象的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##停止
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##遙遠的
+##可接近的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##開始
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##分散
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##大概的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##失去
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##抗拒
+##拒絕
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##鄰近的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##調整
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##忽視
+##放棄
+##管理
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##無關的
+##不利的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##提倡
+##禁止
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##縮寫
+##完整
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##維持
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##吸收
+##排出
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##不足的
+##稀少的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##維持
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##遙遠的
+##困難的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##排除
+##拒絕
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##開始
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##減少
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##錯誤的
+##模糊的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##否認
+##忽視
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##拒絕
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##分離的
+##相反的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##忽視
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##不利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##忽視
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##完整
+##縮寫
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##建立
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##反射
+##吸收
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##豐富的
+##稀少的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##停止
+##維持
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##遙遠的
+##可接近的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##放棄
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##減少
+##累積
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##準確的
+##大概的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##否認
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##適應
+##拒絕
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##缺乏的
+##足夠的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##調整
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##忽視
+##放棄
+##管理
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##有利的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##禁止
+##忽視
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##縮寫
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##維持
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##豐富的
+##稀少的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##加速
+##維持
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##不可能的
+##遙遠的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##容納
+##排除
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##放棄
+##完成
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##分散
+##消耗
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##大概的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##忽視
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##放棄
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##適應
+##抗拒
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##過多的
+##不足的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##分離的
+##相反的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##固定
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##放棄
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##有利的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##禁止
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##完整
+##延長
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##廢除
+##保留
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##拒絕
+##排出
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##實際的
+##明確的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##不可能的
+##困難的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##放棄
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##減少
+##分散
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##準確的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##隱瞞
+##承認
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##放棄
+##拒絕
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##逃避
+##拒絕
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##足夠的
+##缺乏的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##遙遠的
+##分離的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##放棄
+##管理
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##提倡
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##擴展
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##拒絕
+##排出
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##不足的
+##缺乏的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##維持
+##停止
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##困難的
+##不可能的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##放棄
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##累積
+##減少
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##準確的
+##錯誤的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##隱瞞
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##拒絕
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##逃避
+##抗拒
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##不足的
+##過多的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##遙遠的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##調整
+##固定
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##中立的
+##不利的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##反對
+##禁止
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##縮寫
+##擴展
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##不足的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##容納
+##拒絕
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##放棄
+##完成
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##消耗
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##錯誤的
+##大概的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##獲得
+##放棄
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##缺乏的
+##過多的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##相反的
+##鄰近的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##忽視
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##有利的
+##不利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##忽視
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##縮寫
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##保留
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##具體的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##不足的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##加速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##遙遠的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##拒絕
+##限制
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##失敗
+##完成
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##減少
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##大概的
+##模糊的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##放棄
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##抗拒
+##拒絕
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##不足的
+##缺乏的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##鄰近的
+##分離的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##調整
+##破壞
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##忽視
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##中立的
+##無關的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##禁止
+##忽視
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##延長
+##完整
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##保留
+##建立
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##加速
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##遙遠的
+##困難的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##排除
+##限制
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##失敗
+##完成
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##消耗
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##準確的
+##模糊的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##拒絕
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##逃避
+##拒絕
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##不足的
+##缺乏的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##分離的
+##鄰近的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##調整
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##破壞
+##管理
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##有利的
+##不利的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##反對
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##擴展
+##縮寫
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##保留
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##排出
+##拒絕
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##缺乏的
+##不足的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##維持
+##加速
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##可接近的
+##困難的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##容納
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##完成
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##分散
+##消耗
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##錯誤的
+##準確的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##否認
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##鄰近的
+##分離的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##不利的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##擴展
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##廢除
+##維持
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##反射
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##實際的
+##抽象的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##豐富的
+##不足的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##維持
+##加速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##困難的
+##可接近的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##限制
+##拒絕
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##放棄
+##完成
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##消耗
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##模糊的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##拒絕
+##放棄
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##適應
+##拒絕
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##相反的
+##分離的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##調整
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##管理
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##不利的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##禁止
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##擴展
+##延長
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##反射
+##吸收
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##缺乏的
+##不足的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##減速
+##維持
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##不可能的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##放棄
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##累積
+##消耗
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##錯誤的
+##準確的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##失去
+##獲得
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##拒絕
+##逃避
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##過多的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##分離的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##調整
+##固定
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##管理
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##不利的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##禁止
+##忽視
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##保留
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##不足的
+##缺乏的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##維持
+##減速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##可接近的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##排除
+##拒絕
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##放棄
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##減少
+##分散
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##逃避
+##適應
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##過多的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##分離的
+##相反的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##破壞
+##保持
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##管理
+##放棄
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##中立的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##提倡
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##延長
+##擴展
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##廢除
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##吸收
+##排出
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##缺乏的
+##稀少的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##減速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##可接近的
+##不可能的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##容納
+##排除
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##完成
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##減少
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##準確的
+##錯誤的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##否認
+##忽視
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##失去
+##拒絕
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##拒絕
+##適應
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##缺乏的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##相反的
+##遙遠的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##破壞
+##管理
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##有利的
+##中立的
+##無關的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##禁止
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##完整
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##建立
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##反射
+##排出
+##拒絕
+##吸收
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##缺乏的
+##豐富的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##維持
+##停止
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##不可能的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##容納
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##完成
+##開始
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##分散
+##消耗
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##大概的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##否認
+##隱瞞
+##忽視
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##放棄
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##適應
+##拒絕
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##過多的
+##足夠的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##遙遠的
+##相反的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##調整
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##忽視
+##管理
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##不利的
+##中立的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##忽視
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##縮寫
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##抽象的
+##具體的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##維持
+##加速
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##可接近的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##拒絕
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##失敗
+##完成
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##累積
+##分散
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##模糊的
+##大概的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##隱瞞
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##逃避
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##缺乏的
+##不足的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##相反的
+##遙遠的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##破壞
+##保持
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##不利的
+##無關的
+##中立的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##反對
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##完整
+##縮寫
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##保留
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##拒絕
+##排出
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##豐富的
+##缺乏的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##停止
+##維持
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##困難的
+##可接近的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##開始
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##累積
+##分散
+##減少
+##消耗
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##拒絕
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##足夠的
+##過多的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##分離的
+##遙遠的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##固定
+##破壞
+##調整
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##放棄
+##管理
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##有利的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##反對
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##擴展
+##縮寫
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##保留
+##維持
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##維持
+##加速
+##減速
+##停止
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##不可能的
+##遙遠的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##排除
+##容納
+##拒絕
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##放棄
+##失敗
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##分散
+##減少
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##準確的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##忽視
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##失去
+##放棄
+##拒絕
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##抗拒
+##拒絕
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##鄰近的
+##遙遠的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##破壞
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##中立的
+##無關的
+##有利的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##禁止
+##反對
+##忽視
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##反射
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##實際的
+##具體的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##不足的
+##豐富的
+##稀少的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##停止
+##維持
+##加速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##困難的
+##不可能的
+##遙遠的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##容納
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##完成
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##減少
+##消耗
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##準確的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##忽視
+##否認
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##缺乏的
+##不足的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##相反的
+##鄰近的
+##遙遠的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##破壞
+##調整
+##固定
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##管理
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##無關的
+##不利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##忽視
+##禁止
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##延長
+##縮寫
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##維持
+##廢除
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##排出
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##實際的
+##明確的
+##具體的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##困難的
+##遙遠的
+##不可能的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##排除
+##限制
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##失敗
+##開始
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##消耗
+##減少
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##模糊的
+##準確的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##承認
+##忽視
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##拒絕
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##抗拒
+##拒絕
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##足夠的
+##過多的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##鄰近的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##固定
+##破壞
+##保持
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##破壞
+##忽視
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##有利的
+##不利的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##提倡
+##反對
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##縮寫
+##完整
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##保留
+##廢除
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##反射
+##拒絕
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##實際的
+##具體的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##缺乏的
+##稀少的
+##豐富的
+##不足的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##減速
+##加速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##可接近的
+##不可能的
+##困難的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##容納
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##開始
+##完成
+##失敗
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##累積
+##消耗
+##減少
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##模糊的
+##準確的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##失去
+##放棄
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##拒絕
+##逃避
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##過多的
+##足夠的
+##缺乏的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##相反的
+##遙遠的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##保持
+##破壞
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##忽視
+##破壞
+##放棄
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##不利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##廢除
+##維持
+##建立
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##拒絕
+##吸收
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##抽象的
+##明確的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##缺乏的
+##稀少的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##加速
+##維持
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##困難的
+##遙遠的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##拒絕
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##放棄
+##開始
+##完成
+##失敗
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##減少
+##消耗
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##錯誤的
+##準確的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##忽視
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##獲得
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##逃避
+##抗拒
+##適應
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##不足的
+##缺乏的
+##足夠的
+##過多的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##分離的
+##相反的
+##鄰近的
+##遙遠的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##保持
+##破壞
+##調整
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##管理
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##中立的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##反對
+##提倡
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##延長
+##擴展
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##建立
+##廢除
+##維持
+##保留
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##拒絕
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##具體的
+##實際的
+##明確的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##不足的
+##缺乏的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##停止
+##維持
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##可接近的
+##困難的
+##遙遠的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##限制
+##拒絕
+##排除
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##失敗
+##開始
+##放棄
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##累積
+##消耗
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##模糊的
+##大概的
+##準確的
+##錯誤的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##忽視
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##拒絕
+##抗拒
+##逃避
+##適應
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##足夠的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##鄰近的
+##分離的
+##遙遠的
+##相反的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##調整
+##破壞
+##保持
+##固定
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##放棄
+##破壞
+##管理
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##無關的
+##中立的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##反對
+##提倡
+##忽視
+##禁止
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##完整
+##縮寫
+##延長
+##擴展
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##保留
+##廢除
+##建立
+##維持
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##排出
+##吸收
+##反射
+##拒絕
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##具體的
+##明確的
+##實際的
+##抽象的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##豐富的
+##稀少的
+##不足的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##加速
+##維持
+##減速
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##困難的
+##不可能的
+##可接近的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##拒絕
+##限制
+##排除
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##失敗
+##放棄
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##消耗
+##減少
+##分散
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##錯誤的
+##模糊的
+##準確的
+##大概的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##否認
+##隱瞞
+##忽視
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##放棄
+##拒絕
+##失去
+##獲得
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##適應
+##拒絕
+##逃避
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##過多的
+##足夠的
+##不足的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##鄰近的
+##相反的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##保持
+##調整
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##管理
+##放棄
+##破壞
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##中立的
+##無關的
+##不利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##提倡
+##忽視
+##禁止
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##擴展
+##延長
+##完整
+##縮寫
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##保留
+##建立
+##廢除
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##拒絕
+##反射
+##排出
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##明確的
+##抽象的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##稀少的
+##不足的
+##豐富的
+##缺乏的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##加速
+##減速
+##停止
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##不可能的
+##遙遠的
+##可接近的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##容納
+##拒絕
+##限制
+##排除
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##完成
+##放棄
+##失敗
+##開始
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##減少
+##消耗
+##累積
+##分散
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##準確的
+##大概的
+##錯誤的
+##模糊的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##隱瞞
+##否認
+##忽視
+##承認
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##拒絕
+##獲得
+##放棄
+##失去
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##抗拒
+##適應
+##逃避
+##拒絕
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##缺乏的
+##不足的
+##過多的
+##足夠的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##分離的
+##鄰近的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##調整
+##保持
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##忽視
+##放棄
+##管理
+##破壞
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##有利的
+##不利的
+##無關的
+##中立的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##忽視
+##禁止
+##提倡
+##反對
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡
+@@@#
+####quizContent=
+What does "abbreviate" mean?
+####chooses=
+##縮寫
+##擴展
+##延長
+##完整
+####correctContents=
+##縮寫
+####solution=
+abbreviate 的意思是 縮寫
+@@@#
+####quizContent=
+What does "abolish" mean?
+####chooses=
+##維持
+##廢除
+##保留
+##建立
+####correctContents=
+##廢除
+####solution=
+abolish 的意思是 廢除
+@@@#
+####quizContent=
+What does "absorb" mean?
+####chooses=
+##吸收
+##排出
+##拒絕
+##反射
+####correctContents=
+##吸收
+####solution=
+absorb 的意思是 吸收
+@@@#
+####quizContent=
+What does "abstract" mean?
+####chooses=
+##抽象的
+##明確的
+##具體的
+##實際的
+####correctContents=
+##抽象的
+####solution=
+abstract 的意思是 抽象的
+@@@#
+####quizContent=
+What does "abundant" mean?
+####chooses=
+##不足的
+##缺乏的
+##稀少的
+##豐富的
+####correctContents=
+##豐富的
+####solution=
+abundant 的意思是 豐富的
+@@@#
+####quizContent=
+What does "accelerate" mean?
+####chooses=
+##停止
+##加速
+##減速
+##維持
+####correctContents=
+##加速
+####solution=
+accelerate 的意思是 加速
+@@@#
+####quizContent=
+What does "accessible" mean?
+####chooses=
+##遙遠的
+##可接近的
+##不可能的
+##困難的
+####correctContents=
+##可接近的
+####solution=
+accessible 的意思是 可接近的
+@@@#
+####quizContent=
+What does "accommodate" mean?
+####chooses=
+##排除
+##限制
+##拒絕
+##容納
+####correctContents=
+##容納
+####solution=
+accommodate 的意思是 容納
+@@@#
+####quizContent=
+What does "accomplish" mean?
+####chooses=
+##失敗
+##放棄
+##開始
+##完成
+####correctContents=
+##完成
+####solution=
+accomplish 的意思是 完成
+@@@#
+####quizContent=
+What does "accumulate" mean?
+####chooses=
+##分散
+##減少
+##消耗
+##累積
+####correctContents=
+##累積
+####solution=
+accumulate 的意思是 累積
+@@@#
+####quizContent=
+What does "accurate" mean?
+####chooses=
+##大概的
+##模糊的
+##錯誤的
+##準確的
+####correctContents=
+##準確的
+####solution=
+accurate 的意思是 準確的
+@@@#
+####quizContent=
+What does "acknowledge" mean?
+####chooses=
+##承認
+##否認
+##忽視
+##隱瞞
+####correctContents=
+##承認
+####solution=
+acknowledge 的意思是 承認
+@@@#
+####quizContent=
+What does "acquire" mean?
+####chooses=
+##獲得
+##放棄
+##失去
+##拒絕
+####correctContents=
+##獲得
+####solution=
+acquire 的意思是 獲得
+@@@#
+####quizContent=
+What does "adapt" mean?
+####chooses=
+##適應
+##拒絕
+##逃避
+##抗拒
+####correctContents=
+##適應
+####solution=
+adapt 的意思是 適應
+@@@#
+####quizContent=
+What does "adequate" mean?
+####chooses=
+##足夠的
+##過多的
+##不足的
+##缺乏的
+####correctContents=
+##足夠的
+####solution=
+adequate 的意思是 足夠的
+@@@#
+####quizContent=
+What does "adjacent" mean?
+####chooses=
+##遙遠的
+##相反的
+##鄰近的
+##分離的
+####correctContents=
+##鄰近的
+####solution=
+adjacent 的意思是 鄰近的
+@@@#
+####quizContent=
+What does "adjust" mean?
+####chooses=
+##固定
+##保持
+##調整
+##破壞
+####correctContents=
+##調整
+####solution=
+adjust 的意思是 調整
+@@@#
+####quizContent=
+What does "administer" mean?
+####chooses=
+##破壞
+##放棄
+##管理
+##忽視
+####correctContents=
+##管理
+####solution=
+administer 的意思是 管理
+@@@#
+####quizContent=
+What does "adverse" mean?
+####chooses=
+##無關的
+##中立的
+##不利的
+##有利的
+####correctContents=
+##不利的
+####solution=
+adverse 的意思是 不利的
+@@@#
+####quizContent=
+What does "advocate" mean?
+####chooses=
+##禁止
+##忽視
+##反對
+##提倡
+####correctContents=
+##提倡
+####solution=
+advocate 的意思是 提倡

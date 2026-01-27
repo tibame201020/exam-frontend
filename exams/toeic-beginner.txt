@@ -1,0 +1,12000 @@
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on
+@@@#
+####quizContent=
+Please _____ the form and return it to the office.
+####chooses=
+##complete
+##compete
+##complain
+##compare
+####correctContents=
+##complete
+####solution=
+complete 是完成的意思，符合填寫表格的語境
+@@@#
+####quizContent=
+She _____ to the office every day.
+####chooses=
+##goes
+##go
+##going
+##gone
+####correctContents=
+##goes
+####solution=
+第三人稱單數現在式動詞要加 s
+@@@#
+####quizContent=
+The meeting will be held _____ Monday morning.
+####chooses=
+##on
+##in
+##at
+##by
+####correctContents=
+##on
+####solution=
+表示具體某一天用介系詞 on

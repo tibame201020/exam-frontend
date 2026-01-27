@@ -1,0 +1,12000 @@
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##常態
+##偏差
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##深奧的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##批評
+##榮譽
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##尖刻的
+##友善的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##奉承
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##功能的
+##美學的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##嚴厲的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##猶豫
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##減輕
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##自私的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##分裂
+##獨立
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##清楚的
+##明確的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##損害
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##友善的
+##冷漠的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##現代的
+##時代錯誤
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##異常
+##常規
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##同情
+##反感
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##偏差
+##標準
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##喜愛
+##崇拜
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##懲罰
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##友善的
+##親切的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##批評
+##奉承
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##實用的
+##美學的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##懶惰
+##遲緩
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分裂
+##獨立
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##明確的
+##確定的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##損害
+##惡化
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##時代錯誤
+##當代的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##對立的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##軼事
+##證據
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##常規
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##同情
+##喜愛
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##偏差
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##榮譽
+##批評
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##減輕
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##貪婪的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##獨立
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##明確的
+##模糊的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##破壞
+##改善
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##友善的
+##敵對的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##現代的
+##及時的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##對立的
+##不同的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##證據
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##偏差
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##深奧的
+##簡單的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##恥辱
+##懲罰
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##友善的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##誠實
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##實用的
+##美學的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##粗魯的
+##嚴厲的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##加重
+##增強
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##冷漠的
+##貪婪的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##獨立
+##分離
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##損害
+##改善
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##友善的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##類似的
+##相反的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##常態
+##標準
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##憎惡
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##榮譽
+##批評
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##尖刻的
+##親切的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##批評
+##中立
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##功能的
+##醜陋的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##貪婪的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分離
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##改善
+##損害
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##冷漠的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##當代的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##不同的
+##對立的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##事實
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##規範
+##常態
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##清楚的
+##明顯的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##懲罰
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##友善的
+##親切的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##醜陋的
+##功能的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##粗魯的
+##嚴厲的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##遲緩
+##懶惰
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##加重
+##惡化
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##模糊的
+##清楚的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##敵對的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##當代的
+##時代錯誤
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##對立的
+##不同的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##證據
+##理論
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##喜愛
+##同情
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##喜愛
+##憎惡
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##簡單的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##親切的
+##尖刻的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##實用的
+##美學的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##猶豫
+##敏捷
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##獨立
+##分裂
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##清楚的
+##明確的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##現代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##類似的
+##不同的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##標準
+##異常
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##喜愛
+##同情
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##常態
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##憎惡
+##欣賞
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##明顯的
+##簡單的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##榮譽
+##懲罰
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##尖刻的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##醜陋的
+##美學的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##嚴厲的
+##冷漠的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##增強
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##自私的
+##冷漠的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##分裂
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##確定的
+##明確的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##破壞
+##改善
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##時代錯誤
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##類似的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##軼事
+##理論
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##異常
+##正常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##喜愛
+##同情
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##崇拜
+##憎惡
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##清楚的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##懲罰
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##親切的
+##友善的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##誠實
+##中立
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##功能的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##嚴厲的
+##和藹可親的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##敏捷
+##遲緩
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##加重
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##貪婪的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##獨立
+##合併
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##確定的
+##清楚的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##破壞
+##惡化
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##友善的
+##嚴厲的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##時代錯誤
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##對立的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##事實
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##異常
+##常規
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##反感
+##同情
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##標準
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##恥辱
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##親切的
+##友善的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##中立
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##美學的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##冷漠的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##敏捷
+##猶豫
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##加重
+##增強
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##貪婪的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##獨立
+##分離
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##確定的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##嚴厲的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##及時的
+##時代錯誤
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##不同的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##軼事
+##證據
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##喜愛
+##支持
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##規範
+##常態
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##崇拜
+##喜愛
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##深奧的
+##明顯的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##批評
+##懲罰
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##奉承
+##誠實
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##美學的
+##實用的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##和藹可親的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##遲緩
+##懶惰
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##惡化
+##增強
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##貪婪的
+##利他的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##惡化
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##敵對的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##時代錯誤
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##不同的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##事實
+##理論
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##正常
+##標準
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##標準
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##明顯的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##恥辱
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##親切的
+##尖刻的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##中立
+##奉承
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##冷漠的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##懶惰
+##敏捷
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##確定的
+##明確的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##損害
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##敵對的
+##嚴厲的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##時代錯誤
+##及時的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##對立的
+##類似的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##軼事
+##證據
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##異常
+##標準
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##喜愛
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##崇拜
+##喜愛
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##清楚的
+##深奧的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##榮譽
+##恥辱
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##尖刻的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##美學的
+##功能的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##懶惰
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##加重
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##自私的
+##貪婪的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##分離
+##獨立
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##損害
+##惡化
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##敵對的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##現代的
+##當代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##相反的
+##類似的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##事實
+##軼事
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##同情
+##喜愛
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##清楚的
+##簡單的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##恥辱
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##中立
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##功能的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##嚴厲的
+##和藹可親的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##懶惰
+##猶豫
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##減輕
+##增強
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##利他的
+##冷漠的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##獨立
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##清楚的
+##模糊的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##損害
+##破壞
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##友善的
+##敵對的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##及時的
+##當代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##不同的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##證據
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##標準
+##正常
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##反感
+##同情
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##規範
+##偏差
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##恥辱
+##榮譽
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##奉承
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##功能的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##懶惰
+##敏捷
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##冷漠的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##分離
+##獨立
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##清楚的
+##明確的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##惡化
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##敵對的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##現代的
+##及時的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##類似的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##證據
+##事實
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##標準
+##正常
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##標準
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##喜愛
+##崇拜
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##清楚的
+##明顯的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##恥辱
+##榮譽
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##尖刻的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##醜陋的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##粗魯的
+##嚴厲的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##利他的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##模糊的
+##明確的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##惡化
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##敵對的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##現代的
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##對立的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##軼事
+##證據
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##異常
+##正常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##喜愛
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##規範
+##常態
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##簡單的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##批評
+##懲罰
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##批評
+##奉承
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##粗魯的
+##嚴厲的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##猶豫
+##敏捷
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##分裂
+##合併
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##明確的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##惡化
+##改善
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##嚴厲的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##及時的
+##當代的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##不同的
+##相反的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##證據
+##理論
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##常規
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##喜愛
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##標準
+##常態
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##喜愛
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##明顯的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##榮譽
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##中立
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##美學的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##遲緩
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##加重
+##減輕
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##獨立
+##分離
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##現代的
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##不同的
+##相反的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##異常
+##標準
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##同情
+##喜愛
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##偏差
+##標準
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##崇拜
+##憎惡
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##深奧的
+##明顯的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##奉承
+##批評
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##實用的
+##醜陋的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##粗魯的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##猶豫
+##遲緩
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##減輕
+##增強
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##利他的
+##貪婪的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分裂
+##分離
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##改善
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##敵對的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##當代的
+##及時的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##不同的
+##類似的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##事實
+##軼事
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##標準
+##常規
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##標準
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##懲罰
+##恥辱
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##親切的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##批評
+##奉承
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##醜陋的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##增強
+##減輕
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##貪婪的
+##冷漠的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##分裂
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##冷漠的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##時代錯誤
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##不同的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##證據
+##理論
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##異常
+##正常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##同情
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##規範
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##崇拜
+##喜愛
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##明顯的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##榮譽
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##溫和的
+##友善的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##批評
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##粗魯的
+##和藹可親的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##加重
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##冷漠的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分離
+##獨立
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##明確的
+##確定的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##惡化
+##改善
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##敵對的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##及時的
+##現代的
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##相反的
+##類似的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##偏差
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##友善的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##奉承
+##誠實
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##實用的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##敏捷
+##猶豫
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##貪婪的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分裂
+##獨立
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##損害
+##改善
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##時代錯誤
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##對立的
+##類似的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##異常
+##標準
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##偏差
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##喜愛
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##清楚的
+##明顯的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##恥辱
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##友善的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##中立
+##批評
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##美學的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##嚴厲的
+##和藹可親的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##遲緩
+##猶豫
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##加重
+##增強
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##自私的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##合併
+##獨立
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##清楚的
+##確定的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##敵對的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##時代錯誤
+##現代的
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##對立的
+##不同的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##異常
+##標準
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##偏差
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##喜愛
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##深奧的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##恥辱
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##批評
+##誠實
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##美學的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##冷漠的
+##和藹可親的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##猶豫
+##遲緩
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##增強
+##減輕
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##自私的
+##貪婪的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##合併
+##獨立
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##明確的
+##模糊的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##改善
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##友善的
+##冷漠的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##對立的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##事實
+##證據
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##規範
+##偏差
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##憎惡
+##欣賞
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##簡單的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##懲罰
+##批評
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##溫和的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##誠實
+##奉承
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##美學的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##粗魯的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##懶惰
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##減輕
+##惡化
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##利他的
+##冷漠的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##獨立
+##合併
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##破壞
+##改善
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##時代錯誤
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##對立的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##事實
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##欣賞
+##憎惡
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##明顯的
+##簡單的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##恥辱
+##榮譽
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##溫和的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##中立
+##誠實
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##美學的
+##功能的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##敏捷
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##分離
+##獨立
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##明確的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##友善的
+##冷漠的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##及時的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##對立的
+##不同的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##常規
+##正常
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##反感
+##喜愛
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##常態
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##喜愛
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##明顯的
+##簡單的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##懲罰
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##批評
+##誠實
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##實用的
+##功能的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##粗魯的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##懶惰
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##貪婪的
+##自私的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##惡化
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##敵對的
+##冷漠的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##時代錯誤
+##現代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##類似的
+##不同的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##常態
+##標準
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##恥辱
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##醜陋的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##嚴厲的
+##冷漠的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##懶惰
+##敏捷
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##減輕
+##惡化
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##貪婪的
+##利他的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##獨立
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##損害
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##敵對的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##時代錯誤
+##現代的
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##相反的
+##不同的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##反感
+##同情
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##憎惡
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##深奧的
+##簡單的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##恥辱
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##批評
+##中立
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##功能的
+##醜陋的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##粗魯的
+##嚴厲的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##猶豫
+##懶惰
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##惡化
+##增強
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##及時的
+##當代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##對立的
+##相反的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##理論
+##軼事
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##正常
+##標準
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##同情
+##喜愛
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##偏差
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##明顯的
+##清楚的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##榮譽
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##尖刻的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##批評
+##奉承
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##美學的
+##醜陋的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##嚴厲的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##敏捷
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##減輕
+##加重
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##貪婪的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##清楚的
+##明確的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##友善的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##及時的
+##時代錯誤
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##對立的
+##不同的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##證據
+##軼事
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##標準
+##正常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##反感
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##偏差
+##規範
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##欣賞
+##憎惡
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##清楚的
+##明顯的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##恥辱
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##友善的
+##尖刻的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##批評
+##誠實
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##醜陋的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##粗魯的
+##和藹可親的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##敏捷
+##懶惰
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##加重
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##自私的
+##利他的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##分裂
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##確定的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##損害
+##破壞
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##敵對的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##現代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##不同的
+##相反的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##證據
+##軼事
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##喜愛
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##常態
+##標準
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##欣賞
+##憎惡
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##深奧的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##尖刻的
+##友善的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##美學的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##和藹可親的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##加重
+##減輕
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##自私的
+##利他的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##合併
+##獨立
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##惡化
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##冷漠的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##當代的
+##及時的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##證據
+##軼事
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##正常
+##標準
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##常態
+##偏差
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##喜愛
+##欣賞
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##明顯的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##懲罰
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##中立
+##誠實
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##美學的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##遲緩
+##猶豫
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##減輕
+##惡化
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##自私的
+##冷漠的
+##貪婪的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##分離
+##獨立
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##確定的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##敵對的
+##友善的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##時代錯誤
+##現代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##不同的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##反感
+##喜愛
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##標準
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##喜愛
+##欣賞
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##明顯的
+##清楚的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##懲罰
+##榮譽
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##奉承
+##批評
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##嚴厲的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##敏捷
+##懶惰
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##加重
+##減輕
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##貪婪的
+##利他的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分裂
+##分離
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##清楚的
+##模糊的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##破壞
+##惡化
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##友善的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##當代的
+##時代錯誤
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##理論
+##事實
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##常規
+##標準
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##喜愛
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##標準
+##常態
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##清楚的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##恥辱
+##榮譽
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##親切的
+##尖刻的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##批評
+##中立
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##美學的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##和藹可親的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##遲緩
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##減輕
+##增強
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##自私的
+##貪婪的
+##冷漠的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##合併
+##分離
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##清楚的
+##確定的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##敵對的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##及時的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##類似的
+##相反的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##理論
+##軼事
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##反感
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##標準
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##喜愛
+##憎惡
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##明顯的
+##簡單的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##中立
+##誠實
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##美學的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##冷漠的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##惡化
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##自私的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##獨立
+##分離
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##破壞
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##敵對的
+##冷漠的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##現代的
+##時代錯誤
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##不同的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##證據
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##規範
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##憎惡
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##清楚的
+##深奧的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##恥辱
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##親切的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##嚴厲的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##懶惰
+##遲緩
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##加重
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##利他的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##合併
+##獨立
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##清楚的
+##明確的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##友善的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##時代錯誤
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##對立的
+##不同的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##理論
+##軼事
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##正常
+##常規
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##喜愛
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##偏差
+##標準
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##喜愛
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##清楚的
+##簡單的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##榮譽
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##友善的
+##尖刻的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##中立
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##美學的
+##醜陋的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##和藹可親的
+##粗魯的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##遲緩
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##加重
+##惡化
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##自私的
+##貪婪的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分裂
+##合併
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##清楚的
+##確定的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##嚴厲的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##及時的
+##當代的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##不同的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##常態
+##規範
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##憎惡
+##崇拜
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##清楚的
+##深奧的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##懲罰
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##友善的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##功能的
+##美學的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##和藹可親的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##敏捷
+##猶豫
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##惡化
+##增強
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##利他的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##分裂
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##破壞
+##改善
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##敵對的
+##友善的
+##嚴厲的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##類似的
+##相反的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##證據
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##常規
+##正常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##反感
+##喜愛
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##偏差
+##規範
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##喜愛
+##崇拜
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##明顯的
+##清楚的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##懲罰
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##尖刻的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##中立
+##奉承
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##醜陋的
+##實用的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##和藹可親的
+##粗魯的
+##冷漠的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##猶豫
+##遲緩
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##加重
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##自私的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##獨立
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##模糊的
+##明確的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##改善
+##破壞
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##友善的
+##嚴厲的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##及時的
+##當代的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##不同的
+##相反的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##常規
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##喜愛
+##同情
+##支持
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##偏差
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##憎惡
+##欣賞
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##深奧的
+##簡單的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##批評
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##友善的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##奉承
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##實用的
+##醜陋的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##和藹可親的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##加重
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##冷漠的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分裂
+##分離
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##清楚的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##敵對的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##時代錯誤
+##及時的
+##當代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##對立的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##事實
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##標準
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##同情
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##規範
+##偏差
+##標準
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##喜愛
+##憎惡
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##深奧的
+##清楚的
+##簡單的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##恥辱
+##懲罰
+##批評
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##友善的
+##尖刻的
+##溫和的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##功能的
+##醜陋的
+##實用的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##遲緩
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##惡化
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##貪婪的
+##利他的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##獨立
+##合併
+##分裂
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##確定的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##惡化
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##嚴厲的
+##冷漠的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##及時的
+##當代的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##類似的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##常規
+##標準
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##反感
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##崇拜
+##喜愛
+##欣賞
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##批評
+##恥辱
+##榮譽
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##親切的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##誠實
+##中立
+##奉承
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##醜陋的
+##實用的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##猶豫
+##敏捷
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##增強
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##利他的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##分離
+##分裂
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##模糊的
+##明確的
+##確定的
+##清楚的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##損害
+##改善
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##敵對的
+##冷漠的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##現代的
+##時代錯誤
+##當代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##類似的
+##相反的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##理論
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##異常
+##常規
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##喜愛
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##偏差
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##憎惡
+##欣賞
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##明顯的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##親切的
+##溫和的
+##友善的
+##尖刻的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##批評
+##奉承
+##中立
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##功能的
+##實用的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##和藹可親的
+##粗魯的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##懶惰
+##猶豫
+##敏捷
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##增強
+##惡化
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##貪婪的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##合併
+##分離
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##明確的
+##確定的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##改善
+##損害
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##敵對的
+##嚴厲的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##當代的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##類似的
+##對立的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##軼事
+##理論
+##證據
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##常規
+##正常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##同情
+##支持
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##標準
+##規範
+##偏差
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##憎惡
+##欣賞
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##明顯的
+##簡單的
+##深奧的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##懲罰
+##批評
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##親切的
+##溫和的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##中立
+##奉承
+##誠實
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##醜陋的
+##功能的
+##美學的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##粗魯的
+##和藹可親的
+##冷漠的
+##嚴厲的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##猶豫
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##加重
+##惡化
+##增強
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##自私的
+##冷漠的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##獨立
+##分離
+##合併
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##改善
+##損害
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##冷漠的
+##敵對的
+##嚴厲的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##及時的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##不同的
+##類似的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##事實
+##軼事
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##常規
+##正常
+##異常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##反感
+##喜愛
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##偏差
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##崇拜
+##欣賞
+##喜愛
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##清楚的
+##簡單的
+##明顯的
+##深奧的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##榮譽
+##批評
+##恥辱
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##友善的
+##尖刻的
+##親切的
+##溫和的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##中立
+##誠實
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##醜陋的
+##實用的
+##美學的
+##功能的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##粗魯的
+##冷漠的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##減輕
+##惡化
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##冷漠的
+##自私的
+##貪婪的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##合併
+##分裂
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##惡化
+##破壞
+##改善
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##敵對的
+##友善的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##時代錯誤
+##當代的
+##及時的
+##現代的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##相反的
+##對立的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##軼事
+##事實
+##理論
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##異常
+##常規
+##正常
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##喜愛
+##支持
+##同情
+##反感
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##規範
+##偏差
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##喜愛
+##崇拜
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##明顯的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##懲罰
+##恥辱
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##尖刻的
+##溫和的
+##親切的
+##友善的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##誠實
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##美學的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##和藹可親的
+##嚴厲的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##敏捷
+##猶豫
+##懶惰
+##遲緩
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##加重
+##惡化
+##增強
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##利他的
+##冷漠的
+##自私的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##合併
+##分裂
+##分離
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##改善
+##損害
+##破壞
+##惡化
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##敵對的
+##友善的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##現代的
+##及時的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##不同的
+##相反的
+##對立的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##證據
+##事實
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##正常
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##同情
+##支持
+##反感
+##喜愛
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##常態
+##偏差
+##規範
+##標準
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##崇拜
+##喜愛
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##明顯的
+##簡單的
+##清楚的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##榮譽
+##恥辱
+##批評
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##友善的
+##溫和的
+##尖刻的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##奉承
+##批評
+##中立
+##誠實
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##功能的
+##美學的
+##實用的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##粗魯的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##猶豫
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##惡化
+##增強
+##減輕
+##加重
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##冷漠的
+##自私的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分離
+##分裂
+##合併
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##清楚的
+##模糊的
+##確定的
+##明確的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##改善
+##惡化
+##破壞
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##敵對的
+##嚴厲的
+##友善的
+##冷漠的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##及時的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##對立的
+##不同的
+##相反的
+##類似的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##理論
+##證據
+##軼事
+##事實
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##標準
+##常規
+##異常
+##正常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##支持
+##喜愛
+##反感
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##常態
+##偏差
+##規範
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##欣賞
+##憎惡
+##崇拜
+##喜愛
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##深奧的
+##簡單的
+##清楚的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##批評
+##榮譽
+##恥辱
+##懲罰
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##溫和的
+##友善的
+##尖刻的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##中立
+##批評
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##美學的
+##實用的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##冷漠的
+##嚴厲的
+##粗魯的
+##和藹可親的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##懶惰
+##遲緩
+##敏捷
+##猶豫
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##增強
+##惡化
+##加重
+##減輕
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##利他的
+##自私的
+##冷漠的
+##貪婪的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##分裂
+##分離
+##合併
+##獨立
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##確定的
+##明確的
+##清楚的
+##模糊的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##損害
+##惡化
+##破壞
+##改善
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##友善的
+##冷漠的
+##嚴厲的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##及時的
+##當代的
+##現代的
+##時代錯誤
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##類似的
+##不同的
+##對立的
+##相反的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##事實
+##軼事
+##理論
+##證據
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##標準
+##常規
+##異常
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##喜愛
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感
+@@@#
+####quizContent=
+What does "aberration" mean?
+####chooses=
+##標準
+##規範
+##偏差
+##常態
+####correctContents=
+##偏差
+####solution=
+aberration 的意思是 偏差
+@@@#
+####quizContent=
+What does "abhor" mean?
+####chooses=
+##喜愛
+##崇拜
+##欣賞
+##憎惡
+####correctContents=
+##憎惡
+####solution=
+abhor 的意思是 憎惡
+@@@#
+####quizContent=
+What does "abstruse" mean?
+####chooses=
+##簡單的
+##清楚的
+##深奧的
+##明顯的
+####correctContents=
+##深奧的
+####solution=
+abstruse 的意思是 深奧的
+@@@#
+####quizContent=
+What does "accolade" mean?
+####chooses=
+##懲罰
+##恥辱
+##榮譽
+##批評
+####correctContents=
+##榮譽
+####solution=
+accolade 的意思是 榮譽
+@@@#
+####quizContent=
+What does "acrimonious" mean?
+####chooses=
+##友善的
+##溫和的
+##尖刻的
+##親切的
+####correctContents=
+##尖刻的
+####solution=
+acrimonious 的意思是 尖刻的
+@@@#
+####quizContent=
+What does "adulation" mean?
+####chooses=
+##誠實
+##奉承
+##批評
+##中立
+####correctContents=
+##奉承
+####solution=
+adulation 的意思是 奉承
+@@@#
+####quizContent=
+What does "aesthetic" mean?
+####chooses=
+##實用的
+##美學的
+##功能的
+##醜陋的
+####correctContents=
+##美學的
+####solution=
+aesthetic 的意思是 美學的
+@@@#
+####quizContent=
+What does "affable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##和藹可親的
+##粗魯的
+####correctContents=
+##和藹可親的
+####solution=
+affable 的意思是 和藹可親的
+@@@#
+####quizContent=
+What does "alacrity" mean?
+####chooses=
+##遲緩
+##猶豫
+##敏捷
+##懶惰
+####correctContents=
+##敏捷
+####solution=
+alacrity 的意思是 敏捷
+@@@#
+####quizContent=
+What does "alleviate" mean?
+####chooses=
+##減輕
+##增強
+##加重
+##惡化
+####correctContents=
+##減輕
+####solution=
+alleviate 的意思是 減輕
+@@@#
+####quizContent=
+What does "altruistic" mean?
+####chooses=
+##貪婪的
+##冷漠的
+##自私的
+##利他的
+####correctContents=
+##利他的
+####solution=
+altruistic 的意思是 利他的
+@@@#
+####quizContent=
+What does "amalgamate" mean?
+####chooses=
+##獨立
+##合併
+##分裂
+##分離
+####correctContents=
+##合併
+####solution=
+amalgamate 的意思是 合併
+@@@#
+####quizContent=
+What does "ambiguous" mean?
+####chooses=
+##明確的
+##模糊的
+##清楚的
+##確定的
+####correctContents=
+##模糊的
+####solution=
+ambiguous 的意思是 模糊的
+@@@#
+####quizContent=
+What does "ameliorate" mean?
+####chooses=
+##破壞
+##改善
+##惡化
+##損害
+####correctContents=
+##改善
+####solution=
+ameliorate 的意思是 改善
+@@@#
+####quizContent=
+What does "amiable" mean?
+####chooses=
+##嚴厲的
+##冷漠的
+##友善的
+##敵對的
+####correctContents=
+##友善的
+####solution=
+amiable 的意思是 友善的
+@@@#
+####quizContent=
+What does "anachronism" mean?
+####chooses=
+##當代的
+##時代錯誤
+##現代的
+##及時的
+####correctContents=
+##時代錯誤
+####solution=
+anachronism 的意思是 時代錯誤
+@@@#
+####quizContent=
+What does "analogous" mean?
+####chooses=
+##相反的
+##類似的
+##對立的
+##不同的
+####correctContents=
+##類似的
+####solution=
+analogous 的意思是 類似的
+@@@#
+####quizContent=
+What does "anecdote" mean?
+####chooses=
+##證據
+##理論
+##事實
+##軼事
+####correctContents=
+##軼事
+####solution=
+anecdote 的意思是 軼事
+@@@#
+####quizContent=
+What does "anomaly" mean?
+####chooses=
+##正常
+##異常
+##常規
+##標準
+####correctContents=
+##異常
+####solution=
+anomaly 的意思是 異常
+@@@#
+####quizContent=
+What does "antipathy" mean?
+####chooses=
+##反感
+##支持
+##喜愛
+##同情
+####correctContents=
+##反感
+####solution=
+antipathy 的意思是 反感

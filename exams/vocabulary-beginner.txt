@@ -1,0 +1,12000 @@
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##結束
+##繼續
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##無能
+##簡單
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##取得
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##活躍的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##地址
+##郵件
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##忽視
+##批評
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##中立
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##便宜
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##猶豫
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##禁止
+##建議
+##允許
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##夥伴
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##困難
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##接受
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##否認
+##忘記
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##拒絕
+##放棄
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##前進
+##後退
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##秘密
+##隱藏
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##要求
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##免費
+##太貴
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##冷靜的
+##興奮的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##拒絕
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在後面
+##在下面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##要求
+##允許
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##幾乎
+##完全
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##單獨的
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##開始
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##接受
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##達成
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##吵鬧的
+##被動的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##電話
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##討厭
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##忘記
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##拒絕
+##放棄
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##前進
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##劣勢
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##要求
+##禁止
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##害怕的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##反對
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##要求
+##允許
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##從不
+##完全
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##單獨的
+##群體
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##能力
+##無能
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##拒絕
+##接受
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##活躍的
+##安靜的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##地址
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##討厭
+##忽視
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##前進
+##後退
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##廣告
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##禁止
+##要求
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##勇敢的
+##冷靜的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##猶豫
+##同意
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在前面
+##在旁邊
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##允許
+##建議
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##從不
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##群體
+##一起
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##開始
+##繼續
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##嘗試
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##吵鬧的
+##被動的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##電話
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##欽佩
+##批評
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##禁止
+##命令
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##太貴
+##便宜
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##勇敢的
+##冷靜的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##反對
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##要求
+##允許
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##完全
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##一起
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##困難
+##能力
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##給予
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##達成
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##被動的
+##安靜的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##郵件
+##電話
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##拒絕
+##放棄
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##劣勢
+##優勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##保密
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##禁止
+##要求
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##負擔得起
+##免費
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##勇敢的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##反對
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在後面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##建議
+##允許
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##完全
+##從不
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##給予
+##取得
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##嘗試
+##放棄
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##活躍的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##郵件
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##欽佩
+##討厭
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##忘記
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##拒絕
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##轉彎
+##前進
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##中立
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##保密
+##秘密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##要求
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##便宜
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##勇敢的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##反對
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在下面
+##在前面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##建議
+##禁止
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##從不
+##幾乎
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##一起
+##單獨的
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##困難
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##達成
+##嘗試
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##安靜的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##名字
+##郵件
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##忘記
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##轉彎
+##後退
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##平等
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##保密
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##要求
+##禁止
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##便宜
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##害怕的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##反對
+##猶豫
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##允許
+##禁止
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##幾乎
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##群體
+##單獨的
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##繼續
+##開始
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##無能
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##拒絕
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##達成
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##地址
+##名字
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##採用
+##放棄
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##中立
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##廣告
+##秘密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##建議
+##要求
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##便宜
+##免費
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##勇敢的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在前面
+##在後面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##總是
+##完全
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##夥伴
+##一起
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##繼續
+##開始
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##能力
+##無能
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##取得
+##拒絕
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##嘗試
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##活躍的
+##安靜的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##地址
+##郵件
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##後退
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##中立
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##隱藏
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##要求
+##命令
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##免費
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##害怕的
+##興奮的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##同意
+##拒絕
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##幾乎
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##能力
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##取得
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##達成
+##嘗試
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##吵鬧的
+##被動的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##名字
+##郵件
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##放棄
+##拒絕
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##前進
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##劣勢
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##隱藏
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##建議
+##禁止
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##免費
+##便宜
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##冷靜的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##反對
+##拒絕
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##從不
+##完全
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##一起
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##繼續
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##無能
+##困難
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##達成
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##郵件
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##隱瞞
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##拒絕
+##放棄
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##停止
+##前進
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##保密
+##廣告
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##建議
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##免費
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##同意
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在旁邊
+##在後面
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##從不
+##總是
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##夥伴
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##開始
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##拒絕
+##取得
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##達成
+##失敗
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##吵鬧的
+##安靜的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##地址
+##名字
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##欽佩
+##忽視
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##否認
+##隱瞞
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##轉彎
+##前進
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##劣勢
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##要求
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##勇敢的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##猶豫
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##建議
+##禁止
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##從不
+##完全
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##一起
+##夥伴
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##結束
+##放棄
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##給予
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##失敗
+##達成
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##活躍的
+##安靜的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##忘記
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##優勢
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##保密
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##要求
+##命令
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##太貴
+##便宜
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##冷靜的
+##興奮的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##反對
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##建議
+##允許
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##從不
+##完全
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##單獨的
+##群體
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##開始
+##繼續
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##無能
+##困難
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##失敗
+##嘗試
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##被動的
+##活躍的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##電話
+##地址
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##討厭
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##忽略
+##拒絕
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##禁止
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##負擔得起
+##免費
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在前面
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##要求
+##禁止
+##允許
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##單獨的
+##群體
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##放棄
+##開始
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##困難
+##簡單
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##取得
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##放棄
+##嘗試
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##電話
+##地址
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##討厭
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##忽略
+##拒絕
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##前進
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##劣勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##禁止
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##負擔得起
+##便宜
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##害怕的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##猶豫
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##幾乎
+##總是
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##放棄
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##無能
+##困難
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##放棄
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##安靜的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##名字
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##討厭
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##否認
+##隱瞞
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##後退
+##轉彎
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##劣勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##要求
+##禁止
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##免費
+##負擔得起
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##害怕的
+##冷靜的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##同意
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在後面
+##在下面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##禁止
+##建議
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##完全
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##一起
+##單獨的
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##開始
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##能力
+##簡單
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##拒絕
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##嘗試
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##吵鬧的
+##活躍的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##地址
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##批評
+##討厭
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##否認
+##忘記
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##後退
+##前進
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##中立
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##秘密
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##建議
+##禁止
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##勇敢的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##猶豫
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##完全
+##從不
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##夥伴
+##群體
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##開始
+##放棄
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##能力
+##簡單
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##取得
+##接受
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##放棄
+##失敗
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##郵件
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##討厭
+##忽視
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##承認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##放棄
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##前進
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##優勢
+##劣勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##秘密
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##負擔得起
+##便宜
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##冷靜的
+##害怕的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在後面
+##在前面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##允許
+##要求
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##一起
+##夥伴
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##結束
+##開始
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##能力
+##簡單
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##放棄
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##郵件
+##電話
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##批評
+##討厭
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##隱瞞
+##承認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##忽略
+##拒絕
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##停止
+##轉彎
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##劣勢
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##秘密
+##隱藏
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##建議
+##要求
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##免費
+##便宜
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##勇敢的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##同意
+##拒絕
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##建議
+##禁止
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##一起
+##群體
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##結束
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##取得
+##拒絕
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##失敗
+##嘗試
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##活躍的
+##被動的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##郵件
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##欽佩
+##討厭
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##忘記
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##平等
+##優勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##廣告
+##隱藏
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##禁止
+##建議
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##便宜
+##太貴
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##害怕的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##猶豫
+##拒絕
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在下面
+##在前面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##建議
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##完全
+##總是
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##一起
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##繼續
+##結束
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##取得
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##達成
+##放棄
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##吵鬧的
+##被動的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##地址
+##電話
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##忽視
+##討厭
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##忘記
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##放棄
+##忽略
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##停止
+##轉彎
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##中立
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##隱藏
+##廣告
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##拒絕
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在後面
+##在旁邊
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##禁止
+##允許
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##幾乎
+##從不
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##群體
+##夥伴
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##放棄
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##簡單
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##接受
+##拒絕
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##嘗試
+##達成
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##活躍的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##地址
+##電話
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##承認
+##忘記
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##忽略
+##採用
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##後退
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##劣勢
+##平等
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##保密
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##禁止
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##負擔得起
+##太貴
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##興奮的
+##勇敢的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##拒絕
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在旁邊
+##在後面
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##總是
+##幾乎
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##群體
+##夥伴
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##開始
+##繼續
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##困難
+##能力
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##失敗
+##達成
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##地址
+##郵件
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##後退
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##禁止
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##免費
+##太貴
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##害怕的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##猶豫
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在後面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##建議
+##要求
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##幾乎
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##一起
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##結束
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##困難
+##無能
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##達成
+##嘗試
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##電話
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##討厭
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##採用
+##放棄
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##停止
+##轉彎
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##平等
+##中立
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##隱藏
+##廣告
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##要求
+##命令
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##免費
+##太貴
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##反對
+##拒絕
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在前面
+##在後面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##禁止
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##完全
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##單獨的
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##結束
+##開始
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##拒絕
+##取得
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##嘗試
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##安靜的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##承認
+##隱瞞
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##拒絕
+##放棄
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##前進
+##轉彎
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##中立
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##廣告
+##隱藏
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##建議
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##害怕的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##反對
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在旁邊
+##在後面
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##禁止
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##從不
+##完全
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##夥伴
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##開始
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##能力
+##無能
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##取得
+##給予
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##達成
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##安靜的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##電話
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##承認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##採用
+##拒絕
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##停止
+##轉彎
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##劣勢
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##秘密
+##廣告
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##建議
+##命令
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##負擔得起
+##太貴
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##害怕的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##反對
+##猶豫
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在下面
+##在後面
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##一起
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##繼續
+##放棄
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##接受
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##放棄
+##失敗
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##討厭
+##忽視
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##隱瞞
+##忘記
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##採用
+##放棄
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##前進
+##停止
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##劣勢
+##優勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##隱藏
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##勇敢的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##同意
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在後面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##完全
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##夥伴
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##結束
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##困難
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##接受
+##拒絕
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##達成
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##吵鬧的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##地址
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##承認
+##忘記
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##平等
+##中立
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##要求
+##命令
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##便宜
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##害怕的
+##勇敢的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##拒絕
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在旁邊
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##要求
+##允許
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##幾乎
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##夥伴
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##放棄
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##困難
+##簡單
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##接受
+##拒絕
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##放棄
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##被動的
+##安靜的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##郵件
+##電話
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##批評
+##討厭
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##忘記
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##採用
+##拒絕
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##前進
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##優勢
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##保密
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##要求
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##免費
+##太貴
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##反對
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##總是
+##完全
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##繼續
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##給予
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##達成
+##放棄
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##電話
+##郵件
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##忘記
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##忽略
+##放棄
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##平等
+##中立
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##廣告
+##隱藏
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##要求
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##害怕的
+##興奮的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##反對
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在旁邊
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##一起
+##夥伴
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##繼續
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##給予
+##取得
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##達成
+##放棄
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##安靜的
+##活躍的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##郵件
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##批評
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##否認
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##前進
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##劣勢
+##平等
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##要求
+##禁止
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##便宜
+##免費
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##勇敢的
+##冷靜的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##猶豫
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##要求
+##允許
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##總是
+##從不
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##群體
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##繼續
+##開始
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##無能
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##給予
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##達成
+##放棄
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##承認
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##忽略
+##放棄
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##轉彎
+##後退
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##中立
+##劣勢
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##廣告
+##保密
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##要求
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##負擔得起
+##免費
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##猶豫
+##拒絕
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在後面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##允許
+##要求
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##總是
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##群體
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##結束
+##開始
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##無能
+##能力
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##拒絕
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##達成
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##被動的
+##吵鬧的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##電話
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##放棄
+##拒絕
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##劣勢
+##中立
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##秘密
+##保密
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##命令
+##要求
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##拒絕
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在下面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##禁止
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##繼續
+##放棄
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##無能
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##接受
+##給予
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##活躍的
+##安靜的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##批評
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##承認
+##忘記
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##停止
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##劣勢
+##中立
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##隱藏
+##保密
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##禁止
+##要求
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##太貴
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##害怕的
+##興奮的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##同意
+##猶豫
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在下面
+##在前面
+##在後面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##從不
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##單獨的
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##放棄
+##繼續
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##取得
+##給予
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##失敗
+##放棄
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##名字
+##地址
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##討厭
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##忘記
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##忽略
+##拒絕
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##後退
+##轉彎
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##優勢
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##保密
+##廣告
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##便宜
+##免費
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##冷靜的
+##勇敢的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##拒絕
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在下面
+##在後面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##總是
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##群體
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##繼續
+##開始
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##給予
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##吵鬧的
+##活躍的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##名字
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##承認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##放棄
+##拒絕
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##後退
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##優勢
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##保密
+##隱藏
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##免費
+##便宜
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##冷靜的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##猶豫
+##同意
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##要求
+##允許
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##完全
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##夥伴
+##群體
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##結束
+##放棄
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##無能
+##困難
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##拒絕
+##取得
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##嘗試
+##達成
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##活躍的
+##被動的
+##安靜的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##電話
+##郵件
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##忽視
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##採用
+##忽略
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##停止
+##轉彎
+##後退
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##中立
+##優勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##建議
+##命令
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##免費
+##太貴
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##興奮的
+##害怕的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在後面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##建議
+##要求
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##幾乎
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##單獨的
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##拒絕
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##失敗
+##達成
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##批評
+##欽佩
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##忘記
+##承認
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##拒絕
+##放棄
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##中立
+##優勢
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##秘密
+##隱藏
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##禁止
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##便宜
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##冷靜的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##猶豫
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在旁邊
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##一起
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##放棄
+##繼續
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##無能
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##達成
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##吵鬧的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##忽視
+##欽佩
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##否認
+##忘記
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##放棄
+##忽略
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##後退
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##中立
+##劣勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##保密
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##要求
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##負擔得起
+##太貴
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##興奮的
+##害怕的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##猶豫
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在下面
+##在後面
+##在前面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##從不
+##幾乎
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##單獨的
+##一起
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##開始
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##困難
+##無能
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##接受
+##拒絕
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##嘗試
+##失敗
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##被動的
+##吵鬧的
+##活躍的
+##安靜的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##批評
+##欽佩
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##忽略
+##採用
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##優勢
+##劣勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##禁止
+##命令
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##負擔得起
+##免費
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##興奮的
+##冷靜的
+##勇敢的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##猶豫
+##拒絕
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在前面
+##在後面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##禁止
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##幾乎
+##總是
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##繼續
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##困難
+##無能
+##簡單
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##拒絕
+##給予
+##取得
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##被動的
+##安靜的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##討厭
+##忽視
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##隱瞞
+##否認
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##拒絕
+##忽略
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##後退
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##劣勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##要求
+##命令
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##負擔得起
+##免費
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##害怕的
+##勇敢的
+##興奮的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##拒絕
+##反對
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##要求
+##禁止
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##從不
+##完全
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##夥伴
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##繼續
+##開始
+##結束
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##能力
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##拒絕
+##取得
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##嘗試
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##名字
+##郵件
+##地址
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##批評
+##欽佩
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##隱瞞
+##忘記
+##否認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##採用
+##忽略
+##拒絕
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##停止
+##前進
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##優勢
+##中立
+##劣勢
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##保密
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##要求
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##負擔得起
+##免費
+##太貴
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##冷靜的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##拒絕
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在下面
+##在旁邊
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##要求
+##允許
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##從不
+##幾乎
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##單獨的
+##一起
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##繼續
+##放棄
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##困難
+##簡單
+##能力
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##接受
+##拒絕
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##達成
+##失敗
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##吵鬧的
+##活躍的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##郵件
+##電話
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##討厭
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##隱瞞
+##忘記
+##承認
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##忽略
+##拒絕
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##後退
+##轉彎
+##前進
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##優勢
+##平等
+##劣勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##命令
+##建議
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##免費
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##同意
+##反對
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##幾乎
+##從不
+##總是
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##群體
+##夥伴
+##單獨的
+##一起
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##繼續
+##放棄
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##能力
+##簡單
+##困難
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##取得
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##放棄
+##達成
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##安靜的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##電話
+##郵件
+##名字
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##隱瞞
+##承認
+##否認
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##拒絕
+##忽略
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##轉彎
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##中立
+##劣勢
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##保密
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##禁止
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##負擔得起
+##太貴
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##冷靜的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##猶豫
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在下面
+##在前面
+##在旁邊
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##要求
+##允許
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##幾乎
+##完全
+##從不
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##繼續
+##結束
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##無能
+##簡單
+##能力
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##取得
+##給予
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##放棄
+##達成
+##嘗試
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##電話
+##地址
+##名字
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##批評
+##忽視
+##討厭
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##承認
+##忘記
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##採用
+##忽略
+##拒絕
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##後退
+##停止
+##前進
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##平等
+##劣勢
+##優勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##秘密
+##廣告
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##禁止
+##命令
+##要求
+##建議
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##免費
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##害怕的
+##勇敢的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##同意
+##猶豫
+##反對
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##允許
+##禁止
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##從不
+##幾乎
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##群體
+##單獨的
+##夥伴
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##開始
+##結束
+##繼續
+##放棄
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##接受
+##拒絕
+##給予
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##嘗試
+##放棄
+##失敗
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##吵鬧的
+##被動的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##電話
+##名字
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##欽佩
+##忽視
+##討厭
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##否認
+##承認
+##隱瞞
+##忘記
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##轉彎
+##停止
+##前進
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##中立
+##平等
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##保密
+##廣告
+##隱藏
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##禁止
+##建議
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##免費
+##便宜
+##太貴
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##冷靜的
+##勇敢的
+##害怕的
+##興奮的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##同意
+##猶豫
+##反對
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在後面
+##在前面
+##在旁邊
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##建議
+##允許
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##從不
+##幾乎
+##總是
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##單獨的
+##一起
+##夥伴
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##結束
+##放棄
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##困難
+##無能
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##拒絕
+##取得
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##達成
+##放棄
+##嘗試
+##失敗
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##活躍的
+##被動的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##郵件
+##名字
+##電話
+##地址
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##批評
+##欽佩
+##討厭
+##忽視
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##忘記
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##忽略
+##拒絕
+##採用
+##放棄
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##停止
+##後退
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##優勢
+##平等
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##廣告
+##隱藏
+##秘密
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##建議
+##命令
+##要求
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##便宜
+##太貴
+##免費
+##負擔得起
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##拒絕
+##猶豫
+##反對
+##同意
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在下面
+##在前面
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##禁止
+##允許
+##建議
+##要求
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##總是
+##完全
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##一起
+##單獨的
+##群體
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##結束
+##繼續
+##開始
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##無能
+##困難
+##能力
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##取得
+##拒絕
+##接受
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##放棄
+##失敗
+##嘗試
+##達成
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##安靜的
+##被動的
+##活躍的
+##吵鬧的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##郵件
+##電話
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##討厭
+##欽佩
+##忽視
+##批評
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##忘記
+##否認
+##承認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##拒絕
+##忽略
+##放棄
+##採用
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##後退
+##停止
+##轉彎
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##中立
+##平等
+##劣勢
+##優勢
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##保密
+##隱藏
+##廣告
+##秘密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##命令
+##禁止
+##建議
+##要求
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##太貴
+##免費
+##負擔得起
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##興奮的
+##害怕的
+##冷靜的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##反對
+##拒絕
+##同意
+##猶豫
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在前面
+##在下面
+##在旁邊
+##在後面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##建議
+##允許
+##要求
+##禁止
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##從不
+##總是
+##幾乎
+##完全
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##夥伴
+##一起
+##群體
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
+@@@#
+####quizContent=
+What does "abandon" mean?
+####chooses=
+##放棄
+##開始
+##結束
+##繼續
+####correctContents=
+##放棄
+####solution=
+abandon 的意思是 放棄
+@@@#
+####quizContent=
+What does "ability" mean?
+####chooses=
+##簡單
+##能力
+##無能
+##困難
+####correctContents=
+##能力
+####solution=
+ability 的意思是 能力
+@@@#
+####quizContent=
+What does "accept" mean?
+####chooses=
+##給予
+##拒絕
+##接受
+##取得
+####correctContents=
+##接受
+####solution=
+accept 的意思是 接受
+@@@#
+####quizContent=
+What does "achieve" mean?
+####chooses=
+##失敗
+##嘗試
+##達成
+##放棄
+####correctContents=
+##達成
+####solution=
+achieve 的意思是 達成
+@@@#
+####quizContent=
+What does "active" mean?
+####chooses=
+##吵鬧的
+##安靜的
+##被動的
+##活躍的
+####correctContents=
+##活躍的
+####solution=
+active 的意思是 活躍的
+@@@#
+####quizContent=
+What does "address" mean?
+####chooses=
+##地址
+##名字
+##電話
+##郵件
+####correctContents=
+##地址
+####solution=
+address 的意思是 地址
+@@@#
+####quizContent=
+What does "admire" mean?
+####chooses=
+##忽視
+##討厭
+##批評
+##欽佩
+####correctContents=
+##欽佩
+####solution=
+admire 的意思是 欽佩
+@@@#
+####quizContent=
+What does "admit" mean?
+####chooses=
+##承認
+##忘記
+##否認
+##隱瞞
+####correctContents=
+##承認
+####solution=
+admit 的意思是 承認
+@@@#
+####quizContent=
+What does "adopt" mean?
+####chooses=
+##放棄
+##拒絕
+##採用
+##忽略
+####correctContents=
+##採用
+####solution=
+adopt 的意思是 採用
+@@@#
+####quizContent=
+What does "advance" mean?
+####chooses=
+##前進
+##轉彎
+##後退
+##停止
+####correctContents=
+##前進
+####solution=
+advance 的意思是 前進
+@@@#
+####quizContent=
+What does "advantage" mean?
+####chooses=
+##劣勢
+##平等
+##優勢
+##中立
+####correctContents=
+##優勢
+####solution=
+advantage 的意思是 優勢
+@@@#
+####quizContent=
+What does "advertise" mean?
+####chooses=
+##秘密
+##廣告
+##隱藏
+##保密
+####correctContents=
+##廣告
+####solution=
+advertise 的意思是 廣告
+@@@#
+####quizContent=
+What does "advice" mean?
+####chooses=
+##要求
+##命令
+##建議
+##禁止
+####correctContents=
+##建議
+####solution=
+advice 的意思是 建議
+@@@#
+####quizContent=
+What does "afford" mean?
+####chooses=
+##負擔得起
+##太貴
+##免費
+##便宜
+####correctContents=
+##負擔得起
+####solution=
+afford 的意思是 負擔得起
+@@@#
+####quizContent=
+What does "afraid" mean?
+####chooses=
+##勇敢的
+##冷靜的
+##興奮的
+##害怕的
+####correctContents=
+##害怕的
+####solution=
+afraid 的意思是 害怕的
+@@@#
+####quizContent=
+What does "agree" mean?
+####chooses=
+##猶豫
+##反對
+##同意
+##拒絕
+####correctContents=
+##同意
+####solution=
+agree 的意思是 同意
+@@@#
+####quizContent=
+What does "ahead" mean?
+####chooses=
+##在旁邊
+##在後面
+##在前面
+##在下面
+####correctContents=
+##在前面
+####solution=
+ahead 的意思是 在前面
+@@@#
+####quizContent=
+What does "allow" mean?
+####chooses=
+##允許
+##禁止
+##要求
+##建議
+####correctContents=
+##允許
+####solution=
+allow 的意思是 允許
+@@@#
+####quizContent=
+What does "almost" mean?
+####chooses=
+##完全
+##總是
+##從不
+##幾乎
+####correctContents=
+##幾乎
+####solution=
+almost 的意思是 幾乎
+@@@#
+####quizContent=
+What does "alone" mean?
+####chooses=
+##一起
+##夥伴
+##群體
+##單獨的
+####correctContents=
+##單獨的
+####solution=
+alone 的意思是 單獨的
