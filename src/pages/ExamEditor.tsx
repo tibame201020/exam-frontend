@@ -10,7 +10,7 @@ import {
 import {
     Save, Plus, Upload,
     ArrowLeft, Search, Database,
-    Layers, FileText
+    Layers, FileText, Download
 } from 'lucide-react';
 
 const ExamEditor = () => {
@@ -69,6 +69,30 @@ const ExamEditor = () => {
             quizzes: prev.quizzes.filter((_, i) => i !== idx)
         }));
     }, []);
+
+    const handleExport = () => {
+        const legacyContent = exportToLegacyFormat(exam.quizzes);
+        downloadFile(`${exam.name}_legacy.txt`, legacyContent);
+        notify('success', 'Module exported to legacy text format.');
+    };
+
+    const downloadFile = (filename: string, content: string) => {
+        const element = document.createElement('a');
+        const file = new Blob([content], { type: 'text/plain' });
+        element.href = URL.createObjectURL(file);
+        element.download = filename;
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+    };
+
+    const exportToLegacyFormat = (quizzes: Quiz[]): string => {
+        return quizzes.map(q => {
+            const choosesStr = q.chooses.join('##');
+            const correctStr = q.correctContents.join('##');
+            return `quizContent=##${q.quizContent}##chooses=##${choosesStr}##correctContents=##${correctStr}##solution=##${q.solution}`;
+        }).join('@@@#');
+    };
 
     const handleSave = async () => {
         if (!exam.name.trim()) {
@@ -259,6 +283,9 @@ const ExamEditor = () => {
                         <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-300 group-focus-within:text-indigo-500 transition-colors" />
                     </div>
 
+                    <button onClick={handleExport} className="pro-btn border-slate-200 h-11 flex-1 xl:flex-none gap-2 hover:bg-slate-50">
+                        <Download size={16} /> Export Legacy
+                    </button>
                     <button onClick={() => fileInputRef.current?.click()} className="pro-btn border-slate-200 h-11 flex-1 xl:flex-none gap-2">
                         <Upload size={16} /> Legacy Import
                     </button>

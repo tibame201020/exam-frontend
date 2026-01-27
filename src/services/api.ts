@@ -45,6 +45,6 @@ export const examApi = {
     commitAnsToRecord: (record: ExamRecord) => api.post<ExamRecord>('/commitAnsToRecord', record).then(r => r.data),
     getScoreById: (id: number) => api.post<ExamRecordScore>('/getScoreById', id).then(r => r.data),
     getScoreByKeyword: (keyword: string) => textApi.post<ExamRecordScore[]>('/getScoreByKeyword', keyword).then(r => r.data),
-    deleteRecordScore: (id: number) => textApi.post<boolean>('/deleteRecordScore', id).then(r => r.data),
+    deleteRecordScore: (id: number) => api.post<boolean>('/deleteRecordScore', id).then(r => r.data),
     getExamRecordById: (id: number) => api.post<ExamRecord>('/getExamRecordById', id).then(r => r.data),
 };

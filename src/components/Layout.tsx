@@ -4,6 +4,7 @@ import {
     Home, History, Settings, LayoutDashboard,
     Menu, X, ChevronRight, GraduationCap
 } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
 
 interface LayoutProps {
     children: React.ReactNode;
@@ -109,9 +110,18 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </header>
 
                 <main className="flex-1 overflow-y-auto scroll-modern bg-slate-50">
-                    <div className="p-8 fade-in">
-                        {children}
-                    </div>
+                    <AnimatePresence mode="wait">
+                        <motion.div
+                            key={location.pathname}
+                            initial={{ opacity: 0, y: 8 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            exit={{ opacity: 0, y: -8 }}
+                            transition={{ duration: 0.2, ease: [0.23, 1, 0.32, 1] }}
+                            className="p-8"
+                        >
+                            {children}
+                        </motion.div>
+                    </AnimatePresence>
                 </main>
             </div>
         </div>

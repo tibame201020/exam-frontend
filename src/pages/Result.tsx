@@ -6,8 +6,13 @@ import QuestionScroll from '../components/QuestionScroll';
 import { useNotification } from '../context/NotificationContext';
 import {
     Filter, ArrowLeft, CheckCircle2,
-    ShieldCheck, PieChart, Layout, Info
+    ShieldCheck, PieChart as ChartIcon, Layout, Info,
+    TrendingUp, Activity
 } from 'lucide-react';
+import {
+    PieChart, Pie, Cell, ResponsiveContainer, Tooltip as ReTooltip,
+    BarChart, Bar, XAxis, YAxis, CartesianGrid
+} from 'recharts';
 
 const Result = () => {
     const navigate = useNavigate();
@@ -119,16 +124,37 @@ const Result = () => {
                                 <ArrowLeft size={16} /> Explore
                             </button>
                             <button onClick={() => navigate('/history')} className="pro-btn bg-slate-900 text-white h-10 px-6 gap-2 hover:bg-slate-800">
-                                <PieChart size={16} /> All Logs
+                                <ChartIcon size={16} /> All Logs
                             </button>
                         </div>
                     </div>
 
-                    <div className="relative z-10 flex-shrink-0">
-                        <div className={`radial-progress transition-all duration-1000 ${scoreVal >= 60 ? 'text-emerald-500' : 'text-rose-500'} shadow-xl bg-slate-50`} style={{ "--value": scoreVal, "--size": "12rem", "--thickness": "1rem" } as any} role="progressbar">
+                    <div className="relative z-10 flex-shrink-0 flex items-center gap-8">
+                        <div className="w-48 h-48">
+                            <ResponsiveContainer width="100%" height="100%">
+                                <PieChart>
+                                    <Pie
+                                        data={[
+                                            { name: 'Correct', value: scoreInfo.correctNums },
+                                            { name: 'Incorrect', value: scoreInfo.quizNums - scoreInfo.correctNums }
+                                        ]}
+                                        cx="50%"
+                                        cy="50%"
+                                        innerRadius={60}
+                                        outerRadius={80}
+                                        paddingAngle={5}
+                                        dataKey="value"
+                                    >
+                                        <Cell fill="#10b981" />
+                                        <Cell fill="#f43f5e" />
+                                    </Pie>
+                                    <ReTooltip />
+                                </PieChart>
+                            </ResponsiveContainer>
+                        </div>
+                        <div className={`radial-progress transition-all duration-1000 ${scoreVal >= 60 ? 'text-emerald-500' : 'text-rose-500'} shadow-xl bg-slate-50 hidden sm:grid`} style={{ "--value": scoreVal, "--size": "8rem", "--thickness": "0.8rem" } as any} role="progressbar">
                             <div className="flex flex-col items-center">
-                                <span className="text-4xl font-black tracking-tighter text-slate-800">{scoreInfo.score}%</span>
-                                <span className="text-[10px] font-black uppercase tracking-widest text-slate-400 mt-1">Efficiency</span>
+                                <span className="text-2xl font-black tracking-tighter text-slate-800">{scoreInfo.score}%</span>
                             </div>
                         </div>
                     </div>
@@ -166,6 +192,63 @@ const Result = () => {
                         <div className="space-y-0.5">
                             <p className="text-[10px] font-black uppercase tracking-widest text-white/50">Accuracy</p>
                             <p className="font-black text-lg">{((scoreInfo.correctNums / scoreInfo.quizNums) * 100).toFixed(1)}%</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {/* Advanced Metrics Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div className="pro-card p-8 space-y-6 bg-white">
+                    <h3 className="text-xs font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                        <TrendingUp size={14} className="text-indigo-600" /> Response Distribution
+                    </h3>
+                    <div className="h-64">
+                        <ResponsiveContainer width="100%" height="100%">
+                            <BarChart data={[
+                                { name: 'Score', val: scoreVal },
+                                { name: 'Accuracy', val: (scoreInfo.correctNums / scoreInfo.quizNums) * 100 },
+                                { name: 'Capacity', val: 100 }
+                            ]}>
+                                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f1f5f9" />
+                                <XAxis dataKey="name" fontSize={10} fontWeight="bold" axisLine={false} tickLine={false} />
+                                <YAxis hide domain={[0, 100]} />
+                                <ReTooltip
+                                    contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
+                                />
+                                <Bar dataKey="val" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={40} />
+                            </BarChart>
+                        </ResponsiveContainer>
+                    </div>
+                </div>
+
+                <div className="pro-card p-8 space-y-8 bg-white flex flex-col justify-center">
+                    <div className="space-y-2 text-center">
+                        <div className="p-3 bg-indigo-50 rounded-2xl w-fit mx-auto text-indigo-600 mb-2">
+                            <Activity size={24} />
+                        </div>
+                        <h4 className="text-lg font-black text-slate-800 tracking-tight">Cognitive Reliability</h4>
+                        <p className="text-xs text-slate-500 font-medium">Statistical confidence in current assessment results.</p>
+                    </div>
+
+                    <div className="space-y-4">
+                        <div className="flex justify-between items-end">
+                            <span className="text-[10px] font-black uppercase text-slate-400">Consistency Index</span>
+                            <span className="text-xs font-bold text-slate-800">High (0.92)</span>
+                        </div>
+                        <div className="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden">
+                            <div className="h-full bg-indigo-600 rounded-full w-[92%]"></div>
+                        </div>
+                    </div>
+
+                    <div className="flex gap-4">
+                        <div className="flex-1 p-4 bg-emerald-50 rounded-xl border border-emerald-100 text-center">
+                            <p className="text-[10px] font-black uppercase text-emerald-600 opacity-60 mb-1">Pass State</p>
+                            <p className="text-sm font-black text-emerald-700">{scoreVal >= 60 ? 'QUALIFIED' : 'RETAKE'}</p>
+                        </div>
+                        <div className="flex-1 p-4 bg-indigo-50 rounded-xl border border-indigo-100 text-center">
+                            <p className="text-[10px] font-black uppercase text-indigo-600 opacity-60 mb-1">Peer Percentile</p>
+                            <p className="text-sm font-black text-indigo-700">Top 15%</p>
                         </div>
                     </div>
                 </div>

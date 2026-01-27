@@ -16,6 +16,9 @@ const ExamMode = () => {
 
     const [examRecord, setExamRecord] = useState<ExamRecord | null>(null);
     const [loading, setLoading] = useState(true);
+    const [timeLeft, setTimeLeft] = useState<number | null>(null);
+    const [mode, setMode] = useState<'exam' | 'practice'>('exam');
+    const [revealedIndices, setRevealedIndices] = useState<Set<number>>(new Set());
 
     useEffect(() => {
         const paramStr = sessionStorage.getItem('examModeParam');
@@ -29,6 +32,11 @@ const ExamMode = () => {
 
         const param = JSON.parse(paramStr);
         const record = JSON.parse(recordStr);
+
+        setMode(param.mode || 'exam');
+        if (param.timer > 0) {
+            setTimeLeft(param.timer * 60);
+        }
 
         if (param.name !== name) {
             notify('error', "Module signature mismatch. Verification failed.");
@@ -52,6 +60,58 @@ const ExamMode = () => {
         // Clear the temporary record from storage to prevent stale sessions
         // sessionStorage.removeItem('examRecord'); // Optional: keep for refresh persistence
     }, [name]);
+
+    useEffect(() => {
+        if (timeLeft === null) return;
+        if (timeLeft <= 0) {
+            handleAutoCommit();
+            return;
+        }
+
+        const timerId = setInterval(() => {
+            setTimeLeft(prev => (prev !== null ? prev - 1 : null));
+        }, 1000);
+
+        return () => clearInterval(timerId);
+    }, [timeLeft]);
+
+    const formatTime = (seconds: number) => {
+        const h = Math.floor(seconds / 3600);
+        const m = Math.floor((seconds % 3600) / 60);
+        const s = seconds % 60;
+        return `${h > 0 ? h + ':' : ''}${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    };
+
+    const handleAutoCommit = async () => {
+        if (!examRecord) return;
+        notify('warning', 'Session duration expired. Auto-synchronizing current data...');
+        await performCommit(examRecord);
+    };
+
+    const handleReveal = (idx: number) => {
+        setRevealedIndices(prev => new Set([...prev, idx]));
+    };
+
+    const performCommit = async (record: ExamRecord) => {
+        try {
+            setLoading(true);
+            const finalizedRecord = {
+                ...record,
+                logTime: new Date().toISOString()
+            };
+
+            const result = await examApi.commitAnsToRecord(finalizedRecord);
+            sessionStorage.setItem('examResult', JSON.stringify(result));
+            sessionStorage.setItem('examResultId', result.id.toString());
+
+            notify('success', 'Assessment completed successfully.');
+            navigate('/test/result');
+        } catch (error) {
+            notify('error', 'Transmission error during final sync.');
+        } finally {
+            setLoading(false);
+        }
+    };
 
     const handleAnswerChange = (quizIdx: number, choose: string) => {
         if (!examRecord) return;
@@ -98,29 +158,7 @@ const ExamMode = () => {
             message,
             confirmText: 'Submit Final Answers',
             cancelText: 'Continue Testing',
-            onConfirm: async () => {
-                try {
-                    setLoading(true);
-                    // Ensure the record has a current timestamp and the ansQuizzes are locked in
-                    const finalizedRecord = {
-                        ...examRecord,
-                        logTime: new Date().toISOString()
-                    };
-
-                    const result = await examApi.commitAnsToRecord(finalizedRecord);
-
-                    // Documentation flow: set both result object and specific ID for Result page consumption
-                    sessionStorage.setItem('examResult', JSON.stringify(result));
-                    sessionStorage.setItem('examResultId', result.id.toString());
-
-                    notify('success', 'Assessment completed successfully. Analyzing performance...');
-                    navigate('/test/result');
-                } catch (error) {
-                    notify('error', 'Transmission error. Please try again.');
-                } finally {
-                    setLoading(false);
-                }
-            }
+            onConfirm: () => performCommit(examRecord)
         });
     };
 
@@ -221,10 +259,15 @@ const ExamMode = () => {
 
                     <div className="p-6 bg-slate-800 rounded-2xl text-white space-y-4 shadow-xl">
                         <div className="flex items-center gap-3">
-                            <Clock className="text-indigo-400" size={20} />
+                            <Clock className={timeLeft !== null && timeLeft < 60 ? 'text-rose-400 animate-pulse' : 'text-indigo-400'} size={20} />
                             <span className="text-sm font-bold opacity-80 uppercase tracking-widest">Time Tracking</span>
                         </div>
-                        <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold">Standard testing mode</p>
+                        <div className="text-2xl font-black font-mono tracking-wider">
+                            {timeLeft !== null ? formatTime(timeLeft) : 'UNRESTRICTED'}
+                        </div>
+                        <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold">
+                            {mode === 'exam' ? 'Standard Protocol' : 'Interactive Training'}
+                        </p>
                     </div>
                 </div>
 
@@ -234,6 +277,9 @@ const ExamMode = () => {
                         quizzes={examRecord.ansQuizzes}
                         userAnswers={examRecord.ansQuizzes.map(q => q.correctContents)}
                         onAnswerChange={handleAnswerChange}
+                        revealedIndices={revealedIndices}
+                        onReveal={mode === 'practice' ? handleReveal : undefined}
+                        correctAnswers={mode === 'practice' ? examRecord.examQuizzes.map(q => q.correctContents) : []}
                     />
                 </div>
             </div>

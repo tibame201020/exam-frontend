@@ -12,6 +12,8 @@ const Home = () => {
     const [keyword, setKeyword] = useState('');
     const [selectedExam, setSelectedExam] = useState<string | null>(null);
     const [quizCount, setQuizCount] = useState<string>("0");
+    const [mode, setMode] = useState<'exam' | 'practice'>('exam');
+    const [timer, setTimer] = useState<number>(0); // 0 means no timer
     const [loading, setLoading] = useState(true);
     const navigate = useNavigate();
     const { confirm, notify } = useNotification();
@@ -72,7 +74,9 @@ const Home = () => {
                     setLoading(true);
                     const param = {
                         name: selectedExam,
-                        quizzesNum: parseInt(quizCount)
+                        quizzesNum: parseInt(quizCount),
+                        mode,
+                        timer
                     };
 
                     // Call API before navigation - as per user requirement and Angular parity
@@ -200,6 +204,44 @@ const Home = () => {
                                             )}
                                         </button>
                                     ))}
+                                </div>
+
+                                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-4">
+                                    <div className="space-y-4">
+                                        <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                                            Execution Protocol
+                                        </label>
+                                        <div className="flex bg-slate-100 p-1 rounded-xl gap-1">
+                                            <button
+                                                onClick={() => setMode('exam')}
+                                                className={`flex-1 py-3 rounded-lg text-xs font-bold transition-all ${mode === 'exam' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
+                                            >
+                                                Assessment
+                                            </button>
+                                            <button
+                                                onClick={() => setMode('practice')}
+                                                className={`flex-1 py-3 rounded-lg text-xs font-bold transition-all ${mode === 'practice' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
+                                            >
+                                                Training
+                                            </button>
+                                        </div>
+                                    </div>
+
+                                    <div className="space-y-4">
+                                        <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
+                                            Temporal Constraints
+                                        </label>
+                                        <select
+                                            value={timer}
+                                            onChange={(e) => setTimer(parseInt(e.target.value))}
+                                            className="pro-input w-full h-11 text-xs font-bold"
+                                        >
+                                            <option value={0}>Unrestricted Time</option>
+                                            <option value={10}>10 Minutes Blitz</option>
+                                            <option value={30}>30 Minutes Standard</option>
+                                            <option value={60}>60 Minutes Marathon</option>
+                                        </select>
+                                    </div>
                                 </div>
                             </div>
 
