@@ -5,12 +5,14 @@ import QuestionScroll from '../components/QuestionScroll';
 import { useNotification } from '../context/NotificationContext';
 import {
     Search, BookOpen, Layers,
-    ChevronLeft, Palette, FileText,
-    ArrowRight, Info, Check
+    ChevronLeft, Palette,
+    ArrowRight
 } from 'lucide-react';
+import { useLanguage } from '../context/LanguageContext';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const Solution = () => {
+    const { t } = useLanguage();
     const { notify } = useNotification();
     const [examList, setExamList] = useState<string[]>([]);
     const [selectedExam, setSelectedExam] = useState<Exam | null>(null);
@@ -77,17 +79,17 @@ const Solution = () => {
                         <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-2 border-b border-base-300">
                             <div className="space-y-1">
                                 <h1 className="text-3xl font-black text-base-content tracking-tight flex items-center gap-3">
-                                    Knowledge Solutions
+                                    {t('sol.title')}
                                     <BookOpen className="text-primary" size={24} />
                                 </h1>
-                                <p className="text-base-content/50 text-sm font-medium">Browse verified answer keys and expert analysis.</p>
+                                <p className="text-base-content/50 text-sm font-medium">{t('sol.desc')}</p>
                             </div>
 
                             <div className="relative group w-full md:w-80">
                                 <input
                                     type="text"
-                                    placeholder="Filter repositories..."
-                                    className="pro-input w-full pl-11 h-12"
+                                    placeholder={t('sol.filter')}
+                                    className="pro-input w-full pl-11 h-10 text-sm"
                                     value={searchTerm}
                                     onChange={(e) => setSearchTerm(e.target.value)}
                                 />
@@ -113,7 +115,7 @@ const Solution = () => {
                                     </div>
                                     <div className="space-y-1">
                                         <h3 className="font-black text-base-content tracking-tight group-hover:text-primary transition-colors line-clamp-1">{name}</h3>
-                                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/30">Standard Solution Atlas</p>
+                                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/30">{t('sol.atlas')}</p>
                                     </div>
                                 </button>
                             ))}
@@ -138,7 +140,7 @@ const Solution = () => {
                         className="space-y-8"
                     >
                         {/* Detail Command Bar */}
-                        <div className="bg-base-100 p-6 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
+                        <div className="bg-base-100 p-4 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
                             <div className="flex items-center gap-4">
                                 <button
                                     onClick={() => setSelectedExam(null)}
@@ -153,7 +155,7 @@ const Solution = () => {
                                         <span className="text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em]">{selectedExam.name}</span>
                                     </div>
                                     <h1 className="text-2xl font-black text-base-content tracking-tight">
-                                        Solution Overview
+                                        {t('sol.overview')}
                                     </h1>
                                 </div>
                             </div>
@@ -166,47 +168,20 @@ const Solution = () => {
                                 <div className="w-[1px] h-8 bg-base-300"></div>
                                 <div className="flex items-center gap-2 text-success">
                                     <Palette size={16} />
-                                    <span className="text-xs font-black uppercase tracking-widest">Verified Key</span>
+                                    <span className="text-xs font-black uppercase tracking-widest">{t('sol.verified')}</span>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-                            {/* Solution Sidebar */}
-                            <div className="lg:col-span-1 space-y-6">
-                                <div className="pro-card p-6 space-y-6">
-                                    <div className="space-y-4">
-                                        <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest flex items-center gap-2">
-                                            <Info size={14} /> Intelligence Meta
-                                        </h3>
-                                        <div className="space-y-3">
-                                            <div className="p-4 bg-base-200 rounded-xl border border-base-300">
-                                                <p className="text-[10px] font-black text-base-content/30 uppercase tracking-widest mb-1">Integrity Status</p>
-                                                <p className="text-xs font-bold text-success flex items-center gap-2">
-                                                    <Check size={14} /> Production Verified
-                                                </p>
-                                            </div>
-                                            <div className="p-4 bg-base-200 rounded-xl border border-base-300">
-                                                <p className="text-[10px] font-black text-base-content/30 uppercase tracking-widest mb-1">Last Sync</p>
-                                                <p className="text-xs font-bold text-base-content opacity-60">Synchronized (Live)</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div className="p-6 bg-primary/5 rounded-2xl border border-dashed border-primary/20 space-y-4">
-                                    <div className="flex items-center gap-3">
-                                        <FileText className="text-primary/40" size={20} />
-                                        <span className="text-xs font-black text-primary/70 uppercase tracking-widest">Navigation Rule</span>
-                                    </div>
-                                    <p className="text-[10px] font-bold text-base-content/40 leading-relaxed">
-                                        This provides read-only access to the official answer matrix. Use this for group study or review.
-                                    </p>
-                                </div>
+                        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+                            {/* Solution Sidebar - Removed Intelligence Meta and Navigation Rule, keeping layout cleaner */}
+                            <div className="hidden lg:block lg:col-span-0">
+                                {/* Intentionally left empty or removed completely to give full width to questions */}
                             </div>
 
-                            {/* Solution Viewport */}
-                            <div className="lg:col-span-3">
+                            {/* Solution Viewport - Widened to Full or near Full */}
+                            <div className="lg:col-span-4 px-4 sm:px-0">
                                 {loading ? (
                                     <div className="flex flex-col items-center justify-center py-40 gap-6 pro-card">
                                         <span className="loading loading-spinner loading-lg text-primary"></span>
@@ -225,7 +200,7 @@ const Solution = () => {
                     </motion.div>
                 )}
             </AnimatePresence>
-        </div>
+        </div >
     );
 };
 

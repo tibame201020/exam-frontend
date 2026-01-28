@@ -5,11 +5,12 @@ import type { ExamRecord } from '../types/exam';
 import QuestionScroll from '../components/QuestionScroll';
 import { useNotification } from '../context/NotificationContext';
 import {
-    Send, LogOut, Info, Clock,
-    HelpCircle
+    Send, LogOut
 } from 'lucide-react';
+import { useLanguage } from '../context/LanguageContext';
 
 const ExamMode = () => {
+    const { t } = useLanguage();
     const { name } = useParams<{ name: string }>();
     const navigate = useNavigate();
     const { notify, confirm } = useNotification();
@@ -74,13 +75,6 @@ const ExamMode = () => {
 
         return () => clearInterval(timerId);
     }, [timeLeft]);
-
-    const formatTime = (seconds: number) => {
-        const h = Math.floor(seconds / 3600);
-        const m = Math.floor((seconds % 3600) / 60);
-        const s = seconds % 60;
-        return `${h > 0 ? h + ':' : ''}${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
-    };
 
     const handleAutoCommit = async () => {
         if (!examRecord) return;
@@ -149,15 +143,12 @@ const ExamMode = () => {
         if (!examRecord) return;
 
         const allAnswered = isComplete();
-        const message = allAnswered
-            ? 'Proceed to finalize your assessment? Once submitted, answers cannot be modified.'
-            : 'Warning: Some questions remain unanswered. Do you want to submit anyway?';
 
         confirm({
-            title: 'Confirm Submission',
-            message,
-            confirmText: 'Submit Final Answers',
-            cancelText: 'Continue Testing',
+            title: t('exam.submit.title'),
+            message: allAnswered ? t('exam.submit.msg') : t('exam.submit.warn'),
+            confirmText: t('exam.submit.confirm'),
+            cancelText: t('exam.submit.cancel'),
             onConfirm: () => performCommit(examRecord)
         });
     };
@@ -183,7 +174,7 @@ const ExamMode = () => {
     return (
         <div className="max-w-7xl mx-auto space-y-8 fade-in">
             {/* Professional Command Center */}
-            <div className="bg-base-100 p-6 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
+            <div className="bg-base-100 p-4 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
                 <div className="flex items-center gap-6">
                     <div>
                         <div className="flex items-center gap-2 mb-1">
@@ -192,7 +183,7 @@ const ExamMode = () => {
                             <span className="text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em]">{name}</span>
                         </div>
                         <h1 className="text-2xl font-black text-base-content tracking-tight flex items-center gap-3">
-                            Assessment Panel
+                            {t('exam.panel')}
                         </h1>
                     </div>
 
@@ -200,7 +191,7 @@ const ExamMode = () => {
 
                     <div className="space-y-2 min-w-[200px] hidden sm:block">
                         <div className="flex justify-between text-[10px] font-black text-base-content/40 uppercase tracking-tighter">
-                            <span>Completion Progress</span>
+                            <span>{t('exam.progress')}</span>
                             <span>{answeredCount} / {totalCount}</span>
                         </div>
                         <div className="w-full bg-base-300 h-2 rounded-full overflow-hidden">
@@ -211,77 +202,24 @@ const ExamMode = () => {
 
                 <div className="flex gap-3 w-full md:w-auto">
                     <button onClick={() => navigate('/')} className="pro-btn border-base-300 gap-2 flex-1 md:flex-none">
-                        <LogOut size={16} /> Quit System
+                        <LogOut size={16} /> {t('exam.quit')}
                     </button>
-                    <button onClick={handleCommit} className="pro-btn btn-primary px-10 gap-2 shadow-lg shadow-primary/20 flex-1 md:flex-none">
-                        <Send size={16} /> Finalize
+                    <button onClick={handleCommit} className="pro-btn btn-primary px-6 gap-2 shadow-lg shadow-primary/20 flex-1 md:flex-none">
+                        <Send size={16} /> {t('exam.finalize')}
                     </button>
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 xl:grid-cols-4 gap-8">
-                {/* Information Hub */}
-                <div className="xl:col-span-1 space-y-6">
-                    <div className="pro-card p-6 space-y-6">
-                        <div>
-                            <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest mb-4 flex items-center gap-2">
-                                <Info size={14} /> session metadata
-                            </h3>
-                            <div className="space-y-4">
-                                <div className="flex items-center justify-between p-4 bg-base-200 rounded-xl border border-base-300">
-                                    <span className="text-xs font-bold text-base-content/60">Module</span>
-                                    <span className="text-xs font-black text-base-content uppercase">{name}</span>
-                                </div>
-                                <div className="flex items-center justify-between p-4 bg-base-200 rounded-xl border border-base-300">
-                                    <span className="text-xs font-bold text-base-content/60">Status</span>
-                                    <span className="text-xs font-black text-success uppercase flex items-center gap-1">
-                                        <div className="w-1.5 h-1.5 bg-success rounded-full animate-ping"></div>
-                                        Active
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="pt-4 border-t border-base-300 space-y-4">
-                            <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest flex items-center gap-2">
-                                <HelpCircle size={14} /> Legend
-                            </h3>
-                            <div className="space-y-2">
-                                <div className="flex items-center gap-3 text-xs font-medium text-base-content/60 px-1">
-                                    <div className="w-3 h-3 rounded-full bg-primary shadow-sm"></div> Selected
-                                </div>
-                                <div className="flex items-center gap-3 text-xs font-medium text-base-content/60 px-1">
-                                    <div className="w-3 h-3 rounded-full bg-warning/30 border border-warning/50"></div> Pending
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="p-6 bg-neutral text-neutral-content rounded-2xl space-y-4 shadow-xl">
-                        <div className="flex items-center gap-3">
-                            <Clock className={timeLeft !== null && timeLeft < 60 ? 'text-error animate-pulse' : 'text-primary'} size={20} />
-                            <span className="text-sm font-bold opacity-80 uppercase tracking-widest">Time Tracking</span>
-                        </div>
-                        <div className="text-2xl font-black font-mono tracking-wider">
-                            {timeLeft !== null ? formatTime(timeLeft) : 'UNRESTRICTED'}
-                        </div>
-                        <p className="text-[10px] uppercase tracking-wider opacity-40 font-bold">
-                            {mode === 'exam' ? 'Standard Protocol' : 'Interactive Training'}
-                        </p>
-                    </div>
-                </div>
-
-                {/* Primary viewport */}
-                <div className="xl:col-span-3">
-                    <QuestionScroll
-                        quizzes={examRecord.ansQuizzes}
-                        userAnswers={examRecord.ansQuizzes.map(q => q.correctContents)}
-                        onAnswerChange={handleAnswerChange}
-                        revealedIndices={revealedIndices}
-                        onReveal={mode === 'practice' ? handleReveal : undefined}
-                        correctAnswers={mode === 'practice' ? examRecord.examQuizzes.map(q => q.correctContents) : []}
-                    />
-                </div>
+            {/* Primary viewport - Full Width */}
+            <div className="w-full">
+                <QuestionScroll
+                    quizzes={examRecord.ansQuizzes}
+                    userAnswers={examRecord.ansQuizzes.map(q => q.correctContents)}
+                    onAnswerChange={handleAnswerChange}
+                    revealedIndices={revealedIndices}
+                    onReveal={mode === 'practice' ? handleReveal : undefined}
+                    correctAnswers={mode === 'practice' ? examRecord.examQuizzes.map(q => q.correctContents) : []}
+                />
             </div>
         </div>
     );

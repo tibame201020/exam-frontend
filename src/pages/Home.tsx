@@ -6,14 +6,16 @@ import {
     ChevronRight, ArrowRight, Sparkles
 } from 'lucide-react';
 import { useNotification } from '../context/NotificationContext';
+import { useLanguage } from '../context/LanguageContext';
 
 const Home = () => {
+    const { t } = useLanguage();
     const [exams, setExams] = useState<string[]>([]);
     const [keyword, setKeyword] = useState('');
     const [selectedExam, setSelectedExam] = useState<string | null>(null);
     const [quizCount, setQuizCount] = useState<string>("0");
-    const [mode, setMode] = useState<'exam' | 'practice'>('exam');
-    const [timer, setTimer] = useState<number>(0); // 0 means no timer
+    const [mode] = useState<'exam' | 'practice'>('exam');
+    const [timer] = useState<number>(0); // 0 means no timer
     const [loading, setLoading] = useState(true);
     const navigate = useNavigate();
     const { confirm, notify } = useNotification();
@@ -66,7 +68,7 @@ const Home = () => {
         if (!selectedExam) return;
 
         confirm({
-            title: 'Initialize Test Session',
+            title: t('home.init'),
             message: `You are about to start the "${selectedExam}" exam. Would you like to proceed?`,
             confirmText: 'Start Session',
             onConfirm: async () => {
@@ -103,17 +105,17 @@ const Home = () => {
             <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-2 border-b border-slate-200">
                 <div className="space-y-1">
                     <h1 className="text-3xl font-black text-base-content tracking-tight flex items-center gap-3">
-                        Question Banks
+                        {t('app.title')}
                         <Sparkles className="text-primary" size={24} />
                     </h1>
-                    <p className="text-base-content/60 text-sm font-medium">Select a module to begin your technical assessment.</p>
+                    <p className="text-base-content/60 text-sm font-medium">{t('app.desc')}</p>
                 </div>
 
                 <div className="relative w-full md:w-96 group">
                     <input
                         type="text"
-                        placeholder="Search exam modules..."
-                        className="pro-input w-full pl-11 h-12 shadow-sm focus:shadow-md"
+                        placeholder={t('search.placeholder')}
+                        className="pro-input w-full pl-11 h-10 shadow-sm focus:shadow-md text-sm"
                         value={keyword}
                         onChange={(e) => setKeyword(e.target.value)}
                     />
@@ -135,7 +137,7 @@ const Home = () => {
                                     <div className="bg-slate-50 w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 text-slate-300">
                                         <Search size={32} />
                                     </div>
-                                    <p className="text-slate-400 font-medium italic">No modules found matching your criteria</p>
+                                    <p className="text-slate-400 font-medium italic">{t('no.exams')}</p>
                                 </div>
                             ) : (
                                 exams.map((name) => (
@@ -145,8 +147,8 @@ const Home = () => {
                                         className="pro-card group p-6 flex items-center justify-between text-left active:scale-[0.98] border-transparent hover:border-primary/20 hover:bg-primary/5"
                                     >
                                         <div className="flex items-center gap-4">
-                                            <div className="w-12 h-12 bg-base-200 border border-base-300 rounded-xl flex items-center justify-center text-primary shadow-sm group-hover:scale-110 transition-transform">
-                                                <BookOpen size={24} />
+                                            <div className="w-10 h-10 bg-base-200 border border-base-300 rounded-xl flex items-center justify-center text-primary shadow-sm group-hover:scale-110 transition-transform">
+                                                <BookOpen size={20} />
                                             </div>
                                             <div>
                                                 <span className="font-bold text-base-content block">{name}</span>
@@ -160,7 +162,7 @@ const Home = () => {
                         </div>
                     ) : (
                         /* Professional Config Screen */
-                        <div className="pro-card p-10 space-y-8 fade-in">
+                        <div className="pro-card p-8 space-y-8 fade-in">
                             <div className="flex items-center justify-between">
                                 <div className="flex items-center gap-4">
                                     <button onClick={() => setSelectedExam(null)} className="btn btn-circle btn-ghost btn-sm">
@@ -168,7 +170,7 @@ const Home = () => {
                                     </button>
                                     <div>
                                         <h2 className="text-2xl font-black text-base-content tracking-tight">{selectedExam}</h2>
-                                        <p className="text-xs text-primary font-bold uppercase tracking-widest">Initialization Protocol</p>
+                                        <p className="text-xs text-primary font-bold uppercase tracking-widest">{t('home.init')}</p>
                                     </div>
                                 </div>
                                 <Sparkles size={32} className="text-primary/20" />
@@ -176,7 +178,7 @@ const Home = () => {
 
                             <div className="space-y-6">
                                 <label className="text-xs font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
-                                    <Clock size={14} /> Configuration Settings
+                                    <Clock size={14} /> {t('home.config')}
                                 </label>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
@@ -188,16 +190,16 @@ const Home = () => {
                                         <button
                                             key={opt.id}
                                             onClick={() => setQuizCount(opt.id)}
-                                            className={`p-6 rounded-2xl border-2 text-left transition-all relative ${quizCount === opt.id
+                                            className={`p-4 rounded-xl border-2 text-left transition-all relative ${quizCount === opt.id
                                                 ? 'border-indigo-600 bg-indigo-50/50 shadow-indigo-100 shadow-lg'
                                                 : 'border-slate-100 bg-white hover:border-slate-200'
                                                 }`}
                                         >
                                             <div className="flex flex-col gap-1">
-                                                <span className={`text-xs font-black uppercase tracking-widest ${quizCount === opt.id ? 'text-indigo-600' : 'text-slate-400'}`}>
+                                                <span className={`text-[10px] font-black uppercase tracking-widest ${quizCount === opt.id ? 'text-indigo-600' : 'text-slate-400'}`}>
                                                     {opt.label}
                                                 </span>
-                                                <span className="text-lg font-bold text-slate-800">{opt.sub}</span>
+                                                <span className="text-base font-bold text-slate-800">{opt.sub}</span>
                                             </div>
                                             {quizCount === opt.id && (
                                                 <div className="absolute top-4 right-4 bg-indigo-600 w-2 h-2 rounded-full ring-4 ring-indigo-100"></div>
@@ -205,56 +207,19 @@ const Home = () => {
                                         </button>
                                     ))}
                                 </div>
-
-                                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-4">
-                                    <div className="space-y-4">
-                                        <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
-                                            Execution Protocol
-                                        </label>
-                                        <div className="flex bg-slate-100 p-1 rounded-xl gap-1">
-                                            <button
-                                                onClick={() => setMode('exam')}
-                                                className={`flex-1 py-3 rounded-lg text-xs font-bold transition-all ${mode === 'exam' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
-                                            >
-                                                Assessment
-                                            </button>
-                                            <button
-                                                onClick={() => setMode('practice')}
-                                                className={`flex-1 py-3 rounded-lg text-xs font-bold transition-all ${mode === 'practice' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
-                                            >
-                                                Training
-                                            </button>
-                                        </div>
-                                    </div>
-
-                                    <div className="space-y-4">
-                                        <label className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-2">
-                                            Temporal Constraints
-                                        </label>
-                                        <select
-                                            value={timer}
-                                            onChange={(e) => setTimer(parseInt(e.target.value))}
-                                            className="pro-input w-full h-11 text-xs font-bold"
-                                        >
-                                            <option value={0}>Unrestricted Time</option>
-                                            <option value={10}>10 Minutes Blitz</option>
-                                            <option value={30}>30 Minutes Standard</option>
-                                            <option value={60}>60 Minutes Marathon</option>
-                                        </select>
-                                    </div>
-                                </div>
+                                {/* Removed Execution Protocol and Temporal Constraints blocks */}
                             </div>
 
                             <div className="pt-6">
                                 <button
                                     onClick={handleStartExam}
-                                    className="pro-btn btn-primary w-full h-14 text-lg shadow-xl shadow-indigo-200 gap-3"
+                                    className="pro-btn btn-primary w-full h-12 text-base shadow-xl shadow-indigo-200 gap-3"
                                 >
-                                    Launch Examination
+                                    {t('home.start')}
                                     <Play size={20} fill="currentColor" />
                                 </button>
                                 <p className="text-center text-[10px] text-slate-400 mt-4 uppercase tracking-tighter">
-                                    Ensure stable connection before starting the assessment
+                                    {t('home.ensure')}
                                 </p>
                             </div>
                         </div>
@@ -263,7 +228,7 @@ const Home = () => {
 
                 {/* Sidebar Info Area */}
                 <div className="lg:col-span-4 space-y-6">
-                    <div className="bg-slate-900 rounded-3xl p-8 text-white relative overflow-hidden shadow-2xl">
+                    <div className="bg-slate-900 rounded-3xl p-6 text-white relative overflow-hidden shadow-2xl">
                         <div className="absolute -right-4 -top-4 w-24 h-24 bg-indigo-500/20 rounded-full blur-2xl"></div>
                         <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
                             Quick Guide
@@ -285,7 +250,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

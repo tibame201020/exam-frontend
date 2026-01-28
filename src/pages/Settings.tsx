@@ -6,10 +6,12 @@ import {
 } from 'lucide-react';
 import { useNotification } from '../context/NotificationContext';
 import { useTheme } from '../context/ThemeContext';
+import { useLanguage } from '../context/LanguageContext';
 
 const Settings = () => {
     const [apiUrl, setApiUrl] = useState(localStorage.getItem('exam_api_url') || 'http://localhost:12058/api');
     const { theme, setTheme } = useTheme();
+    const { language, setLanguage, t } = useLanguage();
     const { notify } = useNotification();
 
     const themes = [
@@ -31,10 +33,10 @@ const Settings = () => {
             {/* Page Header */}
             <div className="space-y-1 pb-4 border-b border-slate-200">
                 <h1 className="text-3xl font-black text-slate-800 tracking-tight flex items-center gap-3">
-                    System Preferences
+                    {t('settings.title')}
                     <SettingsIcon className="text-indigo-500" size={24} />
                 </h1>
-                <p className="text-slate-500 text-sm font-medium">Fine-tune the interface and technical configuration.</p>
+                <p className="text-slate-500 text-sm font-medium">{t('settings.desc')}</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-12 gap-10">
@@ -42,8 +44,32 @@ const Settings = () => {
                 <div className="md:col-span-12 lg:col-span-7 space-y-8">
                     <section className="space-y-6">
                         <div className="flex items-center gap-3">
+                            <Globe className="text-indigo-600" size={20} />
+                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">{t('settings.lang')}</h2>
+                        </div>
+                        <div className="pro-card p-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+                            <p className="text-sm font-bold text-slate-600">{t('settings.lang.desc')}</p>
+                            <div className="flex bg-slate-100 p-1 rounded-xl gap-1">
+                                <button
+                                    onClick={() => setLanguage('en')}
+                                    className={`px-6 py-2 rounded-lg text-xs font-bold transition-all ${language === 'en' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
+                                >
+                                    English
+                                </button>
+                                <button
+                                    onClick={() => setLanguage('tw')}
+                                    className={`px-6 py-2 rounded-lg text-xs font-bold transition-all ${language === 'tw' ? 'bg-white shadow-sm text-indigo-600' : 'text-slate-500 hover:text-slate-700'}`}
+                                >
+                                    繁體中文
+                                </button>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section className="space-y-6">
+                        <div className="flex items-center gap-3">
                             <Palette className="text-indigo-600" size={20} />
-                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">Interface Skin</h2>
+                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">{t('settings.theme')}</h2>
                         </div>
 
                         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
@@ -80,8 +106,8 @@ const Settings = () => {
 
                     <section className="space-y-6">
                         <div className="flex items-center gap-3">
-                            <Globe className="text-indigo-600" size={20} />
-                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">API Infrastructure</h2>
+                            <Terminal className="text-indigo-600" size={20} />
+                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">{t('settings.api')}</h2>
                         </div>
 
                         <div className="pro-card p-8 space-y-4">
@@ -102,7 +128,7 @@ const Settings = () => {
                                         onClick={handleSaveApi}
                                         className="btn btn-primary h-12 px-6 rounded-xl gap-2 shadow-lg shadow-indigo-100"
                                     >
-                                        <Save size={18} /> Apply
+                                        <Save size={18} /> {t('settings.save')}
                                     </button>
                                 </div>
                             </div>

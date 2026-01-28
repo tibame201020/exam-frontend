@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Orbitron:wght@400..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Share+Tech+Mono&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,21 +7,34 @@
 @layer base {
   :root {
     --primary: 243 75% 59%;
-    /* Indigo 600 equivalent */
     --slate-50: 210 40% 98%;
-    --slate-100: 210 40% 96%;
-    --slate-200: 214 32% 91%;
-    --slate-300: 213 27% 84%;
-    --slate-400: 215 20% 65%;
-    --slate-500: 215 16% 47%;
-    --slate-600: 215 19% 35%;
-    --slate-700: 215 25% 27%;
-    --slate-800: 217 33% 17%;
-    --slate-900: 222 47% 11%;
+    /* ... existing standard vars if any ... */
+    
+    /* Default Font */
+    --theme-font: 'Outfit', sans-serif;
+  }
+
+  /* Theme-specific Font Overrides */
+  [data-theme="cyberpunk"],
+  [data-theme="synthwave"] {
+    --theme-font: 'Orbitron', sans-serif;
+  }
+
+  [data-theme="luxury"],
+  [data-theme="dracula"],
+  [data-theme="halloween"] {
+    --theme-font: 'Playfair Display', serif;
+  }
+
+  [data-theme="retro"],
+  [data-theme="lofi"],
+  [data-theme="wireframe"] {
+    --theme-font: 'Share Tech Mono', monospace;
   }
 
   body {
     @apply text-base-content;
+    font-family: var(--theme-font);
     -webkit-font-smoothing: antialiased;
   }
 }
