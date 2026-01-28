@@ -19,9 +19,13 @@ interface ConfirmOptions {
     onCancel?: () => void;
 }
 
+export type ToastPosition = 'top-start' | 'top-center' | 'top-end' | 'bottom-start' | 'bottom-center' | 'bottom-end';
+
 interface NotificationContextType {
     notify: (type: NotificationType, message: string) => void;
     confirm: (options: ConfirmOptions) => void;
+    position: ToastPosition;
+    setPosition: (pos: ToastPosition) => void;
 }
 
 const NotificationContext = createContext<NotificationContextType | undefined>(undefined);
@@ -29,6 +33,14 @@ const NotificationContext = createContext<NotificationContextType | undefined>(u
 export const NotificationProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
     const [notifications, setNotifications] = useState<Notification[]>([]);
     const [confirmModal, setConfirmModal] = useState<ConfirmOptions | null>(null);
+    const [position, setPositionState] = useState<ToastPosition>(() => {
+        return (localStorage.getItem('toast_position') as ToastPosition) || 'top-center';
+    });
+
+    const setPosition = (pos: ToastPosition) => {
+        setPositionState(pos);
+        localStorage.setItem('toast_position', pos);
+    };
 
     const notify = (type: NotificationType, message: string) => {
         const id = Math.random().toString(36).substring(2, 9);
@@ -56,12 +68,24 @@ export const NotificationProvider: React.FC<{ children: ReactNode }> = ({ childr
         }
     };
 
+    const getPositionClass = (pos: ToastPosition) => {
+        const map: Record<ToastPosition, string> = {
+            'top-start': 'toast-top toast-start',
+            'top-center': 'toast-top toast-center',
+            'top-end': 'toast-top toast-end',
+            'bottom-start': 'toast-bottom toast-start',
+            'bottom-center': 'toast-bottom toast-center',
+            'bottom-end': 'toast-bottom toast-end',
+        };
+        return map[pos] || 'toast-top toast-center';
+    };
+
     return (
-        <NotificationContext.Provider value={{ notify, confirm }}>
+        <NotificationContext.Provider value={{ notify, confirm, position, setPosition }}>
             {children}
 
             {/* Toasts Container */}
-            <div className="toast toast-end toast-bottom z-[9999]">
+            <div className={`toast ${getPositionClass(position)} z-[9999]`}>
                 {notifications.map((n) => (
                     <div key={n.id} className={`alert alert-${n.type} shadow-lg animate-in slide-in-from-right-full duration-300`}>
                         <div className="flex items-center gap-2">

@@ -2,9 +2,9 @@ import { useState } from 'react';
 import {
     Settings as SettingsIcon, Palette,
     Globe, Save, RefreshCw,
-    Shield, Terminal
+    Shield, Terminal, LayoutTemplate
 } from 'lucide-react';
-import { useNotification } from '../context/NotificationContext';
+import { useNotification, type ToastPosition } from '../context/NotificationContext';
 import { useTheme } from '../context/ThemeContext';
 import { useLanguage } from '../context/LanguageContext';
 
@@ -12,7 +12,16 @@ const Settings = () => {
     const [apiUrl, setApiUrl] = useState(localStorage.getItem('exam_api_url') || 'http://localhost:12058/api');
     const { theme, setTheme } = useTheme();
     const { language, setLanguage, t } = useLanguage();
-    const { notify } = useNotification();
+    const { notify, position, setPosition } = useNotification();
+
+    const positions: { id: ToastPosition; label: string }[] = [
+        { id: 'top-start', label: 'Top Left' },
+        { id: 'top-center', label: 'Top Center' },
+        { id: 'top-end', label: 'Top Right' },
+        { id: 'bottom-start', label: 'Bottom Left' },
+        { id: 'bottom-center', label: 'Bottom Center' },
+        { id: 'bottom-end', label: 'Bottom Right' },
+    ];
 
     const themes = [
         "light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave",
@@ -62,6 +71,36 @@ const Settings = () => {
                                 >
                                     繁體中文
                                 </button>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section className="space-y-6">
+                        <div className="flex items-center gap-3">
+                            <LayoutTemplate className="text-indigo-600" size={20} />
+                            <h2 className="text-xs font-black text-slate-400 uppercase tracking-widest">Notification Position</h2>
+                        </div>
+                        <div className="pro-card p-6">
+                            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                                {positions.map((pos) => (
+                                    <button
+                                        key={pos.id}
+                                        onClick={() => {
+                                            setPosition(pos.id);
+                                            notify('info', `Position updated to ${pos.label}`);
+                                        }}
+                                        className={`px-4 py-3 rounded-xl text-xs font-bold transition-all border-2 flex items-center justify-center gap-2 ${position === pos.id
+                                            ? 'border-indigo-600 bg-indigo-50 text-indigo-700 shadow-md'
+                                            : 'border-slate-100 text-slate-500 hover:border-slate-200 hover:bg-slate-50'
+                                            }`}
+                                    >
+                                        {/* Mini visual indicator of position */}
+                                        <div className={`w-3 h-2 rounded-[1px] border border-current opacity-50 flex ${pos.id.includes('start') ? 'justify-start' : pos.id.includes('end') ? 'justify-end' : 'justify-center'} ${pos.id.includes('top') ? 'items-start' : 'items-end'}`}>
+                                            <div className="w-1 h-1 bg-current rounded-[1px]"></div>
+                                        </div>
+                                        {pos.label}
+                                    </button>
+                                ))}
                             </div>
                         </div>
                     </section>
