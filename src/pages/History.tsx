@@ -148,7 +148,7 @@ const History = () => {
                                         </td>
                                         <td className="text-center">
                                             <span className={`text-base font-black tracking-tighter ${parseFloat(record.score) >= 60 ? 'text-success' : 'text-error'}`}>
-                                                {record.score}%
+                                                {record.score}
                                             </span>
                                         </td>
                                         <td className="text-center">

@@ -2,8 +2,11 @@ import { useState } from 'react';
 import {
     Settings as SettingsIcon, Palette,
     Globe, Save, RefreshCw,
-    Shield, Terminal, LayoutTemplate
+    Shield, Terminal, LayoutTemplate,
+    Download, Upload, FileJson,
+    Copy, Check, Key
 } from 'lucide-react';
+import { backupApi } from '../services/api';
 import { useNotification, type ToastPosition } from '../context/NotificationContext';
 import { useTheme } from '../context/ThemeContext';
 import { useLanguage } from '../context/LanguageContext';
@@ -35,6 +38,91 @@ const Settings = () => {
         notify('success', 'API Endpoints synchronized successfully.');
         // Force refresh to apply new API URL across all services
         setTimeout(() => window.location.reload(), 1000);
+    };
+
+    // --- Backup & Restore Logic ---
+    const [includeHistory, setIncludeHistory] = useState(true);
+    const [importFile, setImportFile] = useState<File | null>(null);
+    const [importKey, setImportKey] = useState('');
+    const [isExporting, setIsExporting] = useState(false);
+    const [isImporting, setIsImporting] = useState(false);
+    const [exportPin, setExportPin] = useState<string | null>(null);
+    const [isPinCopied, setIsPinCopied] = useState(false);
+
+    const generateKey = () => Math.floor(10000 + Math.random() * 90000).toString();
+
+    const xorCipher = (str: string, key: string) => {
+        let output = '';
+        for (let i = 0; i < str.length; i++) {
+            const charCode = str.charCodeAt(i) ^ key.charCodeAt(i % key.length);
+            output += String.fromCharCode(charCode);
+        }
+        return output;
+    };
+
+    const handleExport = async () => {
+        setIsExporting(true);
+        try {
+            const data = await backupApi.exportData(includeHistory);
+            const key = generateKey();
+            const jsonStr = JSON.stringify(data);
+            const encrypted = xorCipher(jsonStr, key);
+            const base64 = btoa(unescape(encodeURIComponent(encrypted)));
+
+            const blob = new Blob([base64], { type: 'application/octet-stream' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `exam_backup_${new Date().toISOString().split('T')[0]}.dat`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+
+            notify('success', 'Export Successful! Please save your PIN.');
+            setExportPin(key);
+            setIsPinCopied(false);
+
+        } catch (e) {
+            console.error(e);
+            notify('error', 'Export failed.');
+        } finally {
+            setIsExporting(false);
+        }
+    };
+
+    const handleImport = async () => {
+        if (!importFile || importKey.length !== 5) {
+            notify('warning', 'Please select a file and enter the 5-digit PIN.');
+            return;
+        }
+
+        setIsImporting(true);
+        try {
+            const reader = new FileReader();
+            reader.onload = async (e) => {
+                try {
+                    const base64 = e.target?.result as string;
+                    const encrypted = decodeURIComponent(escape(atob(base64)));
+                    const decrypted = xorCipher(encrypted, importKey);
+                    const data = JSON.parse(decrypted);
+
+                    await backupApi.importData(data);
+                    notify('success', 'Data restored successfully! Reloading...');
+                    setTimeout(() => window.location.reload(), 1500);
+                } catch (err) {
+                    console.error(err);
+                    notify('error', 'Import failed. Invalid PIN or corrupted file.');
+                } finally {
+                    setIsImporting(false);
+                }
+            };
+            reader.readAsText(importFile);
+        } catch (e) {
+            console.error(e);
+            notify('error', 'Import failed.');
+            setIsImporting(false);
+        }
     };
 
     return (
@@ -156,7 +244,7 @@ const Settings = () => {
                                     <div className="relative flex-1 group">
                                         <input
                                             type="text"
-                                            className="pro-input w-full h-12 pl-10 text-sm"
+                                            className="pro-input w-full h-10 pl-10 text-sm"
                                             placeholder="Enter Gateway URL..."
                                             value={apiUrl}
                                             onChange={(e) => setApiUrl(e.target.value)}
@@ -165,9 +253,9 @@ const Settings = () => {
                                     </div>
                                     <button
                                         onClick={handleSaveApi}
-                                        className="btn btn-primary h-12 px-6 rounded-xl gap-2 shadow-lg shadow-indigo-100"
+                                        className="btn btn-primary btn-sm h-10 px-6 rounded-xl gap-2 shadow-lg shadow-indigo-100"
                                     >
-                                        <Save size={18} /> {t('settings.save')}
+                                        <Save size={16} /> {t('settings.save')}
                                     </button>
                                 </div>
                             </div>
@@ -180,6 +268,81 @@ const Settings = () => {
 
                 {/* Info Sidebar */}
                 <div className="md:col-span-12 lg:col-span-5 space-y-6">
+
+                    {/* Backup & Restore Card */}
+                    <div className="pro-card p-6 border-indigo-100 shadow-lg">
+                        <div className="flex items-center gap-3 mb-6 pb-4 border-b border-slate-100">
+                            <div className="p-2 bg-indigo-50 rounded-lg text-indigo-600">
+                                <FileJson size={20} />
+                            </div>
+                            <h3 className="font-bold text-slate-700">Backup & Restore</h3>
+                        </div>
+
+                        {/* Export */}
+                        <div className="space-y-4 mb-8">
+                            <h4 className="text-[10px] font-black uppercase text-slate-400 tracking-widest flex items-center gap-2">
+                                <Download size={12} /> Export Data
+                            </h4>
+
+                            <label className="flex items-center gap-3 p-3 rounded-xl border border-slate-200 bg-slate-50 cursor-pointer hover:border-indigo-200 hover:bg-indigo-50/30 transition-colors">
+                                <input
+                                    type="checkbox"
+                                    className="checkbox checkbox-primary checkbox-sm"
+                                    checked={includeHistory}
+                                    onChange={(e) => setIncludeHistory(e.target.checked)}
+                                />
+                                <span className="text-xs font-bold text-slate-600">Include Test History</span>
+                            </label>
+
+                            <button
+                                onClick={handleExport}
+                                disabled={isExporting}
+                                className="btn btn-primary btn-sm w-full gap-2 shadow-indigo-100 shadow-lg"
+                            >
+                                {isExporting ? <span className="loading loading-spinner loading-xs" /> : <Download size={14} />}
+                                Export Backup
+                            </button>
+                        </div>
+
+                        {/* Import */}
+                        <div className="space-y-4">
+                            <h4 className="text-[10px] font-black uppercase text-slate-400 tracking-widest flex items-center gap-2">
+                                <Upload size={12} /> Import Data
+                            </h4>
+
+                            <input
+                                type="file"
+                                accept=".dat"
+                                onChange={(e) => setImportFile(e.target.files?.[0] || null)}
+                                className="file-input file-input-bordered file-input-sm w-full text-xs"
+                            />
+
+                            <div className="relative">
+                                <Terminal className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={14} />
+                                <input
+                                    type="text"
+                                    maxLength={5}
+                                    placeholder="Enter 5-digit PIN"
+                                    value={importKey}
+                                    onChange={(e) => setImportKey(e.target.value.replace(/\D/g, ''))}
+                                    className="input input-bordered input-sm w-full pl-9 tracking-widest font-mono text-sm"
+                                />
+                            </div>
+
+                            <button
+                                onClick={handleImport}
+                                disabled={!importFile || importKey.length !== 5 || isImporting}
+                                className="btn btn-outline btn-sm w-full gap-2 hover:bg-slate-800 hover:text-white"
+                            >
+                                {isImporting ? <span className="loading loading-spinner loading-xs" /> : <Upload size={14} />}
+                                Restore from File
+                            </button>
+                            <p className="text-[10px] text-slate-400 text-center leading-tight">
+                                Restoring will overwrite all current data. <br />This action cannot be undone.
+                            </p>
+                        </div>
+                    </div>
+
                     <div className="pro-card p-8 bg-slate-900 text-white space-y-6 shadow-2xl relative overflow-hidden">
                         <div className="absolute top-0 right-0 p-6 opacity-10">
                             <Shield size={100} />
@@ -212,6 +375,60 @@ const Settings = () => {
                         </div>
                     </div>
                 </div>
+
+                {/* Export PIN Modal */}
+                {exportPin && (
+                    <div className="modal modal-open">
+                        <div className="modal-box border border-base-300 shadow-2xl p-0 overflow-hidden max-w-sm">
+                            <div className="bg-indigo-600 p-6 text-white text-center relative overflow-hidden">
+                                <div className="absolute top-0 right-0 p-4 opacity-10">
+                                    <Key size={80} />
+                                </div>
+                                <div className="relative z-10 flex flex-col items-center gap-2">
+                                    <div className="p-3 bg-white/20 backdrop-blur-sm rounded-full mb-2">
+                                        <Shield size={32} className="text-white" />
+                                    </div>
+                                    <h3 className="font-black text-xl tracking-tight">Export Successful</h3>
+                                    <p className="text-indigo-100 text-xs font-medium max-w-[200px]">
+                                        Your data has been encrypted. You will need this PIN to restore it.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div className="p-6 space-y-6">
+                                <div className="bg-slate-50 border border-slate-100 rounded-xl p-4 text-center space-y-2 relative group">
+                                    <label className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">
+                                        Decryption PIN
+                                    </label>
+                                    <div className="text-4xl font-mono font-black text-slate-800 tracking-widest flex justify-center items-center gap-2">
+                                        {exportPin}
+                                    </div>
+                                </div>
+
+                                <div className="grid grid-cols-1 gap-3">
+                                    <button
+                                        onClick={() => {
+                                            navigator.clipboard.writeText(exportPin);
+                                            setIsPinCopied(true);
+                                            setTimeout(() => setIsPinCopied(false), 2000);
+                                        }}
+                                        className={`btn ${isPinCopied ? 'btn-success text-white' : 'btn-outline border-slate-200 hover:bg-slate-50 hover:text-slate-700'} btn-block gap-2`}
+                                    >
+                                        {isPinCopied ? <Check size={18} /> : <Copy size={18} />}
+                                        {isPinCopied ? 'Copied to Clipboard' : 'Copy PIN'}
+                                    </button>
+
+                                    <button
+                                        onClick={() => setExportPin(null)}
+                                        className="btn btn-primary btn-block text-white shadow-lg shadow-indigo-100"
+                                    >
+                                        I have saved my PIN
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                )}
             </div>
         </div>
     );

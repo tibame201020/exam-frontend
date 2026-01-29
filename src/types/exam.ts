@@ -31,3 +31,9 @@ export interface ExamRecordScore {
     score: string;
     logTime: string;
 }
+
+export interface BackupData {
+    exams: Exam[];
+    records: ExamRecord[];
+    scores: ExamRecordScore[];
+}

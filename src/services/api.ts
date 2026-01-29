@@ -48,3 +48,8 @@ export const examApi = {
     deleteRecordScore: (id: number) => api.post<boolean>('/deleteRecordScore', id).then(r => r.data),
     getExamRecordById: (id: number) => api.post<ExamRecord>('/getExamRecordById', id).then(r => r.data),
 };
+
+export const backupApi = {
+    exportData: (includeHistory: boolean) => api.get<any>(`/backup/export?includeHistory=${includeHistory}`).then(r => r.data),
+    importData: (data: any) => api.post<boolean>('/backup/import', data).then(r => r.data),
+};
