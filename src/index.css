@@ -9,7 +9,7 @@
     --primary: 243 75% 59%;
     --slate-50: 210 40% 98%;
     /* ... existing standard vars if any ... */
-    
+
     /* Default Font */
     --theme-font: 'Outfit', sans-serif;
   }
@@ -41,15 +41,15 @@
 
 @layer components {
   .pro-card {
-    @apply bg-base-100 border border-base-300 rounded-[2rem] shadow-xl shadow-base-content/5 transition-all duration-500 overflow-hidden;
+    @apply bg-base-100 border border-base-300 rounded-2xl shadow-xl shadow-base-content/5 transition-all duration-500 overflow-hidden;
   }
 
   .pro-input {
-    @apply bg-base-200/50 border-none focus:ring-2 focus:ring-primary/20 rounded-2xl px-6 py-4 text-sm font-medium transition-all outline-none placeholder:text-base-content/20;
+    @apply bg-base-200/50 border-none focus:ring-2 focus:ring-primary/20 rounded-xl px-4 py-3 text-sm font-medium transition-all outline-none placeholder:text-base-content/20;
   }
 
   .pro-btn {
-    @apply btn rounded-2xl border-none font-black uppercase tracking-widest text-[10px] transition-all active:scale-95 px-6;
+    @apply btn rounded-xl border-none font-black uppercase tracking-widest text-[10px] transition-all active:scale-95 px-5;
   }
 
   .pro-table {
@@ -61,11 +61,11 @@
   }
 
   .pro-table th {
-    @apply text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em] py-5 px-6;
+    @apply text-[10px] font-black text-base-content/40 uppercase tracking-[0.2em] py-3 px-4;
   }
 
   .pro-table td {
-    @apply py-5 px-6 text-sm border-b border-base-300/50;
+    @apply py-3 px-4 text-sm border-b border-base-300/50;
   }
 
   .scroll-modern {

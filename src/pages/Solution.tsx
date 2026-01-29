@@ -65,7 +65,7 @@ const Solution = () => {
     }
 
     return (
-        <div className="max-w-7xl mx-auto space-y-8 fade-in">
+        <div className="max-w-7xl mx-auto space-y-6 fade-in">
             <AnimatePresence mode="wait">
                 {!selectedExam ? (
                     <motion.div
@@ -73,14 +73,14 @@ const Solution = () => {
                         initial={{ opacity: 0, x: -20 }}
                         animate={{ opacity: 1, x: 0 }}
                         exit={{ opacity: 0, x: 20 }}
-                        className="space-y-8"
+                        className="space-y-6"
                     >
                         {/* Header Area */}
                         <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-2 border-b border-base-300">
                             <div className="space-y-1">
-                                <h1 className="text-3xl font-black text-base-content tracking-tight flex items-center gap-3">
+                                <h1 className="text-2xl font-black text-base-content tracking-tight flex items-center gap-3">
                                     {t('sol.title')}
-                                    <BookOpen className="text-primary" size={24} />
+                                    <BookOpen className="text-primary" size={20} />
                                 </h1>
                                 <p className="text-base-content/50 text-sm font-medium">{t('sol.desc')}</p>
                             </div>
@@ -93,40 +93,40 @@ const Solution = () => {
                                     value={searchTerm}
                                     onChange={(e) => setSearchTerm(e.target.value)}
                                 />
-                                <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-base-content/30 group-focus-within:text-primary transition-colors" size={18} />
+                                <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-base-content/30 group-focus-within:text-primary transition-colors" size={16} />
                             </div>
                         </div>
 
                         {/* Grid View */}
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
                             {filteredExams.map((name) => (
                                 <button
                                     key={name}
                                     onClick={() => handleSelectExam(name)}
-                                    className="pro-card group bg-base-100 p-6 hover:border-primary/30 transition-all text-left space-y-4 hover:shadow-2xl hover:shadow-primary/5 active:scale-[0.98]"
+                                    className="pro-card group bg-base-100 p-5 hover:border-primary/30 transition-all text-left space-y-4 hover:shadow-xl hover:shadow-primary/5 active:scale-[0.98]"
                                 >
                                     <div className="flex justify-between items-start">
-                                        <div className="w-12 h-12 rounded-2xl bg-primary/10 text-primary flex items-center justify-center font-black overflow-hidden shadow-inner">
+                                        <div className="w-10 h-10 rounded-xl bg-primary/10 text-primary flex items-center justify-center font-black overflow-hidden shadow-inner text-xs">
                                             {name.substring(0, 2).toUpperCase()}
                                         </div>
-                                        <div className="p-2 rounded-xl bg-base-200 text-base-content/20 group-hover:bg-primary group-hover:text-primary-content transition-colors">
-                                            <ArrowRight size={16} />
+                                        <div className="p-1.5 rounded-lg bg-base-200 text-base-content/20 group-hover:bg-primary group-hover:text-primary-content transition-colors">
+                                            <ArrowRight size={14} />
                                         </div>
                                     </div>
                                     <div className="space-y-1">
-                                        <h3 className="font-black text-base-content tracking-tight group-hover:text-primary transition-colors line-clamp-1">{name}</h3>
+                                        <h3 className="font-black text-base-content tracking-tight group-hover:text-primary transition-colors line-clamp-1 text-sm">{name}</h3>
                                         <p className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/30">{t('sol.atlas')}</p>
                                     </div>
                                 </button>
                             ))}
 
                             {filteredExams.length === 0 && (
-                                <div className="col-span-full py-32 text-center pro-card border-dashed bg-base-200/50">
-                                    <div className="w-20 h-20 bg-base-200 rounded-full flex items-center justify-center mx-auto mb-4 text-base-content/20">
-                                        <Layers size={40} />
+                                <div className="col-span-full py-20 text-center pro-card border-dashed bg-base-200/50">
+                                    <div className="w-16 h-16 bg-base-200 rounded-full flex items-center justify-center mx-auto mb-3 text-base-content/20">
+                                        <Layers size={32} />
                                     </div>
-                                    <h3 className="text-xl font-black text-base-content tracking-tight">No Modules Matched</h3>
-                                    <p className="text-base-content/40 text-sm font-medium">Adjust your criteria to locate the desired architectural solution.</p>
+                                    <h3 className="text-lg font-black text-base-content tracking-tight">No Modules Matched</h3>
+                                    <p className="text-base-content/40 text-[10px] font-medium uppercase tracking-widest">Adjust criteria</p>
                                 </div>
                             )}
                         </div>
@@ -137,7 +137,7 @@ const Solution = () => {
                         initial={{ opacity: 0, x: 20 }}
                         animate={{ opacity: 1, x: 0 }}
                         exit={{ opacity: 0, x: -20 }}
-                        className="space-y-8"
+                        className="space-y-6"
                     >
                         {/* Detail Command Bar */}
                         <div className="bg-base-100 p-4 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">

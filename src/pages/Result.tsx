@@ -10,7 +10,7 @@ import {
     TrendingUp, Activity
 } from 'lucide-react';
 import {
-    PieChart, Pie, Cell, ResponsiveContainer, Tooltip as ReTooltip,
+    ResponsiveContainer, Tooltip as ReTooltip,
     BarChart, Bar, XAxis, YAxis, CartesianGrid
 } from 'recharts';
 import { useLanguage } from '../context/LanguageContext';
@@ -103,209 +103,168 @@ const Result = () => {
     const scoreVal = parseFloat(scoreInfo.score);
 
     return (
-        <div className="max-w-7xl mx-auto space-y-10 fade-in">
-            {/* Professional Analytics Banner - Collapsible */}
-            <div className="collapse collapse-arrow bg-base-100 border border-base-300 rounded-2xl shadow-sm">
-                <input type="checkbox" defaultChecked />
-                <div className="collapse-content p-0 pt-8">
-                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 px-6">
-                        <div className="lg:col-span-2 pro-card p-8 flex flex-col sm:flex-row items-center gap-12 bg-base-100 relative overflow-hidden">
-                            <div className="absolute top-0 right-0 w-64 h-64 bg-base-200 rounded-full -mr-32 -mt-32 z-0"></div>
-
-                            <div className="relative z-10 space-y-4 text-center sm:text-left">
-                                <div className="flex items-center gap-2 justify-center sm:justify-start">
-                                    <ShieldCheck size={18} className="text-success" />
-                                    <span className="text-[10px] font-black text-base-content/30 uppercase tracking-[0.2em]">Verification Completed</span>
-                                </div>
-                                <h1 className="text-3xl font-black text-base-content tracking-tight leading-tight">
-                                    {t('res.desc')}
-                                </h1>
-                                <p className="text-base-content/60 font-medium max-w-sm">
-                                    {t('res.desc')} <span className="text-primary font-bold">{scoreInfo.examName}</span>.
-                                </p>
-                                <div className="pt-4 flex gap-3 justify-center sm:justify-start">
-                                    <button onClick={() => navigate('/')} className="pro-btn border-base-300 h-10 px-6 gap-2">
-                                        <ArrowLeft size={16} /> {t('res.explore')}
-                                    </button>
-                                    <button onClick={() => navigate('/history')} className="pro-btn btn-neutral h-10 px-6 gap-2">
-                                        <ChartIcon size={16} /> {t('res.logs')}
-                                    </button>
-                                </div>
-                            </div>
-
-                            <div className="relative z-10 flex-shrink-0 flex items-center gap-8">
-                                <div className="w-48 h-48">
-                                    <ResponsiveContainer width="100%" height="100%">
-                                        <PieChart>
-                                            <Pie
-                                                data={[
-                                                    { name: 'Correct', value: scoreInfo.correctNums },
-                                                    { name: 'Incorrect', value: scoreInfo.quizNums - scoreInfo.correctNums }
-                                                ]}
-                                                cx="50%"
-                                                cy="50%"
-                                                innerRadius={60}
-                                                outerRadius={80}
-                                                paddingAngle={5}
-                                                dataKey="value"
-                                            >
-                                                <Cell fill="#10b981" />
-                                                <Cell fill="#f43f5e" />
-                                            </Pie>
-                                            <ReTooltip />
-                                        </PieChart>
-                                    </ResponsiveContainer>
-                                </div>
-                                <div className={`radial-progress transition-all duration-1000 ${scoreVal >= 60 ? 'text-success' : 'text-error'} shadow-xl bg-base-200 hidden sm:grid`} style={{ "--value": scoreVal, "--size": "8rem", "--thickness": "0.8rem" } as any} role="progressbar">
-                                    <div className="flex flex-col items-center">
-                                        <span className="text-2xl font-black tracking-tighter text-base-content">{scoreInfo.score}%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="pro-card p-8 bg-primary text-primary-content space-y-8 flex flex-col justify-between shadow-primary/20 shadow-2xl">
-                            <div className="space-y-6">
-                                <div className="flex items-center gap-3">
-                                    <div className="p-2 bg-primary-content/20 rounded-lg">
-                                        <Layout size={20} />
-                                    </div>
-                                    <span className="text-xs font-black uppercase tracking-[0.2em]">Module Summary</span>
-                                </div>
-
-                                <div className="space-y-4">
-                                    <div className="flex justify-between items-center py-3 border-b border-primary-content/10">
-                                        <span className="text-sm font-medium opacity-60">Verified Responses</span>
-                                        <span className="text-lg font-black">{scoreInfo.correctNums}</span>
-                                    </div>
-                                    <div className="flex justify-between items-center py-3 border-b border-primary-content/10">
-                                        <span className="text-sm font-medium opacity-60">Total Questions</span>
-                                        <span className="text-lg font-black">{scoreInfo.quizNums}</span>
-                                    </div>
-                                    <div className="flex justify-between items-center py-3">
-                                        <span className="text-sm font-medium opacity-60">Completion Time</span>
-                                        <span className="text-lg font-black">N/A</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="p-4 bg-primary-content/10 rounded-xl border border-primary-content/10 flex items-center gap-4">
-                                <div className="w-10 h-10 rounded-lg bg-success/20 flex items-center justify-center text-success-content">
-                                    <CheckCircle2 size={24} />
-                                </div>
-                                <div className="space-y-0.5">
-                                    <p className="text-[10px] font-black uppercase tracking-widest opacity-50">Accuracy</p>
-                                    <p className="font-black text-lg">{((scoreInfo.correctNums / scoreInfo.quizNums) * 100).toFixed(1)}%</p>
-                                </div>
-                            </div>
-                        </div>
+        <div className="max-w-7xl mx-auto space-y-8 fade-in pb-12">
+            {/* 1. Header Section */}
+            <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-base-300 pb-4">
+                <div className="space-y-1">
+                    <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.2em] text-base-content/40">
+                        <span className="cursor-pointer hover:text-primary transition-colors" onClick={() => navigate('/')}>Home</span>
+                        <span>/</span>
+                        <span>Analytics</span>
                     </div>
-
-                    {/* Advanced Metrics Grid */}
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                        <div className="pro-card p-8 space-y-6 bg-base-100">
-                            <h3 className="text-xs font-black text-base-content/30 uppercase tracking-widest flex items-center gap-2">
-                                <TrendingUp size={14} className="text-primary" /> Response Distribution
-                            </h3>
-                            <div className="h-64">
-                                <ResponsiveContainer width="100%" height="100%">
-                                    <BarChart data={[
-                                        { name: 'Score', val: scoreVal },
-                                        { name: 'Accuracy', val: (scoreInfo.correctNums / scoreInfo.quizNums) * 100 },
-                                        { name: 'Capacity', val: 100 }
-                                    ]}>
-                                        <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f1f5f9" />
-                                        <XAxis dataKey="name" fontSize={10} fontWeight="bold" axisLine={false} tickLine={false} />
-                                        <YAxis hide domain={[0, 100]} />
-                                        <ReTooltip
-                                            contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }}
-                                        />
-                                        <Bar dataKey="val" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={40} />
-                                    </BarChart>
-                                </ResponsiveContainer>
-                            </div>
-                        </div>
-
-                        <div className="pro-card p-8 space-y-8 bg-base-100 flex flex-col justify-center">
-                            <div className="space-y-2 text-center">
-                                <div className="p-3 bg-primary/10 rounded-2xl w-fit mx-auto text-primary mb-2">
-                                    <Activity size={24} />
-                                </div>
-                                <h4 className="text-lg font-black text-base-content tracking-tight">Cognitive Reliability</h4>
-                                <p className="text-xs text-base-content/40 font-medium">Statistical confidence in current assessment results.</p>
-                            </div>
-
-                            <div className="space-y-4">
-                                <div className="flex justify-between items-end">
-                                    <span className="text-[10px] font-black uppercase text-base-content/30">Consistency Index</span>
-                                    <span className="text-xs font-bold text-base-content">High (0.92)</span>
-                                </div>
-                                <div className="w-full h-1.5 bg-base-300 rounded-full overflow-hidden">
-                                    <div className="h-full bg-primary rounded-full w-[92%]"></div>
-                                </div>
-                            </div>
-
-                            <div className="flex gap-4">
-                                <div className="flex-1 p-4 bg-success/10 rounded-xl border border-success/30 text-center">
-                                    <p className="text-[10px] font-black uppercase text-success opacity-60 mb-1">Pass State</p>
-                                    <p className="text-sm font-black text-success">{scoreVal >= 60 ? 'QUALIFIED' : 'RETAKE'}</p>
-                                </div>
-                                <div className="flex-1 p-4 bg-primary/10 rounded-xl border border-primary/30 text-center">
-                                    <p className="text-[10px] font-black uppercase text-primary opacity-60 mb-1">Peer Percentile</p>
-                                    <p className="text-sm font-black text-primary">Top 15%</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                    <h1 className="text-2xl font-black text-base-content tracking-tight">Performance Report</h1>
+                    <p className="text-sm text-base-content/60 font-medium">
+                        Assessment analysis for <span className="text-primary font-bold">{scoreInfo.examName}</span>
+                    </p>
+                </div>
+                <div className="flex gap-2">
+                    <button onClick={() => navigate('/history')} className="pro-btn btn-ghost btn-sm h-9 px-4 gap-2 text-base-content/60">
+                        <ChartIcon size={14} /> {t('res.logs')}
+                    </button>
+                    <button onClick={() => navigate('/')} className="pro-btn btn-primary btn-sm h-9 px-6 gap-2 shadow-lg shadow-primary/20">
+                        <ArrowLeft size={14} /> {t('res.explore')}
+                    </button>
                 </div>
             </div>
 
-            {/* Filter Hub */}
-            <div className="flex flex-col md:flex-row justify-between items-center gap-4 py-2">
-                <div className="flex items-center gap-3">
-                    <Filter className="text-primary" size={18} />
-                    <h3 className="text-xs font-black text-base-content/40 uppercase tracking-widest">{t('res.filters')}</h3>
+            {/* 2. Analytics Dashboard (HUD) */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                {/* Card 1: Primary Score (Hero) */}
+                <div className="pro-card p-6 bg-base-100 flex flex-col justify-between relative overflow-hidden group">
+                    <div className="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-full -mr-10 -mt-10 transition-transform group-hover:scale-110"></div>
+
+                    <div className="space-y-1 relative z-10 w-full mb-10">
+                        <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/40">Assessment Score</h3>
+                        <div className="flex items-baseline gap-1">
+                            <span className="text-4xl font-black text-base-content tracking-tighter">{scoreVal}</span>
+                            <span className="text-sm font-bold text-base-content/30">/ 100</span>
+                        </div>
+                    </div>
+
+                    <div className="flex items-end justify-between relative z-10">
+                        <div className="space-y-1">
+                            <div className={`badge ${scoreVal >= 60 ? 'badge-success text-success-content' : 'badge-error text-error-content'} font-bold gap-1 pl-1.5 pr-3 py-3`}>
+                                {scoreVal >= 60 ? <CheckCircle2 size={12} /> : <Activity size={12} />}
+                                {scoreVal >= 60 ? 'QUALIFIED' : 'ATTENTION'}
+                            </div>
+                            <p className="text-[10px] font-bold text-base-content/30 pl-1">Pass Threshold: 60%</p>
+                        </div>
+
+                        {/* Radial Indicator */}
+                        <div className={`radial-progress ${scoreVal >= 60 ? 'text-success' : 'text-error'} transition-all opacity-20 group-hover:opacity-100`} style={{ "--value": scoreVal, "--size": "3.5rem", "--thickness": "0.3rem" } as any}>
+                            <span className="text-[10px] font-black text-base-content">{scoreVal}%</span>
+                        </div>
+                    </div>
                 </div>
-                <div className="bg-base-100 p-1.5 rounded-xl border border-base-300 shadow-sm flex gap-1">
-                    {[
-                        { id: 'all', label: t('res.filter.all') },
-                        { id: 'correct', label: t('res.filter.correct') },
-                        { id: 'unCorrect', label: t('res.filter.kv') }
-                    ].map(btn => (
-                        <button
-                            key={btn.id}
-                            onClick={() => setFilter(btn.id as any)}
-                            className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${filter === btn.id ? 'bg-primary text-primary-content shadow-md' : 'text-base-content/60 hover:bg-base-200'
-                                }`}
-                        >
-                            {btn.label}
-                        </button>
-                    ))}
+
+                {/* Card 2: Key Metrics */}
+                <div className="pro-card p-0 bg-base-100 flex flex-col md:col-span-1 overflow-hidden">
+                    <div className="p-4 border-b border-base-200 bg-base-50/50">
+                        <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/40 flex items-center gap-2">
+                            <Layout size={12} /> Execution Metrics
+                        </h3>
+                    </div>
+                    <div className="flex-1 grid grid-rows-3 divide-y divide-base-200">
+                        {/* Accuracy */}
+                        <div className="px-5 py-3 flex items-center justify-between hover:bg-base-50 transition-colors">
+                            <span className="text-xs font-bold text-base-content/60">Accuracy Rate</span>
+                            <div className="flex items-center gap-3">
+                                <div className="w-24 h-1.5 bg-base-200 rounded-full overflow-hidden">
+                                    <div className="h-full bg-primary rounded-full transition-all duration-1000" style={{ width: `${(scoreInfo.correctNums / scoreInfo.quizNums) * 100}%` }}></div>
+                                </div>
+                                <span className="text-xs font-black w-8 text-right">{((scoreInfo.correctNums / scoreInfo.quizNums) * 100).toFixed(0)}%</span>
+                            </div>
+                        </div>
+                        {/* Verified */}
+                        <div className="px-5 py-3 flex items-center justify-between hover:bg-base-50 transition-colors">
+                            <span className="text-xs font-bold text-base-content/60">Verified Responses</span>
+                            <span className="text-xs font-black text-base-content tabular-nums">
+                                {scoreInfo.correctNums} <span className="text-base-content/30">/ {scoreInfo.quizNums}</span>
+                            </span>
+                        </div>
+                        {/* Questions */}
+                        <div className="px-5 py-3 flex items-center justify-between hover:bg-base-50 transition-colors">
+                            <span className="text-xs font-bold text-base-content/60">Total Items</span>
+                            <span className="text-xs font-black text-base-content tabular-nums">{scoreInfo.quizNums}</span>
+                        </div>
+                    </div>
+                </div>
+
+                {/* Card 3: Distribution Chart */}
+                <div className="pro-card p-5 bg-base-100 flex flex-col">
+                    <div className="flex justify-between items-center mb-4">
+                        <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-base-content/40 flex items-center gap-2">
+                            <TrendingUp size={12} /> Distribution
+                        </h3>
+                    </div>
+                    <div className="flex-1 min-h-[120px]">
+                        <ResponsiveContainer width="100%" height="100%">
+                            <BarChart data={[
+                                { name: 'Score', val: scoreVal, fill: '#6366f1' },
+                                { name: 'Avg', val: 75, fill: '#e2e8f0' }, // Mock peer avg
+                                { name: 'Best', val: 100, fill: '#e2e8f0' }
+                            ]} barSize={24}>
+                                <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f1f5f9" />
+                                <XAxis dataKey="name" fontSize={10} fontWeight="bold" axisLine={false} tickLine={false} tick={{ fill: '#94a3b8' }} />
+                                <YAxis hide domain={[0, 100]} />
+                                <ReTooltip
+                                    cursor={{ fill: 'transparent' }}
+                                    contentStyle={{ borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)', fontSize: '12px', fontWeight: 'bold' }}
+                                />
+                                <Bar dataKey="val" radius={[4, 4, 0, 0]} />
+                            </BarChart>
+                        </ResponsiveContainer>
+                    </div>
                 </div>
             </div>
 
-            {/* Response Analysis viewport */}
-            <div className="space-y-6">
+            {/* 3. Detailed Breakdown */}
+            <div className="space-y-5">
+                {/* Toolbar */}
+                <div className="flex flex-col sm:flex-row justify-between items-center gap-4 border-b border-base-200 pb-2">
+                    <h3 className="text-lg font-black text-base-content tracking-tight flex items-center gap-2">
+                        <ShieldCheck size={18} className="text-primary" />
+                        Response Auditing
+                    </h3>
+
+                    <div className="bg-base-200/50 p-1 rounded-lg flex gap-1">
+                        {[
+                            { id: 'all', label: t('res.filter.all') },
+                            { id: 'correct', label: t('res.filter.correct') },
+                            { id: 'unCorrect', label: t('res.filter.kv') }
+                        ].map(btn => (
+                            <button
+                                key={btn.id}
+                                onClick={() => setFilter(btn.id as any)}
+                                className={`px-4 py-1.5 rounded-md text-[10px] font-black uppercase tracking-wider transition-all ${filter === btn.id ? 'bg-base-100 text-base-content shadow-sm' : 'text-base-content/40 hover:text-base-content/70'
+                                    }`}
+                            >
+                                {btn.label}
+                            </button>
+                        ))}
+                    </div>
+                </div>
+
+                {/* List View */}
                 {quizzes.length > 0 ? (
-                    <QuestionScroll
-                        quizzes={quizzes}
-                        userAnswers={uAns}
-                        correctAnswers={cAns}
-                        readOnly={true}
-                        showSolutions={true}
-                    />
+                    <div className="bg-base-100 rounded-2xl border border-base-200 p-1">
+                        <QuestionScroll
+                            quizzes={quizzes}
+                            userAnswers={uAns}
+                            correctAnswers={cAns}
+                            readOnly={true}
+                            showSolutions={true}
+                        />
+                    </div>
                 ) : (
-                    <div className="text-center py-32 pro-card space-y-4">
-                        <div className="w-16 h-16 bg-base-200 rounded-full flex items-center justify-center mx-auto text-base-content/20">
-                            <Filter size={32} />
+                    <div className="text-center py-24 border-2 border-dashed border-base-200 rounded-2xl space-y-3 bg-base-50/50">
+                        <div className="w-12 h-12 bg-base-200 rounded-xl flex items-center justify-center mx-auto text-base-content/20">
+                            <Filter size={20} />
                         </div>
-                        <p className="text-base-content/40 font-medium italic">No matches for current visibility profile</p>
+                        <p className="text-xs font-black text-base-content/30 uppercase tracking-widest">No matching records found</p>
                     </div>
                 )}
             </div>
-
-            {/* Quality Assurance footer - Removed Analytical Disclaimer */}
         </div >
     );
 };

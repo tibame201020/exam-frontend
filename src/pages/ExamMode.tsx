@@ -172,7 +172,7 @@ const ExamMode = () => {
     const progress = (answeredCount / totalCount) * 100;
 
     return (
-        <div className="max-w-7xl mx-auto space-y-8 fade-in">
+        <div className="max-w-7xl mx-auto space-y-6 fade-in">
             {/* Professional Command Center */}
             <div className="bg-base-100 p-4 rounded-2xl shadow-xl border border-base-300 flex flex-col md:flex-row justify-between items-center gap-6 sticky top-0 z-30 shadow-primary/5">
                 <div className="flex items-center gap-6">
